@@ -1,0 +1,41 @@
+body{
+    background-color:#444444;
+    color:white;
+    font-family:georgia;
+    text-align:center;
+    margin-left:0%;
+    margin-right:0%;
+    padding-bottom:4%;
+}
+
+div#banner{
+    width:100%;
+    height:auto;
+    margin-left:0px;
+    margin-right:0px;
+    margin-bottom:2%;
+    margin-top:0%;
+}
+
+img.banner{
+    width:100%;
+    min-width:586px;
+}
+
+h1{
+    color:#D45710;
+    padding-right:20%;
+    padding-left:20%;
+    font-weight:bold;
+    clear:both;
+}
+
+h2{
+    color:#FFED67;
+    clear:both;
+}
+
+h3{
+    color:#FFB581;
+    clear:both;
+}
