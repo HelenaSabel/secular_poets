@@ -46,8 +46,7 @@
             <projectDesc>
                 <p>
                     <ref target="http://iberian.obdurodon.org">
-                        <title>Mapping Medieval Galego-Português Literature and its
-                            Networks</title>
+                        <title>Mapping Medieval Galego-Português Literature and its Networks</title>
                     </ref>
                 </p>
             </projectDesc>
@@ -57,6 +56,32 @@
     <text>
         <body>
             <listPerson>
+                <person>
+                    <persName>A. Gomez</persName>
+                    <occupation>jograr</occupation>
+                    <affiliation>Sarria
+                        <geo>42.780116, -7.414307</geo></affiliation>
+                </person>
+                <person>
+                    <persName>Abril Perez</persName>
+                    <affiliation>Toroño</affiliation>
+                    <affiliation>Sousas</affiliation>
+                    <affiliation>Bernal de Bonaval</affiliation>
+                </person>
+                <person>
+                    <persName>Afonso Eanes do Coton</persName>
+                    <affiliation key="origem">Negreira</affiliation>
+                </person>
+                <person>
+                    <persName>Bernal de Bonaval</persName>
+                    <affiliation>Toroño</affiliation>
+                </person>
+                <person>
+                    <persName>Afonso Fernandes Cubel</persName>
+                    <affiliation>São Pedro de Arcos/Bertiandos</affiliation>
+                    <affiliation key="familia">Val do Lima</affiliation>
+                </person>
+
                 <person xml:id="NuRdzCan">
                     <persName>Nuno Rodriguez de Candarei</persName>
                     <nationality cert="high" key="gl">Galego</nationality>
@@ -92,7 +117,7 @@
                     </floruit>
                 </person>
 
-                <person sameAs="#JSrzSom">
+                <!--<person sameAs="#JSrzSom">
                     <persName>Johan Soarez Somesso <addName>(alternative ID)</addName></persName>
                     <nationality cert="low" key="pt">Português</nationality>
                     <birth cert="low">
@@ -106,9 +131,9 @@
                     <floruit from="1220" to="1230" period="2" cert="low">
                         <location corresp="#sobroso"/>
                     </floruit>
-                </person>
+                </person>-->
 
-                <person xml:id="JSrzSom">
+                <!--                <person xml:id="JSrzSom">
                     <persName>Johan Soarez Somesso</persName>
                     <nationality cert="low" key="gl">Galego</nationality>
                     <birth cert="low">
@@ -123,11 +148,10 @@
                         <location corresp="#sanchoI"/>
                         <location corresp="#dmartim"/>
                     </floruit>
-                </person>
+                </person>-->
 
                 <person sameAs="#JSrzSom">
-                    <persName>Johan Soarez Somesso <addName>(alternative ID)</addName>
-                    </persName>
+                    <persName>Johan Soarez Somesso</persName>
                     <nationality cert="low" key="gl">Galego</nationality>
                     <birth cert="low">
                         <location>
@@ -141,9 +165,34 @@
                         <location cert="unknown" type="unknown">
                             <placeName type="short">Unknown location</placeName>
                         </location>
+                        <affiliation key="familia">Fornelos <affiliation>Ribadavia</affiliation>
+                            <affiliation key="literario">Muimenta</affiliation>
+                        </affiliation>
+                        <affiliation key="propriedade">Tui</affiliation>
+                        <affiliation>Mosteiro de Fiães <affiliation>Lima</affiliation>
+                        </affiliation>
+                        <affiliation>Catedral de Tui</affiliation>
+                        <affiliation>Igreja Santa Cristina de Baleixe (Cañiza)</affiliation>
+                        <affiliation>Igreja Santa Euxenia de Setads (As Neves)</affiliation>
                     </floruit>
                 </person>
-
+                <person>
+                    <persName>Fernao Rodrigues de Calheiros</persName>
+                    <affiliation>Trava</affiliation>
+                    <affiliation>Gonzalez Eanes <affiliation>Osorio
+                        Eanes</affiliation></affiliation>
+                </person>
+                <person>
+                    <persName>Rodrigo Diaz dos Cameros</persName>
+                    <affiliation>Cameros</affiliation>
+                    <affiliation key="familia">Guiomar Rodriguez <affiliation key="familia"
+                            >Celanova</affiliation>
+                        <affiliation key="trava">Trava</affiliation>
+                        <affiliation>Mosteiro de Ferreira de Pantón</affiliation>
+                        <affiliation>Ferreira de Pallares</affiliation>
+                        <affiliation>Mosteiro de Alcobaça</affiliation>
+                    </affiliation>
+                </person>
                 <person xml:id="PaySrzTav">
                     <persName>Pai Soarez de Taveirós</persName>
                     <nationality cert="high" key="gl">Galego</nationality>
@@ -180,7 +229,15 @@
                         </location>
                     </floruit>
                 </person>
-
+                <person>
+                    <persName>Joao Romeu de Lugo</persName>
+                    <affiliation>Lugo</affiliation>
+                    <affiliation>Lopo Lias</affiliation>
+                </person>
+<person>
+    <persName>João Servando</persName>
+    <affiliation>Santa María de Barxeles (Limia)</affiliation>
+</person>
                 <person xml:id="AfLpzBay">
                     <persName>Alfonso Lopez de Baião</persName>
                     <nationality cert="high" key="pt">Português</nationality>
@@ -192,20 +249,24 @@
                     </birth>
                     <occupation key="tr">Trovador</occupation>
                     <socecStatus key="nb">Nobre</socecStatus>
-                    <floruit from="1246" to="1280" period="3">
+                    <floruit from="1246" to="1280" period="3"><!--
                         <location from="1245" to="1250" corresp="#jaen"/>
-                        <location from="1251" to="1280" corresp="#sousa"/>
+                        <location from="1251" to="1280" corresp="#sousa"/>-->
+                        <affiliation key="literaria">Mosteiro de Arouca</affiliation>
                     </floruit>
                 </person>
-
-                <person xml:id="EstFai">
+                <person>
+                    <persName>Afonso Mendes de Besteiros</persName>
+                    <affiliation key="familia">São Cosme de Besteiros</affiliation>
+                </person>
+                <!--                <person xml:id="EstFai">
                     <persName>Estevan Faian</persName>
                     <nationality cert="low" key="cas">Castelão</nationality>
                     <birth>
-                        <location cert="unknown">
+<!-\-                        <location cert="unknown">
                             <placeName>Leon</placeName>
                             <geo>42.5,-5.6</geo>
-                        </location>
+                        </location>-\->
                     </birth>
                     <occupation key="tr">Trovador</occupation>
                     <socecStatus key="kn">Cavaleiro</socecStatus>
@@ -213,8 +274,13 @@
                         <location cert="low" corresp="#jaen"/>
                         <location cert="medium" corresp="#afonsX"/>
                     </floruit>
-                </person>
+                </person>-->
 
+                <person>
+                    <persName>Estevao Peres de Froiao</persName>
+                    <affiliation>Froiao</affiliation>
+                    <affiliation>Sancho IV</affiliation>
+                </person>
                 <person xml:id="FerPad">
                     <persName>Fernan Padron</persName>
                     <nationality cert="medium" key="gl">Galego</nationality>
@@ -226,31 +292,13 @@
                     </birth>
                     <occupation key="tr">Trovador</occupation>
                     <socecStatus key="kn">Cavaleiro</socecStatus>
-                    <floruit from="1250" to="1275" period="3" cert="medium">
+                    <!--<!-\- <floruit from="1250" to="1275" period="3" cert="medium">-\->
                         <location cert="unknown" type="unknown">
                             <placeName type="short">Unknown location</placeName>
                         </location>
-                    </floruit>
+                    <!-\-</floruit>-\->-->
                 </person>
 
-                <person sameAs="#FerPad">
-                    <persName>Fernan Padron <addName>(alternative ID)</addName>
-                    </persName>
-                    <nationality cert="medium" key="gl">Galego</nationality>
-                    <birth>
-                        <location cert="unknown">
-                            <placeName>Padrón</placeName>
-                            <geo>42.738587,-8.659817</geo>
-                        </location>
-                    </birth>
-                    <occupation key="tr">Trovador</occupation>
-                    <socecStatus key="kn">Cavaleiro</socecStatus>
-                    <floruit from="1190" to="1230" period="1" cert="low">
-                        <location cert="unknown" type="unknown">
-                            <placeName type="short">Unknown location</placeName>
-                        </location>
-                    </floruit>
-                </person>
 
                 <person xml:id="MartMo">
                     <persName>Martin Moxa</persName>
@@ -300,13 +348,19 @@
                     <floruit from="1170" to="1200" period="1">
                         <!--<location corresp="#afonsII"/>-->
                     </floruit>
-                    <affiliation>Mosteiro de Paço de Sousa <!--<affiliation>Egas Moniz</affiliation>-->
+                    <affiliation>Mosteiro de Paço de Sousa
+                        <!--<affiliation>Egas Moniz</affiliation>-->
                     </affiliation>
                     <affiliation>Castelo de Paiva</affiliation>
                     <affiliation>Família Velaz</affiliation>
                     <affiliation>Família Cabrera</affiliation>
                 </person>
-
+<person>
+    <persName>Joao Velho de Pedrogaez</persName>
+    <affiliation>Forjães</affiliation>
+    <affiliation>Velhos</affiliation>
+    <affiliation>Viana do Castelo</affiliation>
+</person>
                 <person xml:id="MartSrz">
                     <persName>Martin Soarez</persName>
                     <nationality cert="high" key="pt">Português</nationality>
@@ -336,6 +390,7 @@
                     <floruit from="1190" to="1230" period="1">
                         <location corresp="#rodeiro"/>
                     </floruit>
+                    <affiliation>Cornado</affiliation>
                 </person>
 
                 <person xml:id="NuFdzTor">
@@ -367,8 +422,8 @@
                     <socecStatus key="nb">Nobre</socecStatus>
                     <occupation key="tr">Trovador</occupation>
                     <floruit from="1220" to="1250" period="2">
-                        <location from="1220" to="1238" corresp="#sousa"/>
-                        <location corresp="#jaen" from="1239" to="1245"/>
+                        <location from="1220" to="1238" corresp="#sousa"/>a <location
+                            corresp="#jaen" from="1239" to="1245"/>
                         <location from="1246" to="1250" corresp="#afonsIII"/>
                     </floruit>
                 </person>
@@ -416,6 +471,7 @@
                             <placeName>Ribadouro</placeName>
                             <geo>41.098333,-8.076944</geo>
                         </location>
+                        <affiliation>Cinfães</affiliation>
                     </birth>
                     <socecStatus key="nb">Nobre</socecStatus>
                     <occupation key="tr">Trovador</occupation>
@@ -442,7 +498,12 @@
                         <location corresp="#afonsX"/>
                     </floruit>
                 </person>
-
+                <person>
+                    <persName>Afonso Paez de Braga</persName>
+                    <affiliation>Braga</affiliation>
+                    <affiliation key="proprieda">Fermentões e Silvares
+                        (Braga-Guimarães)</affiliation>
+                </person>
                 <person xml:id="JLpzUlh">
                     <persName>Johan Lopez de Ulhoa</persName>
                     <nationality key="gl" cert="high">Galego</nationality>
@@ -464,7 +525,7 @@
                     <nationality key="pt" cert="medium">Português</nationality>
                     <birth>
                         <location>
-                            <placeName>Vinahis, Trás-os-Montes</placeName>
+                            <placeName>Vinhais, Trás-os-Montes (Brahança)</placeName>
                             <geo>41.832233,-7.006722</geo>
                         </location>
                     </birth>
@@ -509,7 +570,21 @@
                         <location corresp="#afonsIII" from="1253" to="1265"/>
                     </floruit>
                 </person>
-
+<person>
+    <persName>Requeixo</persName>
+    <affiliation>Requeixo, Chantada</affiliation>
+    <affiliation>Faro</affiliation>
+</person>
+                <person>
+                    <persName>Joao Lobeira</persName>
+                    <affiliation key="familia">Guimarães</affiliation>
+                    <affiliation>Lobeira</affiliation>
+                </person>
+                <person>
+                    <persName>Joao Lopes de Ulloa</persName>
+                    <affiliation key="familia">Ulloa, Terra de Monterroso</affiliation>
+                    <affiliation>Extremadura portuguesa</affiliation>
+                </person>
                 <person xml:id="JVqzTal">
                     <persName>Johan Vasquis de Talaveira</persName>
                     <nationality cert="medium" key="cas">Castelão</nationality>
@@ -557,7 +632,37 @@
                         <location corresp="#vigo"/>
                     </floruit>
                 </person>
-
+                <person>
+                    <persName>Martim de Ginzo</persName>
+                    <affiliation>Ginzo (Ponteareas)</affiliation>
+                </person>
+                <person>
+                    <persName>Martim de Padrozelos</persName>
+                    <affiliation>Praduzelos
+                        <geo>42.33,-7.5095</geo>
+                    </affiliation>
+                    <affiliation>Mosteiro de Montederramo
+                        <geo>42.274503,-7.501944</geo>
+                    </affiliation>
+                </person>
+                <person>
+                    <persName>João Airas de Santiago</persName>
+                </person>
+                <person>
+                    <persName>João de Aboim</persName>
+                    <affiliation>Aboim da Nóbrega</affiliation>
+                    <affiliation>Alfonso III</affiliation>
+                    <affiliation>Senhor de Portel</affiliation>
+                </person>
+                <person>
+                    <persName>Johan de Cangas</persName>
+                    <affiliation>San Mamemede do Mar</affiliation>
+                </person>
+                <person>
+                    <persName>Johan de Gaia</persName>
+                    <affiliation>Gaia</affiliation>
+                    <affiliation key="mecenas">Família Maia</affiliation>
+                </person>
                 <person xml:id="Den">
                     <persName>Dom Dinis</persName>
                     <nationality key="pt" cert="high">Português</nationality>
@@ -605,10 +710,26 @@
                         <location corresp="#afonsX"/>
                     </floruit>
                 </person>
-
+                <person>
+                    <persName>Gil Peres Conde</persName>
+                    <affiliation ana="#AfonsX"/>
+                </person>
+                <person>
+                    <persName>Gil Sanchez</persName>
+                    <affiliation key="familia">Sancho I</affiliation>
+                    <affiliation key="propriedade">Covilhã</affiliation>
+                    <affiliation key="propriedade">Castelo Branco</affiliation>
+                    <affiliation key="familia">Maria Paez Ribeira (Ribeirinha)</affiliation>
+                    <affiliation>Sao Miguel de Laundos (Póvoa de Varzim)</affiliation>
+                    <affiliation>Vila do Conde</affiliation>
+                </person>
+                <person>
+                    <persName>Garcia Soarez</persName>
+                    <affiliation>Sao Miguel da Ribeira ou Riberadio (Lafões)</affiliation>
+                    <affiliation key="familia">Martin Soarez</affiliation>
+                </person>
                 <person xml:id="BonGen">
-                    <persName>Bonifaci Calvo <addName>(Bonifaz de Genua)</addName>
-                    </persName>
+                    <persName>Bonifaci Calvo</persName>
                     <nationality key="it" cert="medium">Genovese</nationality>
                     <birth>
                         <location>
@@ -692,9 +813,27 @@
                     <floruit from="1290" to="1315" period="3">
                         <location corresp="#soesto"/>
                     </floruit>
+                    <affiliation>San Martin de Jubia</affiliation>
                 </person>
-
-
+                <person>
+                    <persName>Golparro</persName>
+                    <affiliation>Tui</affiliation>
+                </person>
+                <person>
+                    <persName>Fernao do Lago</persName>
+                    <affiliation>Rubiáns</affiliation>
+                </person>
+                <person>
+                    <persName>Fernão Fernandes Cogominho</persName>
+                    <affiliation key="origem">Chaves</affiliation>
+                    <affiliation>Coimbra</affiliation>
+                    <affiliation key="familia">Guedões</affiliation>
+                    <affiliation>Afonso III</affiliation>
+                </person>
+                <person>
+                    <persName>Fernão Figueira (ou Figueiró)</persName>
+                    <affiliation>Lemos</affiliation>
+                </person>
                 <person xml:id="PPort">
                     <persName>Pedro de Portugal, Conde de Barcelos</persName>
                     <nationality key="pt" cert="high">Português</nationality>
@@ -728,10 +867,17 @@
                     <occupation key="tr">Trovador</occupation>
                     <floruit from="1320" to="1350" period="4">
                         <location corresp="#dinis" from="1320" to="1325"/>
-                        <location corresp="#afonsIV" from="1326" to="1350"/>
                     </floruit>
+                    <affiliation>Conde de Barcelos</affiliation>
                 </person>
-
+                <person>
+                    <persName>Estevan Reimondo</persName>
+                    <affiliation key="familia">Porto Carreiro</affiliation>
+                </person>
+                <person>
+                    <persName>Estevan Travanca</persName>
+                    <affiliation>Travanca</affiliation>
+                </person>
                 <person xml:id="Johan">
                     <persName>Johan, jograr morador en León</persName>
                     <nationality key="leo" cert="medium">Leonês</nationality>
@@ -755,8 +901,8 @@
                     <nationality key="pt" cert="high">Português</nationality>
                     <birth>
                         <location>
-                            <placeName>Cerva</placeName>
-                            <geo>41.4725,-7.846667</geo>
+                            <placeName>Lumiar</placeName>
+                            <geo/>
                         </location>
                     </birth>
                     <socecStatus key="nb">Nobre</socecStatus>
@@ -765,6 +911,7 @@
                         <location corresp="#dinis" from="1289" to="1323"/>
                         <location from="1324" to="1328" corresp="#alburquerque"/>
                     </floruit>
+                    <affiliation key="propriedade">Santa Clara de Vila do Conde</affiliation>
                 </person>
 
 
@@ -849,14 +996,38 @@
                     </birth>
                     <socecStatus key="nb">Nobre</socecStatus>
                     <occupation key="tr">Trovador</occupation>
-                    <floruit from="1190" to="1239" period="1">
+                    <floruit from="1190" to="1239" period="1"><!--
                         <location corresp="#sanchoI" from="1190" to="1211"/>
                         <location corresp="#afonsIX" from="1212" to="1217"/>
-                        <location corresp="#afonsII" from="1218" to="1224"/>
+                        <location corresp="#afonsII" from="1218" to="1224"/>-->
                         <location corresp="#sousa" from="1225" to="1239"/>
                     </floruit>
+                    <affiliation key="literario">Toroño</affiliation>
+                    <affiliation key="familia">Gonzalo Garcia</affiliation>
+                    <affiliation key="familia">Fernando Garcia d' Esgaravunha</affiliation>
                 </person>
-
+                <person>
+                    <persName>Pedro Rodríguez da Palmeira</persName>
+                    <affiliation>Trava</affiliation>
+                    <affiliation>Pereira (Portugal) <affiliation>Paço de VilaNova de
+                        </affiliation></affiliation>
+                </person>
+                <person>
+                    <persName>Gonzalo Garcia</persName>
+                    <affiliation>Sousa</affiliation>
+                </person>
+                <person>
+                    <persName>D. Juião</persName>
+                    <affiliation>D. Cotalana</affiliation>
+                    <affiliation>Afonso IX</affiliation>
+                    <socecStatus>Clérigo</socecStatus>
+                    <socecStatus>Burguês</socecStatus>
+                    <affiliation>San Miguel dos Agros</affiliation>
+                    <affiliation>
+                        <affiliation>Velaz</affiliation>
+                        <affiliation>Osoiro Eanes</affiliation>
+                    </affiliation>
+                </person>
 
                 <person xml:id="OsEa">
                     <persName>Osoir' Anes</persName>
@@ -880,7 +1051,7 @@
                     <nationality key="gl" cert="high">Galego</nationality>
                     <birth>
                         <location>
-                            <placeName>Tamallancos</placeName>
+                            <placeName>Tamalhancos</placeName>
                             <geo>42.425060,-7.903228</geo>
                         </location>
                     </birth>
@@ -890,8 +1061,32 @@
                         <location corresp="#traba"/>
                     </floruit>
                     <affiliation>Trava</affiliation>
+                    <affiliation key="administrativo">Búval</affiliation>
+                    <affiliation key="proprietario">Cangas do Morrazo</affiliation>
+                    <affiliation key="literario">Mosteiro de Dormeá (Boimorto,
+                        Corunha)</affiliation>
                 </person>
-
+                <person>
+                    <persName>Lopo Lias</persName>
+                    <affiliation key="literario">Orzellon</affiliation>
+                    <affiliation key="literario">Babuim, Sobral (Mogor)</affiliation>
+                    <affiliation>Airas Moniz</affiliation>
+                    <affiliation>Afonso IX</affiliation>
+                </person>
+                <person>
+                    <persName>Airas Moniz</persName>
+                    <affiliation>Asma</affiliation>
+                    <affiliation key="familia" cert="medium">Diego Moniz</affiliation>
+                </person>
+                <person>
+                    <persName>Diego Moniz</persName>
+                    <affiliation>Asma</affiliation>
+                </person>
+                <person>
+                    <persName>Nuno Eanes Cércio</persName>
+                    <affiliation key="origem">Cércio (Lalim)</affiliation>
+                    <affiliation>Búval</affiliation>
+                </person>
                 <person xml:id="MonFdzMir">
                     <persName>Nuno (Monio) Fernandez de Mirapeixe</persName>
                     <nationality key="gl" cert="medium">Galego</nationality>
@@ -938,6 +1133,7 @@
                             <placeName type="short">Oseira</placeName>
                             <geo>42.538597,-7.950980</geo>
                         </location>
+                        <affiliation>Santa Maria de Aziveiro</affiliation>
                     </floruit>
                 </person>
 
@@ -967,6 +1163,9 @@
                             <geo>41.5,-8.42</geo>
                         </location>
                     </birth>
+                    <affiliation>Briteiros</affiliation>
+                    <affiliation key="familia">Rui Gomes</affiliation>
+                    <affiliation key="familia">Mem Rodrigues</affiliation>
                     <socecStatus key="nb">Nobre</socecStatus>
                     <occupation key="tr">Trovador</occupation>
                     <floruit from="1225" to="1250" period="2">
@@ -974,8 +1173,15 @@
                         <location corresp="#afonsIII" from="1245" to="1250"/>
                     </floruit>
                 </person>
-
-
+                <person>
+                    <affiliation>Mem Rodrigues</affiliation>
+                    <affiliation>Briteiros</affiliation>
+                </person>
+                <person>
+                    <affiliation>Joao Mendes Briteiros</affiliation>
+                    <affiliation>Briteiros</affiliation>
+                    <affiliation ana="#afonsIII"></affiliation>
+                </person>
                 <person xml:id="PGarAm">
                     <persName>Pero Garcia d' Ambroa</persName>
                     <nationality key="gl" cert="medium">Galego</nationality>
@@ -1024,6 +1230,7 @@
                     <floruit from="1242" to="1284" period="3">
                         <location corresp="#afonsX"/>
                     </floruit>
+                    <affiliation/>
                 </person>
 
 
@@ -1159,7 +1366,18 @@
                     <occupation key="tr">Trovador</occupation>
                     <floruit from="1325" to="1350" period="4">
                         <location corresp="#afonsXI"/>
+                        <affiliation>Sevilla</affiliation>
                     </floruit>
+                </person>
+                <person>
+                    <persName>Airas Paez</persName>
+                    <affiliation>Santa Maria de Reça</affiliation>
+                </person>
+                <person>
+                    <persName>Airas Perez </persName>
+                    <affiliation>Terras do Deza</affiliation>
+                    <affiliation>Vila Nova de Dozón</affiliation>
+                    <affiliation>Acebeiro</affiliation>
                 </person>
 
                 <person xml:id="GmzGar">
@@ -1192,7 +1410,7 @@
                         <affiliation ana="#OsEa"/>
                         <affiliation ana="#PaySrzTav"/>
                         <affiliation ana="#JSrzSom"/>
-                        <!--<affiliation>Marinho</affiliation>-->
+                        <!--<affiliation>Martim Ares Marinho</affiliation>-->
                         <affiliation ana="#FerPad"/>
                     </affiliation>
                     <affiliation key="familia" ana="#vlz"/>
@@ -1202,8 +1420,7 @@
                     <affiliation>Mosteiro de Meira (entre Lugo e Ribadeu) <affiliation>Castro de
                             Rei</affiliation>
                     </affiliation>
-                    <affiliation key="familia">Maria Fernandes de Trava
-                            <affiliation ana="#trava"/>
+                    <affiliation key="familia">Maria Fernandes de Trava <affiliation ana="#trava"/>
                         <affiliation ana="#sc"/>
                     </affiliation>
                     <affiliation>Mosteiro de San Tirso</affiliation>
@@ -1244,7 +1461,11 @@
                     <affiliation>Santa Maria de Alom (Santa Comba) <affiliation>Arias
                             Carpancho</affiliation>
                     </affiliation>
+                    <affiliation>D. Maior Peres</affiliation>
                 </person>
+                
+                <person></person>
+                
                 <person>
                     <persName>Lopo Lias</persName>
                     <affiliation>Santiago de Compostela</affiliation>
@@ -1254,202 +1475,210 @@
                     <affiliation>Mosteiro de Oseira</affiliation>
                     <affiliation key="family" ana="#OsEa"/>
                     <affiliation key="family">Pero Pais Bazaco</affiliation>
+
                 </person>
                 <person>
                     <persName>Pero Pais Bazaco</persName>
                     <affiliation>Mosteiro de Oseira</affiliation>
                     <affiliation>Vilanova de Dozom</affiliation>
-                </person>
-                <person>
-                    <persName>Tamalhancos</persName>
+                    <affiliation>D. Múnio Fernandes de Rodeiro</affiliation>
+                    <affiliation>D. Maior Peres</affiliation>
                 </person>
             </listPerson>
         </body>
-        <back><listPlace>
-            <place xml:id="alburquerque" type="noble">
-                <location>
-                    <placeName type="full">Afonso Sanchez's court in exile</placeName>
-                    <placeName type="short">Afonso Sanchez</placeName>
-                    <geo>39.216667,-7</geo>
-                </location>
-            </place>
-            <place xml:id="sobroso" type="noble">
-                <location>
-                    <placeName type="short">The Soverosas</placeName>
-                    <placeName type="full">Family Soverosas' Court</placeName>
-                    <geo>42.206017,-8.463789</geo>
-                </location>
-            </place>
-            <place xml:id="sanchoI" type="royal">
-                <location>
-                    <placeName type="short">Sancho I</placeName>
-                    <placeName type="full">Court of Sancho I, King of Portugal</placeName>
-                    <geo>40.24,-8.47</geo>
-                </location>
-            </place>
-            <place xml:id="traba" type="noble">
-                <location>
-                    <placeName type="short">The Trabas</placeName>
-                    <placeName type="full">Family Traba Court</placeName>
-                    <geo>42.063,-7.71765</geo>
-                </location>
-            </place>
-            <place xml:id="dmartim" type="noble">
-                <location>
-                    <placeName type="short">Martim Sanches</placeName>
-                    <placeName type="full">Court of Martim Sanches, Count of Trastámara</placeName>
-                    <geo>42.062991,-7.717664</geo>
-                </location>
-            </place>
-            <place xml:id="soesto" type="noble">
-                <location>
-                    <placeName type="short">Rodrigo Gómez</placeName>
-                    <placeName type="full">Court of Rodrigo Gómez de Trastámara</placeName>
-                    <geo>43.65,-7.583333</geo>
-                </location>
-            </place>
-            <place xml:id="jaen" type="royal">
-                <location>
-                    <placeName type="short">Ferdinand III</placeName>
-                    <placeName type="full">Court of Ferdinand III of Castile</placeName>
-                    <geo>37.765406,-3.790256</geo>
-                </location>
-            </place>
-            <place xml:id="haro" type="noble">
-                <location>
-                    <placeName type="short">Lope Díaz de Haro</placeName>
-                    <placeName type="full">Court of Lope Díaz I de Haro</placeName>
-                    <geo>42.6,-2.8</geo>
-                </location>
-            </place>
-            <place xml:id="meneses" type="noble">
-                <location>
-                    <placeName type="short">Telo Afonso de Meneses</placeName>
-                    <placeName type="full">Court of Telo Afonso de Meneses</placeName>
-                    <geo>41.941667,-4.92</geo>
-                </location>
-            </place>
-            <place xml:id="bragança" type="noble">
-                <location>
-                    <placeName type="short">Bragança</placeName>
-                    <placeName type="full">Bragança</placeName>
-                    <geo>41.807517,-6.756857</geo>
-                </location>
-            </place>
-            <place xml:id="afonsX" type="royal">
-                <location>
-                    <placeName type="short">Alfonso X</placeName>
-                    <placeName type="full">Court of Alfonso X, King of Castile, Leon and Galicia</placeName>
-                    <geo>41.652032,-4.728216</geo>
-                </location>
-            </place>
-            <place xml:id="afonsII" type="royal">
-                <location>
-                    <placeName type="short">Alfonso II</placeName>
-                    <placeName type="full">Court of Alfonso II of Aragon, King of Aragon and Count of Barcelona</placeName>
-                    <geo>41.650192,-0.883533</geo>
-                </location>
-            </place>
-            
-            <place xml:id="rodeiro" type="noble">
-                <location>
-                    <placeName type="short">Múnio de Rodeiro</placeName>
-                    <placeName type="full">Circle of D. Múnio de Rodeiro</placeName>
-                    <geo>42.65,-7.95</geo>
-                </location>
-            </place>
-            <place xml:id="afonsIII" type="royal">
-                <location>
-                    <placeName type="short">Afonso III</placeName>
-                    <placeName type="full">Court of Afonso III, King of Portugal</placeName>
-                    <geo>40.26,-8.46</geo>
-                </location>
-            </place>
-            <place xml:id="sanchoII" type="royal">
-                <location>
-                    <placeName type="short">Sancho II</placeName>
-                    <placeName type="full">Court of Sancho II, King of Portugal</placeName>
-                    <geo>40.25,-8.45</geo>
-                </location>
-            </place>
-            <place xml:id="serpa" type="noble">
-                <location>
-                    <placeName type="short">Fernado de la Serpa</placeName>
-                    <placeName type="full">Court of D. Fernado de la Serpa</placeName>
-                    <geo>38.570833,-7.909444</geo>
-                </location>
-            </place>
-            <place xml:id="sousa" type="noble">
-                <location>
-                    <placeName type="short">The Sousas</placeName>
-                    <placeName type="full">Court of D. Gonçalo Garcia de Sousa</placeName>
-                    <geo>41.087778,-8.520278</geo>
-                </location>
-            </place>
-            <place xml:id="sanchoIV" type="royal">
-                <location>
-                    <placeName type="short">Sancho IV</placeName>
-                    <placeName type="full">Court of Sancho IV</placeName>
-                    <geo>39.856667,-4.024444</geo>
-                </location>
-            </place>
-            <place xml:id="vigo" type="unknown">
-                <location>
-                    <placeName type="short">Vigo</placeName>
-                    <placeName type="full">Vigo</placeName>
-                    <geo>42.223078,-8.731278</geo>
-                </location>
-            </place>
-            <place xml:id="dinis" type="royal">
-                <location>
-                    <placeName type="short">D. Dinis</placeName>
-                    <placeName type="full">Court of King Denis of Portugal</placeName>
-                    <geo>38.7167,-9.1334</geo>
-                </location>
-            </place>
-            <place xml:id="afonsIV" type="royal">
-                <location>
-                    <placeName type="short">Afonso IV</placeName>
-                    <placeName type="full">Court of Afonso IV</placeName>
-                    <geo>38.716667,-9.133333</geo>
-                </location>
-            </place>
-            <place xml:id="lalim" type="noble">
-                <location>
-                    <placeName type="short">Count of Barcelos</placeName>
-                    
-                    <placeName type="full">Court of Pedro Afonso, Count of Barcelos</placeName>
-                    <geo>41.033333,-7.816667</geo>
-                </location>
-            </place>
-            <place xml:id="afonsXI" type="royal">
-                <location>
-                    <placeName type="short">Alfonso XI</placeName>
-                    <placeName type="full">Court of Alfonso XI</placeName>
-                    <geo>41.7,-4.8</geo>
-                </location>
-            </place>
-            <place xml:id="afonsIX" type="royal">
-                <location>
-                    <placeName type="short">Alfonso IX</placeName>
-                    <placeName type="full">Court of Alfonso IX of León</placeName>
-                    <geo>42.600636,-5.570956</geo>
-                </location>
-            </place>
-            <place xml:id="infpedro" type="noble">
-                <location>
-                    <placeName type="short">Infante Pedro</placeName>
-                    <placeName type="full">Court of Infante Pedro, Duke of Coimbra</placeName>
-                    <geo>38.716667,-9.133333</geo>
-                </location>
-            </place>
-            <place xml:id="berenguer" type="noble">
-                <location>
-                    <placeName type="short">Raimon Berenguer IV</placeName>
-                    <placeName type="full">Court of Raimon Berenguer IV, Count of Provence</placeName>
-                    <geo>43.526304,5.445429</geo>
-                </location>
-            </place>
-        </listPlace></back>
+        <back>
+            <listPlace>
+                <place xml:id="alburquerque" type="noble">
+                    <location>
+                        <placeName type="full">Afonso Sanchez's court in exile</placeName>
+                        <placeName type="short">Afonso Sanchez</placeName>
+                        <geo>39.216667,-7</geo>
+                    </location>
+                </place>
+                <place xml:id="sobroso" type="noble">
+                    <location>
+                        <placeName type="short">The Soverosas</placeName>
+                        <placeName type="full">Family Soverosas' Court</placeName>
+                        <geo>42.206017,-8.463789</geo>
+                    </location>
+                </place>
+                <place xml:id="sanchoI" type="royal">
+                    <location>
+                        <placeName type="short">Sancho I</placeName>
+                        <placeName type="full">Court of Sancho I, King of Portugal</placeName>
+                        <geo>40.24,-8.47</geo>
+                    </location>
+                </place>
+                <place xml:id="traba" type="noble">
+                    <location>
+                        <placeName type="short">The Trabas</placeName>
+                        <placeName type="full">Family Traba Court</placeName>
+                        <geo>42.063,-7.71765</geo>
+                    </location>
+                </place>
+                <place xml:id="dmartim" type="noble">
+                    <location>
+                        <placeName type="short">Martim Sanches</placeName>
+                        <placeName type="full">Court of Martim Sanches, Count of
+                            Trastámara</placeName>
+                        <geo>42.062991,-7.717664</geo>
+                    </location>
+                </place>
+                <place xml:id="soesto" type="noble">
+                    <location>
+                        <placeName type="short">Rodrigo Gómez</placeName>
+                        <placeName type="full">Court of Rodrigo Gómez de Trastámara</placeName>
+                        <geo>43.65,-7.583333</geo>
+                    </location>
+                </place>
+                <place xml:id="jaen" type="royal">
+                    <location>
+                        <placeName type="short">Ferdinand III</placeName>
+                        <placeName type="full">Court of Ferdinand III of Castile</placeName>
+                        <geo>37.765406,-3.790256</geo>
+                    </location>
+                </place>
+                <place xml:id="haro" type="noble">
+                    <location>
+                        <placeName type="short">Lope Díaz de Haro</placeName>
+                        <placeName type="full">Court of Lope Díaz I de Haro</placeName>
+                        <geo>42.6,-2.8</geo>
+                    </location>
+                </place>
+                <place xml:id="meneses" type="noble">
+                    <location>
+                        <placeName type="short">Telo Afonso de Meneses</placeName>
+                        <placeName type="full">Court of Telo Afonso de Meneses</placeName>
+                        <geo>41.941667,-4.92</geo>
+                    </location>
+                </place>
+                <place xml:id="bragança" type="noble">
+                    <location>
+                        <placeName type="short">Bragança</placeName>
+                        <placeName type="full">Bragança</placeName>
+                        <geo>41.807517,-6.756857</geo>
+                    </location>
+                </place>
+                <place xml:id="afonsX" type="royal">
+                    <location>
+                        <placeName type="short">Alfonso X</placeName>
+                        <placeName type="full">Court of Alfonso X, King of Castile, Leon and
+                            Galicia</placeName>
+                        <geo>41.652032,-4.728216</geo>
+                    </location>
+                </place>
+                <place xml:id="afonsII" type="royal">
+                    <location>
+                        <placeName type="short">Alfonso II</placeName>
+                        <placeName type="full">Court of Alfonso II of Aragon, King of Aragon and
+                            Count of Barcelona</placeName>
+                        <geo>41.650192,-0.883533</geo>
+                    </location>
+                </place>
+
+                <place xml:id="rodeiro" type="noble">
+                    <location>
+                        <placeName type="short">Múnio de Rodeiro</placeName>
+                        <affiliation>Lima</affiliation>
+                        <placeName type="full">Circle of D. Múnio de Rodeiro</placeName>
+                        <geo>42.65,-7.95</geo>
+                    </location>
+                </place>
+                <place xml:id="afonsIII" type="royal">
+                    <location>
+                        <placeName type="short">Afonso III</placeName>
+                        <placeName type="full">Court of Afonso III, King of Portugal</placeName>
+                        <geo>40.26,-8.46</geo>
+                    </location>
+                </place>
+                <place xml:id="sanchoII" type="royal">
+                    <location>
+                        <placeName type="short">Sancho II</placeName>
+                        <placeName type="full">Court of Sancho II, King of Portugal</placeName>
+                        <geo>40.25,-8.45</geo>
+                    </location>
+                </place>
+                <place xml:id="serpa" type="noble">
+                    <location>
+                        <placeName type="short">Fernado de la Serpa</placeName>
+                        <placeName type="full">Court of D. Fernado de la Serpa</placeName>
+                        <geo>38.570833,-7.909444</geo>
+                    </location>
+                </place>
+                <place xml:id="sousa" type="noble">
+                    <location>
+                        <placeName type="short">The Sousas</placeName>
+                        <placeName type="full">Court of D. Gonçalo Garcia de Sousa</placeName>
+                        <geo>41.300088,-8.3028088</geo>
+                    </location>
+                </place>
+                <place xml:id="sanchoIV" type="royal">
+                    <location>
+                        <placeName type="short">Sancho IV</placeName>
+                        <placeName type="full">Court of Sancho IV</placeName>
+                        <geo>39.856667,-4.024444</geo>
+                    </location>
+                </place>
+               
+                <place xml:id="vigo" type="unknown">
+                    <location>
+                        <placeName type="short">Vigo</placeName>
+                        <placeName type="full">Vigo</placeName>
+                        <geo>42.223078,-8.731278</geo>
+                    </location>
+                </place>
+                <place xml:id="dinis" type="royal">
+                    <location>
+                        <placeName type="short">D. Dinis</placeName>
+                        <placeName type="full">Court of King Denis of Portugal</placeName>
+                        <geo>38.7167,-9.1334</geo>
+                    </location>
+                </place>
+                <place xml:id="afonsIV" type="royal">
+                    <location>
+                        <placeName type="short">Afonso IV</placeName>
+                        <placeName type="full">Court of Afonso IV</placeName>
+                        <geo>38.716667,-9.133333</geo>
+                    </location>
+                </place>
+                <place xml:id="lalim" type="noble">
+                    <location>
+                        <placeName type="short">Count of Barcelos</placeName>
+
+                        <placeName type="full">Court of Pedro Afonso, Count of Barcelos</placeName>
+                        <geo>41.033333,-7.816667</geo>
+                    </location>
+                </place>
+                <place xml:id="afonsXI" type="royal">
+                    <location>
+                        <placeName type="short">Alfonso XI</placeName>
+                        <placeName type="full">Court of Alfonso XI</placeName>
+                        <geo>41.7,-4.8</geo>
+                    </location>
+                </place>
+                <place xml:id="afonsIX" type="royal">
+                    <location>
+                        <placeName type="short">Alfonso IX</placeName>
+                        <placeName type="full">Court of Alfonso IX of León</placeName>
+                        <geo>42.600636,-5.570956</geo>
+                    </location>
+                </place>
+                <place xml:id="infpedro" type="noble">
+                    <location>
+                        <placeName type="short">Infante Pedro</placeName>
+                        <placeName type="full">Court of Infante Pedro, Duke of Coimbra</placeName>
+                        <geo>38.716667,-9.133333</geo>
+                    </location>
+                </place>
+                <place xml:id="berenguer" type="noble">
+                    <location>
+                        <placeName type="short">Raimon Berenguer IV</placeName>
+                        <placeName type="full">Court of Raimon Berenguer IV, Count of
+                            Provence</placeName>
+                        <geo>43.526304,5.445429</geo>
+                    </location>
+                </place>
+            </listPlace>
+        </back>
     </text>
 </TEI>
