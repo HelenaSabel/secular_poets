@@ -9,6 +9,8 @@
         <script src="JavaScript/menu.js" type="text/javascript">/**/</script>
         <script type="text/javascript" src="JavaScript/sorttable.js">/**/</script>
         <script src="JavaScript/language.js" type="text/javascript">/**/</script>
+        <script src="http://bigspotteddog.github.io/ScrollToFixed/jquery-scrolltofixed.js" type="text/javascript">/**/</script>
+        <script src="JavaScript/sidebar.js" type="text/javascript">/**/</script>
     </head>
     <body>
         <!--#include virtual="SSI/initials.html" -->
@@ -6942,8 +6944,9 @@
                         </tbody>
                     </table>
                 </div>
-                <div class="rightSide gl">
-                    <div class="move"><h3>Conteúdos</h3>
+                <div class="rightSide" id="move">
+                    <div class="gl">
+                        <h3>Conteúdos</h3>
                         <p>Táboas com os resultados de apenas catro cantigas
                                 (<em>A</em>1,<em>B</em>91&#8211;<em>A</em>4,<em>B</em>94)</p>
                         <ul>
@@ -6953,10 +6956,10 @@
                             </li>
                             <li><a href="#error">Erros de cópia</a>
                             </li>
-                        </ul></div>
-                </div>
-                <div class="rightSide en">
-                    <div class="move"><h3>Table of contents</h3>
+                        </ul>
+                    </div>
+                    <div class="en">
+                        <h3>Table of contents</h3>
                         <p>Table with the results from only four songs
                                 (<em>A</em>1,<em>B</em>91&#8211;<em>A</em>4,<em>B</em>94)</p>
                         <ul>
@@ -6966,9 +6969,10 @@
                             </li>
                             <li><a href="#Error">Scribal errors</a>
                             </li>
-                        </ul></div>
-                </div>
+                        </ul>
+                    </div></div>
             </div>
         </div>
+        <div id="footer"/>
     </body>
 </html>

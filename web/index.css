@@ -175,18 +175,20 @@ div.main {
 }
 
 div.rightSide {
-    float:right;
+/*    float:right;
     width:28%;
-    position:relative
+    position:relative*/
+    margin-left:71%;
+    
 }
 
-div.move {
+/*div.move {
     position:fixed;
     width:25.5%;    
     height:100%;
     margin-left:0%;
     margin-right:0%;
-}
+}*/
 
 div.rightSide p, ul {
     padding-right:2%;
