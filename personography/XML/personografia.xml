@@ -588,21 +588,22 @@
                     <floruit from="1240" to="1275" period="3"/>
                     <affiliation n="geo">Vigo <geo>42.223078,-8.731278</geo></affiliation>
                 </person>
-                
-<!--                FIQUEI AQUI-->
-                <person>
-                    <persName>Martim de Ginzo</persName>
-                    <affiliation>Ginzo (Ponteareas)</affiliation>
+                <person xml:id="MartGi">
+                    <persName>Martin de Ginzo</persName>
+                    <floruit period="3"/>
+                    <affiliation n="geo" key="origem">Ginzo (Ponteareas) <geo>42.181334,-8.558962</geo></affiliation>
+                    <affiliation n="predio" key="literaria">Santa Cecilia <geo>42.1752,-8.509</geo></affiliation>
                 </person>
-                <person>
-                    <persName>Martim de Padrozelos</persName>
-                    <affiliation>Praduzelos <geo>42.33,-7.5095</geo>
+                <person xml:id="MartPadr">
+                    <persName>Martin de Padrozelos</persName>
+                    <affiliation key="origem" n="geo">Praduzelos <geo>42.33,-7.5095</geo>
                     </affiliation>
-                    <affiliation>Mosteiro de Montederramo <geo>42.274503,-7.501944</geo>
+                    <affiliation n="predio">Mosteiro de Montederramo <geo>42.274503,-7.501944</geo>
                     </affiliation>
                 </person>
-                <person>
-                    <persName>João Airas de Santiago</persName>
+                <person xml:id="JAy">
+                    <persName>Johan Airas de Santiago</persName>
+                    <affiliation corresp="#compos"></affiliation>
                 </person>
                 <person>
                     <persName>João de Aboim</persName>
