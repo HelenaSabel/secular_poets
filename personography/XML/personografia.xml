@@ -1144,29 +1144,25 @@
                     <affiliation n="geo">Dálvares <geo>41.036356,-7.758272</geo></affiliation>
                     <affiliation n="predio">Mosteiro de Santa Maria de Salzedas <geo>41.054610,-7.723854</geo></affiliation>
                 </person>
-<!--                FIQUEI AQUI-->
-                <person>
-                    <persName>Rodrigo Anes de Vasconcelos</persName>
-                    <affiliation>Santa Maria de Ferreiros (Entre Homem e Cávado)</affiliation>
-                    <affiliation>Paço medieval</affiliation>
+                <person xml:id="RodEaVas">
+                    <persName>Rodrigu' Eanes de Vasconcelos</persName>
+                    <floruit period="3"/>
+                    <affiliation n="predio">Santa Maria de Ferreiros (Entre Homem e Cávado) <geo>41.630833,-8.368611</geo></affiliation>
+                    <affiliation n="predio">Torre de Vasconcelos <geo>41.6213854,-8.3539252</geo></affiliation>
                 </person>
-                <person>
-                    <persName>Rodrigo Anes Redondo</persName>
-                    <affiliation key="familia">Barcelos</affiliation>
-                    <affiliation>Castela</affiliation>
-                    <affiliation>Santarém</affiliation>
+                <person xml:id="RodEaRed">
+                    <persName>Rodrigu'Eanes Redondo</persName>
+                    <floruit period="3"></floruit>
+                    <affiliation key="familia" n="geo">Barcelos <geo>41.5342131,-8.6202183</geo></affiliation>
+                   <!-- <affiliation>Castela</affiliation>
+                    <affiliation>Santarém</affiliation>-->
                 </person>
 
                 <person xml:id="RoyGmzBret">
                     <persName>Roi Gomez de Briteiros</persName>
                     <nationality key="pt" cert="high">Português</nationality>
-                    <birth>
-                        <location>
-                            <placeName>Braga</placeName>
-                            <geo>41.5,-8.42</geo>
-                        </location>
-                    </birth>
-                    <affiliation>Briteiros</affiliation>
+                    <affiliation n="geo">Briteiros <geo>41.5143521,-8.315577</geo></affiliation>
+                    <affiliation n="geo">Braga <geo>41.5,-8.42</geo></affiliation>
                     <affiliation key="familia">Rui Gomes</affiliation>
                     <affiliation key="familia">Mem Rodrigues</affiliation>
                     <socecStatus key="nb">Nobre</socecStatus>
@@ -1176,32 +1172,28 @@
                         <location corresp="#afonsIII" from="1245" to="1250"/>
                     </floruit>
                 </person>
-                <person>
-                    <affiliation>Mem Rodrigues</affiliation>
-                    <affiliation>Briteiros</affiliation>
+                <person xml:id="MenRdzBre">
+                    <persName>Men Rodriguez de Briteiros</persName>
+                    <floruit period="3"/>
+                    <affiliation n="geo">Briteiros <geo>41.5165051,-8.319</geo></affiliation>
                 </person>
-                <person>
-                    <affiliation>Joao Mendes Briteiros</affiliation>
-                    <affiliation>Briteiros</affiliation>
+                <person xml:id="JMdzBrit">
+                    <affiliation>Johan Mendiz de Briteiros <geo>41.5152519,-8.30</geo></affiliation>
+                    <affiliation n="geo">Briteiros</affiliation>
                     <affiliation ana="#afonsIII"/>
                 </person>
                 <person xml:id="PGarAm">
                     <persName>Pero Garcia d' Ambroa</persName>
                     <nationality key="gl" cert="medium">Galego</nationality>
-                    <birth>
-                        <location>
-                            <placeName>San Tirso de Ambroa</placeName>
-                            <geo>43.133772,-8.604003</geo>
-                        </location>
-                    </birth>
                     <socecStatus key="kn">Cavaleiro</socecStatus>
                     <occupation key="tr">Trovador</occupation>
                     <floruit from="1228" to="1260" period="2">
                         <location corresp="#soesto"/>
                         <location corresp="#jaen"/>
                     </floruit>
+                    <affiliation n="geo" key="origem">San Tirso de Ambroa <geo>43.133772,-8.604003</geo></affiliation>
                 </person>
-                <person>
+                <!--<person>
                     <persName>Pero de Ambroa</persName>
                     <socecStatus>baixo</socecStatus>
                     <birth>
@@ -1211,21 +1203,26 @@
                         </location>
                     </birth>
                     <affiliation key="contemporaneo">Pero de Armea</affiliation>
+                </person>-->
+                <person xml:id="PArm">
+                    <persName>Pero d'Armea</persName>
+                    <floruit period="3"/>
+                    <affiliation n="geo" key="origem">Armea (Betanzos) <geo>43.2728212,-8.183</geo></affiliation>
+                    <affiliation corresp="#afonsX"/>
+                    <affiliation corresp="rodrigogomes"></affiliation>
                 </person>
-                <person>
-                    <persName>Pero de Armea</persName>
-                    <affiliation>Armea (Betanzos)</affiliation>
+                <person xml:id="PBard">
+                    <persName>Pero de Bardia (Berdia)</persName>
+                    <floruit period="3"/>
+                    <affiliation key="origem" n="geo">Verdia (Santiago de Compostela) <geo>42.9531083,-8.50</geo></affiliation>
                 </person>
-                <person>
-                    <persName>Pero de Berdia</persName>
-                    <affiliation>Verdia (Santiago de Compostela)</affiliation>
+                <person xml:id="POrn">
+                    <persName>Pero d'Ornelas</persName>
+                    <floruit period="3"></floruit>
+                    <affiliation key="propiedade" n="geo">Amares <geo>41.6312533,-8.348</geo></affiliation>
+                    <affiliation key="origem" n="geo">Dornelas <geo>41.6428501,-8.3287</geo></affiliation>
                 </person>
-                <person>
-                    <persName>Pero de Ornelas</persName>
-                    <affiliation key="propiedade">Amares</affiliation>
-                    <affiliation key="orixe">Dornelas, Entre Homem e Cávado</affiliation>
-                </person>
-                <person>
+                <person xml:id="PVeer">
                     <persName>Pero de Veer</persName>
                     <affiliation>San Vicente de Ver (Terra de Lemos)</affiliation>
                 </person>
