@@ -252,14 +252,14 @@
                     <affiliation key="familia" n="geo">São Cosme de Besteiros
                             <geo>41.221282,-8.348087</geo></affiliation>
                 </person>
-                <!--                <person xml:id="EstFai">
+                     <person xml:id="EstFai">
                     <persName>Estevan Faian</persName>
                     <nationality cert="low" key="cas">Castelão</nationality>
                     <birth>
-<!-\-                        <location cert="unknown">
+                    <location cert="unknown">
                             <placeName>Leon</placeName>
                             <geo>42.5,-5.6</geo>
-                        </location>-\->
+                        </location>
                     </birth>
                     <occupation key="tr">Trovador</occupation>
                     <socecStatus key="kn">Cavaleiro</socecStatus>
@@ -267,7 +267,9 @@
                         <location cert="low" corresp="#jaen"/>
                         <location cert="medium" corresp="#afonsX"/>
                     </floruit>
-                </person>-->
+                         <affiliation key="familia">Faian (Ribadavia)</affiliation>
+                         <affiliation key="familia">Sarraça e Somesso</affiliation>
+                </person>
 
                 <person xml:id="EstPrzFroy">
                     <persName>Estevan Perez Froian</persName>
@@ -1124,6 +1126,8 @@
                     <affiliation n="predio">Mosteiro de Santa María de Aciveiro <geo>42.6175,-8.301667</geo></affiliation>
                         <affiliation n="geo" key="origem">Cercedo de Montes <geo>42.466667,-7.966667</geo></affiliation>
                         <affiliation n="predio">Oseira<geo>42.538597,-7.950980</geo></affiliation>
+                    <affiliation key="familia">Fornelos</affiliation>
+                    <affiliation>Conquista Sevilla</affiliation>
 
                 </person>
 
@@ -1208,8 +1212,8 @@
                     <persName>Pero d'Armea</persName>
                     <floruit period="3"/>
                     <affiliation n="geo" key="origem">Armea (Betanzos) <geo>43.2728212,-8.183</geo></affiliation>
-                    <affiliation corresp="#afonsX"/>
-                    <affiliation corresp="rodrigogomes"></affiliation>
+                    <affiliation corresp="#afonsX"/><!--
+                    <affiliation corresp="rodrigogomes"></affiliation>-->
                 </person>
                 <person xml:id="PBard">
                     <persName>Pero de Bardia (Berdia)</persName>
@@ -1224,32 +1228,27 @@
                 </person>
                 <person xml:id="PVeer">
                     <persName>Pero de Veer</persName>
-                    <affiliation>San Vicente de Ver (Terra de Lemos)</affiliation>
+                    <floruit period="3"/>
+                    <affiliation n="geo">San Vicente de Ver (Terra de Lemos) <geo>42.596718,-7.714381</geo></affiliation>
                 </person>
-                <person>
+                <person xml:id="Mend">
                     <persName>Meendinho</persName>
-                    <affiliation key="literaria">Sam Simom (Vigo)</affiliation>
+                    <floruit period="3"/>
+                    <affiliation key="literaria" n="geo">Sa Simón (Vigo) <geo>42.307579,-8.628628</geo></affiliation>
                 </person>
-                <person/>
                 <person xml:id="JAy">
                     <persName>Johan Airas</persName>
                     <nationality key="gl" cert="high">Galego</nationality>
-                    <birth>
-                        <location>
-                            <placeName>Compostela</placeName>
-                            <geo>42.9,120,-8.56</geo>
-                        </location>
-                    </birth>
                     <socecStatus key="br">Bourgeoise</socecStatus>
                     <occupation key="tr">Trovador</occupation>
                     <floruit from="1270" to="1295" period="3">
                         <location corresp="#afonsX"/>
                         <location corresp="#sanchoIV"/>
                     </floruit>
-                    <affiliation corresp="#compos"/>
+                    <affiliation n="geo">Santiago de Compostela <geo>42.9,120,-8.56</geo></affiliation>
                 </person>
 
-                <person xml:id="AlfX">
+             <!--   <person xml:id="AlfX">
                     <persName>Alfonso X</persName>
                     <nationality key="cas" cert="high">Castelão</nationality>
                     <birth>
@@ -1264,11 +1263,11 @@
                         <location corresp="#afonsX"/>
                     </floruit>
                     <affiliation/>
-                </person>
+                </person>-->
 
 
 
-                <person xml:id="FerSrzQuinh">
+    <!--            <person xml:id="FerSrzQuinh">
                     <persName>Fernan Soarez de Quinhones</persName>
                     <nationality key="leo" cert="high">Leonês</nationality>
                     <birth>
@@ -1299,9 +1298,9 @@
                     <floruit from="1245 " to="1275" period="3">
                         <location corresp="#afonsX"/>
                     </floruit>
-                </person>
+                </person>-->
 
-                <person xml:id="Cald">
+             <!--   <person xml:id="Cald">
                     <persName>Caldeiron</persName>
                     <nationality key="arag" cert="medium">Aragonese</nationality>
                     <birth>
@@ -1332,10 +1331,10 @@
                         <location corresp="#jaen" from="1236" to="1237"/>
                         <location corresp="#berenguer" from="1239" to="1243"/>
                     </floruit>
-                </person>
+                </person>-->
 
 
-                <person xml:id="Lour">
+              <!--  <person xml:id="Lour">
                     <persName>Lourenzo</persName>
                     <nationality key="pt" cert="medium">Português</nationality>
                     <birth>
@@ -1399,10 +1398,11 @@
                         <location corresp="#afonsXI"/>
                         <affiliation>Sevilla</affiliation>
                     </floruit>
-                </person>
-                <person>
+                </person>-->
+                <person xml:id="AyPae">
                     <persName>Airas Paez</persName>
-                    <affiliation>Santa Maria de Reça</affiliation>
+                    <floruit period="3"/>
+                    <affiliation key="literaria" n="predio">Santa Maria de Reça <geo>42.3492,-7.8991</geo></affiliation>
                 </person>
                 <person xml:id="AyPrzVuyt">
                     <persName>Airas Perez Vuitoron</persName>
@@ -1415,9 +1415,9 @@
                     <affiliation corresp="#PPon"/>
                     <affiliation corresp="#EstFai"/>
                     <affiliation corresp="#VaPrzPar"/>-->
-                    <affiliation>Terras do Deza</affiliation>
-                    <affiliation>Vila Nova de Dozón</affiliation>
-                    <affiliation>Acebeiro</affiliation>
+                    <affiliation>Terras do Deza <geo>42.660024,-8.110096</geo></affiliation>
+                    <affiliation n="predio">San Pedro de Vila Nova de Dozón<geo>42.576944,-8.0225</geo> </affiliation>
+                    <affiliation n="predio">Mosteiro de Acebeiro <geo>42.617345,-8.301867</geo></affiliation>
                 </person>
 
                 <!-- <person xml:id="PGarBu">
@@ -1429,7 +1429,7 @@
                     <persName>Vasco Perez Pardal</persName>
                     <floruit period="3"/>
                 </person>-->
-
+<!--
                 <person xml:id="GmzGar">
                     <persName>Gomez Garcia</persName>
                     <nationality key="cas" cert="high">Castelão</nationality>
@@ -1444,71 +1444,72 @@
                     <floruit from="1275" to="1286" period="3">
                         <location corresp="#sanchoIV"/>
                     </floruit>
-                </person>
-
+                </person>-->
+                
                 <person xml:id="JoVlaz">
-                    <persName>João Velaz</persName>
+                    <persName>Johan Velaz</persName>
                     <nationality key="gl"/>
-                    <affiliation>Marcabrú<affiliation>Guilhem de Peitieu</affiliation>
+                   <!-- <affiliation>Marcabrú<affiliation>Guilhem de Peitieu</affiliation>
                         <affiliation ana="#sc"/>
                     </affiliation>
-                    <affiliation ana="#sc"/>
-                    <affiliation>Samos</affiliation>
-                    <affiliation key="familia" ana="#cab"><affiliation>Selva, l'Alt
+                    <affiliation ana="#sc"/>-->
+                    <affiliation n="predio">Mosteiro de Samos <geo>42.732449,-7.326430</geo></affiliation>
+                   <!-- <affiliation key="familia" ana="#cab"><affiliation>Selva, l'Alt
                             Maresme</affiliation>
-                        <affiliation>Mosteiro de Moreruela</affiliation>
+                        <affiliation>Mosteiro de Moreruela</affiliation>-->
                         <affiliation ana="#OsEa"/>
                         <affiliation ana="#PaySrzTav"/>
                         <affiliation ana="#JSrzSom"/>
                         <!--<affiliation>Martim Ares Marinho</affiliation>-->
                         <affiliation ana="#FerPad"/>
-                    </affiliation>
+                    <!--</affiliation>-->
                     <affiliation key="familia" ana="#vlz"/>
-                    <affiliation>Mosteiro de S. Leonardo de Alba de Torres
+        <!--            <affiliation>Mosteiro de S. Leonardo de Alba de Tormes
                             <affiliation>Carvalhinho</affiliation>
-                    </affiliation>
-                    <affiliation>Mosteiro de Meira (entre Lugo e Ribadeu) <affiliation>Castro de
+                    </affiliation>-->
+                    <affiliation>Mosteiro de Meira <geo>43.213056, -7.291139</geo><affiliation>Castro de
                             Rei</affiliation>
                     </affiliation>
                     <affiliation key="familia">Maria Fernandes de Trava <affiliation ana="#trava"/>
                         <affiliation ana="#sc"/>
                     </affiliation>
-                    <affiliation>Mosteiro de San Tirso</affiliation>
+                    <affiliation>Mosteiro de San Tirso <geo>42.3708,-5.0325</geo></affiliation>
                     <affiliation key="familia">Geraldo III de Cabrera (enterrado em Samos) [Geraldo
                         outro]</affiliation>
                     <affiliation key="familia" ana="#trava">
                         <affiliation>Fernando II</affiliation>
                     </affiliation>
-                    <affiliation>Faro (Corunha)</affiliation>
-                    <affiliation>Oza (Corunha)</affiliation>
-                    <affiliation>Vionho (Corunha)</affiliation>
+                   <!-- <affiliation>Faro (A Coruña)</affiliation>-->
+                    <affiliation>Oza (A Coruña) <geo>42.906784,-8.239178</geo></affiliation>
+                    <affiliation>Vionho (A Coruña) <geo>43.188492,-8.632653</geo></affiliation>
                     <affiliation key="familia">Pedro Velaz <affiliation>Fernando II</affiliation>
                         <affiliation>Afonso IX</affiliation>
                         <affiliation corresp="#compos"/>
                     </affiliation>
                 </person>
-                <person>
+               <!-- <person>
                     <persName>Trava</persName>
                     <affiliation>Mosteiro Sobrado</affiliation>
                     <affiliation corresp="#compos"/>
-                </person>
+                </person>-->
                 <person xml:id="OsEan">
                     <persName>Osoiro Eanes</persName>
+                    <floruit period="2"/>
                     <affiliation>Trava</affiliation>
                     <affiliation key="familia">Fernando Peres de Trava</affiliation>
                     <affiliation key="familia">Urraca Fernandes</affiliation>
                     <affiliation corresp="#compos"/>
                     <affiliation key="familia">Lima - Nóvoa <affiliation>Castela (Rio Ávia-Rio
                             Barbantinho) <affiliation>Mosteiro de Bóveda</affiliation>
-                            <affiliation>San Martiño de Cornozes</affiliation>
+                        <affiliation n="predio">San Martiño de Cornozes <geo>42.413056,-7.975</geo></affiliation>
                         </affiliation>
-                        <affiliation>Sam Martinho Pinário</affiliation>
+                        <affiliation n="predio">Mosteiro de San Martiño Pinario <geo>42.881811,-8.544453</geo></affiliation>
                     </affiliation>
-                    <affiliation>Praça do Campo</affiliation>
-                    <affiliation>Búval <affiliation>Castelo de Búval</affiliation>
+                   <!-- <affiliation>Praça do Campo</affiliation>-->
+                    <affiliation>Búval <affiliation n="predio">Castelo de Búval <geo>42.5131284,-7.8177748</geo></affiliation>
                     </affiliation>
-                    <affiliation>Maside (Santa Comba de Treboedo)</affiliation>
-                    <affiliation>Santa Maria de Alom (Santa Comba) <affiliation>Arias
+                    <affiliation n="geo">Santa Comba de Trevoedo, Maside<geo>42.395691,-8.032118</geo></affiliation>
+                    <affiliation n="predio">Igrexa de Santa María de Alón (Santa Comba) <geo>43.0075297,-8.83196</geo> <affiliation>Arias
                             Carpancho</affiliation>
                     </affiliation>
                     <affiliation>D. Maior Peres</affiliation>
@@ -1516,17 +1517,20 @@
 
                 <person/>
 
-                <person>
+                <person xml:id="AiOa">
                     <persName>Airas Oares</persName>
-                    <affiliation>Mosteiro de Oseira</affiliation>
+                    <floruit period="1"/>
+                    <affiliation n="predio">Mosteiro de Oseira <geo>42.538461,-7.951214</geo></affiliation>
+                    <affiliation n="predio">Mosteiro de Sobrado <geo>43.038889,-8.0225</geo></affiliation>
                     <affiliation key="family" ana="#OsEa"/>
                     <affiliation key="family">Pero Pais Bazaco</affiliation>
 
                 </person>
                 <person>
                     <persName>Pero Pais Bazaco</persName>
-                    <affiliation>Mosteiro de Oseira</affiliation>
-                    <affiliation>Vilanova de Dozom</affiliation>
+                    <floruit period="1"/>
+                    <affiliation n="predio">Mosteiro de Oseira <geo>42.54,-7.94</geo></affiliation>
+                    <affiliation n="predio">Vilanova de Dozón <geo>42.584438,-8.022460</geo></affiliation>
                     <affiliation>D. Múnio Fernandes de Rodeiro</affiliation>
                     <affiliation>D. Maior Peres</affiliation>
                 </person>
