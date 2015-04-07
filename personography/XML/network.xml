@@ -65,12 +65,13 @@
                     <affiliation key="origem" n="geo">Sarria <geo>42.780116,-7.414307</geo>
                     </affiliation>
                 </person>
-                <person>
+                <person xml:id="AbPrz">
                     <persName>Abril Perez</persName>
-                    <floruit/>
-                    <affiliation key="geo">Toroño <geo/></affiliation>
+                    <nationality key="gl" cert="medium"/>
+                    <floruit period="2" from="1220" to="1230"/>
+                    <affiliation n="geo">Toroño <geo/></affiliation>
                     <affiliation corresp="#sousa"/>
-                    <affiliation corresp="#BernBon"/>
+                    <affiliation key="contempo" corresp="#BernBon"/>
                 </person>
                 <person xml:id="AfEaCo">
                     <persName>Afons' Eanes do Coton</persName>
@@ -81,6 +82,7 @@
                 </person>
                 <person xml:id="AfFdzCub">
                     <persName>Afonso Fernandez Cubel</persName>
+                    <nationality key="pt" cert="low"/>
                     <floruit period="3"/>
                     <affiliation n="geo">São Pedro d'Arcos/Bertiandos
                         <geo>41.759659,-8.631628</geo></affiliation>
@@ -114,72 +116,38 @@
                     <affiliation key="origem" cert="low" n="geo">Parga (Lugo)
                             <geo>43.162582,-7.836350</geo></affiliation>
                 </person>
-
-                <!--<person sameAs="#JSrzSom">
-                    <persName>Johan Soarez Somesso <addName>(alternative ID)</addName></persName>
-                    <nationality cert="low" key="pt"/>
-                    <birth cert="low">
-                        <location>
-                            <placeName>Valadares</placeName>
-                            <geo>42.079444,-8.355278</geo>
-                        </location>
-                    </birth>
-                    <socecStatus key="nb"/>
-                    <occupation key="tr"/>
-                    <floruit from="1220" to="1230" period="2" cert="low">
-                        <location corresp="#sobrosa"/>
-                    </floruit>
-                </person>-->
-
-                <!--                <person xml:id="JSrzSom">
-                    <persName>Johan Soarez Somesso</persName>
-                    <nationality cert="low" key="gl"/>
-                    <birth cert="low">
-                        <location>
-                            <placeName>Crecente</placeName>
-                            <geo>43.25,-7.333333</geo>
-                        </location>
-                    </birth>
-                    <socecStatus key="nb"/>
-                    <occupation key="tr"/>
-                    <floruit from="1215" to="1246" period="2" cert="low">
-                        <location corresp="#sanchoI"/>
-                        <location corresp="#dmartim"/>
-                    </floruit>
-                </person>-->
-
-                <person sameAs="#JSrzSom">
+                <person xml:id="JSrzSom">
                     <persName>Johan Soarez Somesso</persName>
                     <nationality key="gl"/>
-                    <socecStatus key="nb"/>
-                    <occupation key="tr"/>
-                    <floruit from="1223" to="1257" period="2" cert="low">
-                        <affiliation key="familia" n="geo">Fornelos <geo>42.136781,-8.495883</geo>
-                            <affiliation key="familia" corresp="#ribadavia"/></affiliation>
-                        <affiliation key="literario" n="geo">Muimenta
-                            <geo>42.330626,-8.185819</geo></affiliation>
-                        <affiliation key="propriedade" n="geo">Tui
-                            <geo>42.049014,-8.646907</geo></affiliation>
-                        <affiliation n="predio">Mosteiro de Fiães <geo>42.102527,-8.210651</geo>
-                            <!--<affiliation corresp="#lima">Lima <geo/></affiliation>-->
-                        </affiliation>
-                        <affiliation n="predio">Catedral de Tui
-                            <geo>42.045972,-8.644611</geo></affiliation>
-                        <affiliation n="predio">Igrexa de Santa Cristina de Valeixe<geo>42.167806,
-                                -8.272472</geo></affiliation>
-                        <affiliation n="predio">Igrexa de Santa Euxenia de Setados<geo>42.086167,
-                                -8.398167</geo></affiliation>
-                    </floruit>
+                    <floruit from="1223" to="1257" period="2"/>
+                    <affiliation key="familia" n="geo">Fornelos <geo>42.136781,-8.495883</geo></affiliation>
+                    <affiliation key="literario" n="geo">Muimenta
+                        <geo>42.330626,-8.185819</geo></affiliation>
+                    <affiliation n="geo">Terra menor de San Martiño de Ladróns<geo>42.183512,-8.245</geo></affiliation>
+                    <affiliation n="geo">Melón <geo>42.259788,-8.214286</geo></affiliation>
+                    <affiliation n="predio">San Pedro de Crecente <geo>42.153784,-8.223320</geo></affiliation>
+                    <affiliation n="geo">Albeos <geo>42.1455069,-8.25</geo></affiliation>
+                    <affiliation key="propriedade" n="geo">Tui <geo>42.049014,-8.646907</geo></affiliation>
+                    <affiliation n="predio">Mosteiro de Fiães <geo>42.102527,-8.210651</geo>
+                    </affiliation>
+                    <affiliation n="predio">Catedral de Tui <geo>42.045972,-8.644611</geo></affiliation>
+                    <affiliation n="predio">Igrexa de Santa Cristina de Valeixe<geo>42.167806,
+                        -8.272472</geo></affiliation>
+                    <affiliation n="predio">Igrexa de Santa Euxenia de Setados<geo>42.086167,
+                        -8.398167</geo></affiliation>
                 </person>
-                <!--<person xml:id="FerRdzCalh">
+                
+                <person xml:id="FerRdzCalh">
                     <persName>Fernan Rodriguez de Calheiros</persName>
+                    <nationality key="pt"/>
                     <floruit period="2"/>
                     <affiliation corresp="#traba"/>
                     <affiliation>Gonzalez Eanes <affiliation corresp="#OsEan"/></affiliation>
-                </person>-->
+                </person>
                 <person xml:id="RodDzCam">
-                    <persName>Rodrigo Diaz dos Cameros</persName>
-                    <!-- <floruit period=""></floruit>-->
+                    <persName>Rodrigo Diaz de los Cameros</persName>
+                    <floruit period="1"/>
+                    <nationality key="cas"/>
                     <affiliation key="familia">Cameros</affiliation>
                     <affiliation key="familia">Guiomar Rodriguez <affiliation key="familia" n="geo"
                             >Celanova <geo>42.151712,-7.958399</geo></affiliation>
@@ -194,6 +162,7 @@
                 </person>
                 <person xml:id="MartPrzAl">
                     <persName>Martin Perez Alvin</persName>
+                    <nationality key="pt"/>
                     <floruit period="4"/>
                     <affiliation key="familia" n="geo">Alvim, Guimaraes <geo n="nomsei"
                             >41.436622,-8.287752</geo></affiliation>
@@ -205,7 +174,7 @@
                     <occupation key="tr"/>
                     <socecStatus key="kn"/>
                     <floruit from="1225" to="1250" period="2">
-                        <!--<location corresp="#sanchoI"/>-->
+                        <location corresp="#sanchoI"/>
                         <location corresp="#soesto"/>
                         <location from="1241" to="1249" corresp="#jaen"/>
                     </floruit>
@@ -213,7 +182,7 @@
                         <geo>42.686679,-8.492129</geo></affiliation>
                     <affiliation key="familia" corresp="#PVelho"/>
                 </person>
-                <!--                <person xml:id="JNzCam">
+                                <person xml:id="JNzCam">
                     <persName>Joham Nunez Camanez</persName>
                     <nationality cert="low" key="gl"/>
                     <occupation cert="unknown" key="unknown"/>
@@ -221,9 +190,10 @@
                     <floruit from="1240" to="1260" period="3"/>
                     <affiliation key="origem" cert="low">Camán (Pontevedra)
                     <geo>42.145014,-8.251545</geo></affiliation>
-                </person>-->
+                </person>
                 <person xml:id="JRom">
                     <persName>Johan Romeu de Lugo</persName>
+                    <nationality key="gl"/>
                     <floruit period="3"/>
                     <affiliation n="geo">Lugo <geo>43.010338,-7.554869</geo></affiliation>
                     <affiliation corresp="#LoLias"/>
@@ -231,6 +201,7 @@
                 <person xml:id="JServ">
                     <persName>Johan Servando</persName>
                     <floruit period="3"/>
+                    <nationality key="gl"/>
                     <affiliation n="geo">Santa María de Barxés (Muíño, Limia)
                             <geo>41.967829,-7.954321</geo></affiliation>
 
@@ -240,9 +211,9 @@
                     <nationality cert="high" key="pt"/>
                     <occupation key="tr"/>
                     <socecStatus key="nb"/>
-                    <floruit from="1246" to="1280" period="3"><!--
+                    <floruit from="1246" to="1280" period="3">
                         <location from="1245" to="1250" corresp="#jaen"/>
-                        <location from="1251" to="1280" corresp="#sousa"/>-->
+                        <location from="1251" to="1280" corresp="#sousa"/>
                         <affiliation key="literaria" n="predio">Mosteiro de Arouca
                                 <geo>40.927947,-8.246897</geo></affiliation>
                         <affiliation key="origem" n="geo">Baião
@@ -251,9 +222,12 @@
                 </person>
                 <person xml:id="AfMdzBest">
                     <persName>Afonso Mendez de Besteiros</persName>
+                    <nationality key="pt"/>
                     <floruit period="3"/>
                     <affiliation key="familia" n="geo">São Cosme de Besteiros
                             <geo>41.221282,-8.348087</geo></affiliation>
+                        <affiliation>Riba dos Vizela</affiliation>
+                        <affiliation corresp="#sanchoII"/>
                 </person>
                      <person xml:id="EstFai">
                     <persName>Estevan Faian</persName>
@@ -276,27 +250,30 @@
 
                 <person xml:id="EstPrzFroy">
                     <persName>Estevan Perez Froian</persName>
+                    <nationality key="pt"/>
                     <floruit period="3"/>
-                    <!--<affiliation>Froián <geo>42.744989,-7.332768</geo></affiliation> Mas se é português, porque o afiliamos a Lugo??-->
-                    <!--                    <affiliation key="familia">Pereiras</affiliation>
+                   <affiliation>Froião, Paredes de Coura<geo>41.912-8.558</geo></affiliation>
+                    <affiliation key="familia">Pereiras</affiliation>
                     <affiliation key="familia">Redondos</affiliation>
                     <affiliation corresp="#sanchoIV"/>
                     <affiliation corresp="#fernIV"/>
-                    <affiliation corresp="AyPrzVuyt"/>-->
+                    <affiliation corresp="#AyPrzVuyt"/>
                 </person>
 
                 <person xml:id="MenRdzTen">
                     <persName>Men Rodriguez Tenoiro</persName>
+                    <nationality key="gl"/>
                     <floruit period="3"/>
                     <affiliation>Castela</affiliation>
                     <affiliation key="origem" n="geo">Pontevedra
                         <geo>42.429078,-8.644538</geo></affiliation>
-                    <!--<affiliation corresp="#afonsX"/>
+                    <affiliation corresp="#afonsX"/>
                     <affiliation corresp="#JVqzTal"/>
-                    <affiliation corresp="#PayGmzCha"/>-->
+                    <affiliation corresp="#PayGmzCha"/>
                 </person>
                 <person xml:id="MenVzqFo">
-                    <persName>Men Vasquez de Folhente (Folhete)</persName>
+                    <persName>Men Vasquez de Folhente</persName>
+                    <nationality key="pt"/>
                     <floruit period="3"/>
                     <affiliation key="familia" n="geo">Aguiar
                         <geo>41.627393,-8.651456</geo></affiliation>
@@ -308,65 +285,42 @@
                     <nationality cert="medium" key="gl"/>
                     <occupation key="tr"/>
                     <socecStatus key="kn"/>
-                    <!--<floruit from="1250" to="1275" period="3" cert="medium">
-                        <location cert="unknown" type="unknown">
-                            <placeName type="short">Unknown location</placeName>
-                        </location>
-                    </floruit>-->
-                    <floruit n="nomsei"/>
+                    <floruit period="2"/>
                     <affiliation n="geo">Padrón <geo>42.8,-8.7</geo></affiliation>
                 </person>
 
 
-                <!--      <person xml:id="MartMo">
+                      <person xml:id="MartMo">
                     <persName>Martin Moxa</persName>
                     <nationality cert="medium" key="gl"/>
 
                     <occupation key="tr"/>
                     <socecStatus key="cl"/>
                     <floruit from="1270" to="1280" period="3"/>
-                        <!-\-<affiliation corresp="#afonsX"/>-\->
+                        <affiliation corresp="#afonsX"/>
                     <affiliation n="geo" corresp="#compos"/>
                 </person>
-
-                <person sameAs="#MartMo">
-                    <persName>Martin Moxa <addName>(alternative ID)</addName>
-                    </persName>
-                    <nationality cert="low" key="arag"/>
-                    <birth>
-                        <location cert="unknown">
-                            <geo>41.935556,-0.893443</geo>
-                        </location>
-                    </birth>
-                    <occupation key="tr"/>
-                    <socecStatus key="cl"/>
-                    <floruit from="1270" to="1280" period="3">
-                        <location corresp="#afonsX"/>
-                    </floruit>
-                </person>
--->
-
                 <person xml:id="JSrzPav">
                     <persName>Johan Soarez de Pavia </persName>
                     <nationality cert="high" key="pt"/>
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1170" to="1200" period="1">
-                        <!--<location corresp="#afonsII"/>-->
+                        <location corresp="#afonsII"/>
                     </floruit>
                     <affiliation n="predio">Mosteiro de Paço de Sousa <geo>41.165906,-8.344697</geo>
-                        <!--<affiliation>Egas Moniz</affiliation>-->
+                        <affiliation>Egas Moniz</affiliation>
                     </affiliation>
                     <affiliation n="predio">Castelo de Paiva
                         <geo>41.046389,-8.269722</geo></affiliation>
-                    <!--<affiliation corresp="#velaz"/>
-                    <affiliation corresp="#cabrera"/>-->
+                    <affiliation corresp="#velaz"/>
+                    <affiliation corresp="#cabrera"/>
                 </person>
                 <person xml:id="JVelho">
                     <persName>Johan Vello de Pedrogaez</persName>
                     <floruit period="3"/>
                     <affiliation n="geo">Forjães <geo>41.604657,-8.742969</geo></affiliation>
-                    <!--<affiliation>Velhos</affiliation>-->
+                    <affiliation>Velhos</affiliation>
                     <affiliation n="geo">Viana do Castelo
                         <geo>41.691796,-8.833439</geo></affiliation>
                 </person>
@@ -385,7 +339,7 @@
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1190" to="1230" period="1">
-                        <!-- <location corresp="#rodeiro"/>-->
+                         <location corresp="#rodeiro"/>
                     </floruit>
                     <affiliation n="geo">Cornado <geo>42.807515,-8.494824</geo></affiliation>
                     <affiliation n="geo" corresp="#compos"/>
@@ -397,8 +351,8 @@
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1230" to="1260" period="3">
-                        <!-- <location corresp="#jaen"/>
-                        <location corresp="#afonsX"/>-->
+                         <location corresp="#jaen"/>
+                        <location corresp="#afonsX"/>
                     </floruit>
                     <affiliation n="geo" corresp="#compos" key="origem"/>
                     <affiliation key="familia" n="geo">Luou
@@ -411,9 +365,9 @@
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1220" to="1250" period="2">
-                        <!-- <location from="1220" to="1238" corresp="#sousa"/><location corresp="#jaen"
+                         <location from="1220" to="1238" corresp="#sousa"/><location corresp="#jaen"
                             from="1239" to="1245"/>
-                        <location from="1246" to="1250" corresp="#afonsIII"/>-->
+                        <location from="1246" to="1250" corresp="#afonsIII"/>
                     </floruit>
                     <affiliation n="geo" key="origem">Terras de Sousa
                         <geo>41.087778,-8.520278</geo></affiliation>
@@ -425,10 +379,10 @@
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1240" to="1270" period="3"
-                        ><!--
+                        >
                         <location corresp="#sousa"/>
                         <location from="1240" to="1252" corresp="#jaen"/>
-                        <location from="1253" to="1270" corresp="#afonsX"/>-->
+                        <location from="1253" to="1270" corresp="#afonsX"/>
                     </floruit>
                     <affiliation n="geo">Sabadim <geo>41.906111,-8.4425</geo></affiliation>
                 </person>
@@ -436,19 +390,19 @@
                 <person xml:id="VasGil">
                     <persName>Vasco Gil</persName>
                     <nationality key="pt" cert="high"/>
-                    <!-- <birth>
+                     <birth>
                         <location>
                             <placeName cert="low">Sousa</placeName>
                             <geo>41.35,-8.245</geo>
                         </location>
-                    </birth>-->
+                    </birth>
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1235" to="1260" period="3">
-                        <!--<location corresp="#sobrosa" from="1235" to="1240"/>
+                        <location corresp="#sobrosa" from="1235" to="1240"/>
                         <location corresp="#sanchoII" from="1241" to="1245"/>
                         <location corresp="#jaen" from="1246" to="1253"/>
-                        <location corresp="#afonsX"/>-->
+                        <location corresp="#afonsX"/>
                     </floruit>
                     <affiliation n="geo" corresp="#sobrosa"/>
                 </person>
@@ -459,10 +413,10 @@
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1235" to="1270" period="3">
-                        <!--<location from="1235" to="1237" corresp="#serpa"/>
+                        <location from="1235" to="1237" corresp="#serpa"/>
                         <location from="1238" to="1241" corresp="#berenguer"/>
                         <location from="1242" to="1248" corresp="#jaen"/>
-                        <location from="1249" to="1270" corresp="#afonsIII"/>-->
+                        <location from="1249" to="1270" corresp="#afonsIII"/>
                     </floruit>
                     <affiliation n="geo" key="origem">Ribadouro
                         <geo>41.098333,-8.076944</geo></affiliation>
@@ -473,10 +427,10 @@
                     <persName>Roi Paez de Ribela</persName>
                     <nationality cert="medium" key="gl"/>
                     <birth>
-                        <!--  <location>
+                          <location>
                             <placeName>Monfero</placeName>
                             <geo>43.308654,-8.008970</geo>
-                        </location>-->
+                        </location>
                     </birth>
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
@@ -500,7 +454,7 @@
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1238" to="1286" period="3">
-                        <!--<location corresp="#soesto"/>-->
+                        <location corresp="#soesto"/>
                     </floruit>
                     <affiliation n="geo">Terras de Monterroso
                         <geo>42.794063,-7.833271</geo></affiliation>
@@ -513,7 +467,7 @@
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1258" to="1275" period="3">
-                        <!-- <location corresp="#afonsIII"/>-->
+                         <location corresp="#afonsIII"/>
                     </floruit>
                     <affiliation key="origem" n="geo">Vinhais, Trás-os-Montes (Brahança)
                             <geo>41.832233,-7.006722</geo></affiliation>
@@ -523,15 +477,15 @@
                     <persName>Pero Gomez Barroso</persName>
                     <nationality key="pt" cert="high"/>
                     <birth>
-                        <!--                        <location>
+                                                <location>
                             <placeName>Terras de Barroso</placeName>
                             <geo>41.823889,-7.79</geo>
-                        </location>-->
+                        </location>
                     </birth>
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit period="3" from="1248" to="1273">
-                        <!-- <location corresp="#afonsX"/>-->
+                         <location corresp="#afonsX"/>
                     </floruit>
                     <affiliation>Terras de Basto <geo>41.487813, -7.981805</geo></affiliation>
                 </person>
@@ -540,14 +494,14 @@
                     <floruit period="3"/>
                     <affiliation key="origem" n="geo">Porto Carreiro
                         <geo>41.435510,-8.595628</geo></affiliation>
-                    <!--      <affiliation key="familia" corresp="#EstReim"/>-->
+                          <affiliation key="familia" corresp="#EstReim"/>
                 </person>
                 <person xml:id="PMaf">
                     <persName>Pero Mafaldo</persName>
                     <floruit period="3"/>
                     <affiliation key="origem">Souto de Rebordões
                         <geo>41.724558,-8.561696</geo></affiliation>
-                    <!--<affiliation corresp="#sousa"/>-->
+                    <affiliation corresp="#sousa"/>
                 </person>
                 <person xml:id="PMdzFon">
                     <persName>Pero Mendiz da Fonseca</persName>
@@ -561,10 +515,10 @@
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1240" to="1265" period="3"/>
-                    <!--<affiliation corresp="#sousa" from="1240" to="1243"/>
+                    <affiliation corresp="#sousa" from="1240" to="1243"/>
                         <affiliation corresp="#jaen" from="1244" to="1248"/>
                         <affiliation corresp="#afonsX" from="1249" to="1253"/>
-                        <affiliation corresp="#afonsIII" from="1253" to="1265"/>-->
+                        <affiliation corresp="#afonsIII" from="1253" to="1265"/>
                     <affiliation n="geo">Milhazes, Barcelos
                         <geo>41.490833,-8.660556</geo></affiliation>
                 </person>
@@ -584,18 +538,18 @@
                     <affiliation key="origem" n="geo">Lobeira
                         <geo>41.984776,-8.039395</geo></affiliation>
                 </person>
-                <!--<person xml:id="JVqzTal">
+                <person xml:id="JVqzTal">
                     <persName>Johan Vasquis de Talaveira</persName>
                     <nationality cert="medium" key="cas"/>
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
-                    <floruit from="1260" to="1295" period="3"><!-\-
+                    <floruit from="1260" to="1295" period="3">
                         <location from="1260" to="1283" corresp="#afonsX"/>
-                        <location from="1284" to="1295" corresp="#sanchoIV"/>-\->
+                        <location from="1284" to="1295" corresp="#sanchoIV"/>
                     </floruit>
                     <affiliation>Talavera de la Reina <geo>39.961801,-4.830143</geo></affiliation>
-                </person>-->
-                <!--     <person xml:id="PPon">
+                </person>
+                     <person xml:id="PPon">
                     <persName>Pero da Ponte</persName>
                     <nationality cert="medium" key="gl"/>
                     <socecStatus key="sq"/>
@@ -606,7 +560,7 @@
                         <location corresp="#haro"/>
                         <location corresp="#meneses"/>
                     </floruit>
-                </person>-->
+                </person>
                 <person xml:id="MartCod">
                     <persName>Martin Codax</persName>
                     <nationality cert="medium" key="gl"/>
@@ -635,8 +589,8 @@
                     <floruit period="3"/>
                     <affiliation n="geo" key="origem">Aboim da Nóbrega <geo>41.750190,
                             -8.391344</geo></affiliation>
-                    <!--<affiliation>Alfonso III</affiliation>
-                    <affiliation>Senhor de Portel</affiliation>-->
+                    <affiliation>Alfonso III</affiliation>
+                    <affiliation>Senhor de Portel</affiliation>
                 </person>
                 <person xml:id="JCan">
                     <persName>Johan de Cangas</persName>
@@ -647,9 +601,9 @@
                     <persName>Johan de Gaia</persName>
                     <affiliation key="origem" n="geo">Gaia
                         <geo>41.127441,-8.620010</geo></affiliation>
-                    <!-- <affiliation key="mecenas">Família Maia</affiliation>-->
+                     <affiliation key="mecenas">Família Maia</affiliation>
                 </person>
-                <!-- <person xml:id="Den">
+                 <person xml:id="Den">
                     <persName>Dom Dinis</persName>
                     <nationality key="pt" cert="high"/>
                     <birth>
@@ -663,32 +617,32 @@
                     <floruit from="1279" to="1235" period="3">
                         <location corresp="#dinis"/>
                     </floruit>
-                </person>-->
+                </person>
 
                 <person xml:id="PayGmzCha">
                     <persName>Pai Gomez Charinho</persName>
                     <nationality key="gl" cert="high"/>
-                    <!--                    <birth>
+                                        <birth>
                         <location>
                             <placeName>Pontevedra</placeName>
                             <geo>42.433333,-8.65</geo>
                         </location>
-                    </birth>-->
+                    </birth>
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1248" to="1295" period="3"> </floruit>
-                    <!--
-                    <affiliation corresp="#afonsX"/>-->
+                    
+                    <affiliation corresp="#afonsX"/>
                     <affiliation key="propriedade" n="geo">Rianxo
                         <geo>42.651408,-8.816360</geo></affiliation>
                     <affiliation n="predio">Mosteiro de San Francisco (Pontevedra)
                             <geo>42.431171,-8.642996</geo></affiliation>
-                    <!--
+                    
                     <affiliation corresp="#sanchoIV"/>
                     <affiliation key="contemporaneo">Abade de Valladolid</affiliation>
-                    <affiliation key="contemporaneo">Estevam Perez Froia</affiliation>-->
+                    <affiliation key="contemporaneo">Estevam Perez Froia</affiliation>
                 </person>
-                <!--                <person xml:id="FerVelho">
+                                <person xml:id="FerVelho">
                     <persName>Fernan Velho</persName>
                     <nationality key="gl" cert="low"/>
                     <socecStatus key="nb"/>
@@ -696,30 +650,30 @@
                     <floruit from="1280" to="1320" period="3">
                         <location corresp="#afonsX"/>
                     </floruit>
-                </person>-->
-                <!--                <person>
+                </person>
+                                <person>
                     <persName>Gil Peres Conde</persName>
                     <affiliation ana="#AfonsX"/>
-                </person>-->
+                </person>
                 <person xml:id="GilSchz">
                     <persName>Gil Sanchez</persName>
-                    <!--
-                    <affiliation key="familia">Sancho I</affiliation>-->
+                    
+                    <affiliation key="familia">Sancho I</affiliation>
                     <floruit period="2" from="1210" to="1235"/>
-                    <!--<affiliation key="propriedade" n="geo">Covilhã <geo>40.278072, -7.492054</geo></affiliation>
+                    <affiliation key="propriedade" n="geo">Covilhã <geo>40.278072, -7.492054</geo></affiliation>
                     <affiliation key="propriedade" n="geo">Castelo Branco <geo>39.834457,-7.485423</geo></affiliation>
-                    <affiliation key="familia">Maria Paez Ribeira (Ribeirinha)</affiliation>-->
+                    <affiliation key="familia">Maria Paez Ribeira (Ribeirinha)</affiliation>
                     <affiliation key="predio">São Miguel de Laundos (Póvoa de Varzim)
                             <geo>41.434784,-8.722797</geo></affiliation>
                     <affiliation n="geo">Vila do Conde <geo>41.352477,-8.746229</geo></affiliation>
                 </person>
-                <!-- <person xml:id="GarSrz">
+                 <person xml:id="GarSrz">
                     <persName>Garcia Soarez</persName>
                     <floruit period="3"/>
                     <affiliation>São Miguel da Ribeira <geo>40.723861,-8.311348</geo></affiliation>
                    <affiliation key="familia">Martin Soarez</affiliation>
-                </person>-->
-                <!--<person xml:id="BonGen">
+                </person>
+                <person xml:id="BonGen">
                     <persName>Bonifaci Calvo</persName>
                     <nationality key="it" cert="medium"/>
                     <birth>
@@ -733,7 +687,7 @@
                     <floruit from="1250" to="1265" period="3">
                         <location corresp="#afonsX"/>
                     </floruit>
-                </person>-->
+                </person>
 
                 <person xml:id="VaRdzCal">
                     <persName>Vasco Rodrigues de Calvelo</persName>
@@ -767,8 +721,8 @@
                             <geo>41.342444,-8.703222</geo></affiliation>
                     <affiliation n="predio">Mosteiro São Simão da Junqueira
                             <geo>41.379722,-8.682222</geo></affiliation>
-                    <!--                    <affiliation>Castela</affiliation>
-                    <affiliation>Santarém</affiliation>-->
+                                        <affiliation>Castela</affiliation>
+                    <affiliation>Santarém</affiliation>
                 </person>
 
                 <person xml:id="VaMrzRes">
@@ -780,12 +734,12 @@
                         <location corresp="#dinis"/>
                         <location corresp="#afonsIV"/>
                     </floruit>
-                    <!--<affiliation key="contemporaneo">Afonso Sanchez</affiliation>-->
+                    <affiliation key="contemporaneo">Afonso Sanchez</affiliation>
                     <affiliation n="predio">Mosteiro de Salzedas
                         <geo>41.054318,-7.725471</geo></affiliation>
                     <affiliation n="predio">Santa Maria de Cárquere
                         <geo>41.087397,-7.957896</geo></affiliation>
-                    <!--<affiliation key="mecendado">Pimentel</affiliation>-->
+                    <affiliation key="mecendado">Pimentel</affiliation>
                     <affiliation key="origem" n="geo">Resende <geo>41.1,-7.95</geo></affiliation>
                 </person>
 
@@ -825,8 +779,8 @@
                     <affiliation key="origem" n="geo">Chaves
                         <geo>41.740926,-7.468215</geo></affiliation>
                     <affiliation n="geo">Coimbra <geo>40.209229,-8.414043</geo></affiliation>
-                    <!--<affiliation key="familia">Guedões</affiliation>-->
-                    <!--<affiliation>Afonso III</affiliation>-->
+                    <affiliation key="familia">Guedões</affiliation>
+                    <affiliation>Afonso III</affiliation>
                 </person>
                 <person xml:id="FerFigLem">
                     <persName>Fernan Figueira</persName>
@@ -839,11 +793,11 @@
                     <occupation key="tr"/>
                     <socecStatus key="nb"/>
                     <floruit from="1300" to="1350" period="4"
-                        ><!--
+                        >
                         <location from="1300" to="1318" corresp="#dinis"/>
                         <location corresp="#afonsXI" from="1319" to="1322"/>
                         <location from="1323" to="1325" corresp="#dinis"/>
-                        <location from="1326" to="1350" corresp="#lalim"/>-->
+                        <location from="1326" to="1350" corresp="#lalim"/>
                     </floruit>
                     <affiliation n="predio">Mosteiro de São João de Tarouca (Viseu)
                             <geo>40.994554,-7.745913</geo></affiliation>
@@ -857,8 +811,8 @@
                     <socecStatus key="unknown"/>
                     <occupation key="tr"/>
                     <floruit from="1320" to="1350" period="4"/>
-                    <!--                    <affiliation corresp="#dinis" from="1320" to="1325"/>
-                    <affiliation corresp="#lalim"/>-->
+                                        <affiliation corresp="#dinis" from="1320" to="1325"/>
+                    <affiliation corresp="#lalim"/>
                     <affiliation n="geo" key="origem">Guarda
                         <geo>40.538230,-7.266249</geo></affiliation>
                 </person>
@@ -867,11 +821,11 @@
                     <affiliation key="familia" n="geo">Porto Carreiro
                         <geo>41.266480,-8.416648</geo></affiliation>
                 </person>
-                <!-- <person>
+                 <person>
                     <persName>Estevan Travanca</persName>
                     <affiliation>Travanca</affiliation>
-                </person>-->
-                <!-- <person xml:id="Johan">
+                </person>
+                 <person xml:id="Johan">
                     <persName>Johan, jograr morador en León</persName>
                     <nationality key="leo" cert="medium"/>
                     <birth>
@@ -886,23 +840,23 @@
                         <location corresp="#dinis" from="1320" to="1325"/>
                         <location corresp="#lalim" from="1326" to="1340"/>
                     </floruit>
-                </person>-->
+                </person>
 
 
                 <person xml:id="AfSchz">
                     <persName>Afonso Sanchez</persName>
                     <nationality key="pt" cert="high"/>
-                    <!-- <birth>
+                     <birth>
                         <location>
                             <placeName>Lumiar</placeName>
                             <geo>38.768700, -9.160879</geo>
                         </location>
-                    </birth>-->
+                    </birth>
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1289" to="1328" period="4">
-                        <!--   <location corresp="#dinis" from="1289" to="1323"/>
-                        <location from="1324" to="1328" corresp="#alburquerque"/>-->
+                           <location corresp="#dinis" from="1289" to="1323"/>
+                        <location from="1324" to="1328" corresp="#alburquerque"/>
                     </floruit>
                     <affiliation key="propriedade" n="predio">Convento de Santa Clara de Vila do
                         Conde <geo>41.352480,-8.739221</geo></affiliation>
@@ -922,7 +876,7 @@
                         <geo>41.719828,-8.314163</geo></affiliation>
                 </person>
 
-                <!--
+                
                 <person xml:id="AlvAf">
                     <persName>Alvaro Afonso</persName>
                     <nationality key="pt" cert="high"/>
@@ -936,9 +890,9 @@
                     <floruit from="1440" to="1450" period="5">
                         <location corresp="#infpedro"/>
                     </floruit>
-                </person>-->
+                </person>
 
-                <!--<person xml:id="DieGvz">
+                <person xml:id="DieGvz">
                     <persName>Diogo Gonçalvez de Montemor-o-Novo</persName>
                     <nationality key="pt" cert="medium"/>
                     <birth>
@@ -954,8 +908,8 @@
                             <geo>38.558734,-7.910463</geo>
                         </location>
                     </floruit>
-                </person>-->
-                <!--
+                </person>
+                
                 <person xml:id="FerEa">
                     <persName>Fernand' Eanes</persName>
                     <nationality key="pt" cert="medium"/>
@@ -972,7 +926,7 @@
                             <geo>39.9,-7.9</geo>
                         </location>
                     </floruit>
-                </person>-->
+                </person>
 
 
                 <person xml:id="GarMdzEi">
@@ -980,45 +934,45 @@
                     <nationality key="pt" cert="high"/>
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
-                    <floruit from="1190" to="1239" period="1"><!--
+                    <floruit from="1190" to="1239" period="1">
                         <location corresp="#sanchoI" from="1190" to="1211"/>
                         <location corresp="#afonsIX" from="1212" to="1217"/>
-                        <location corresp="#afonsII" from="1218" to="1224"/>-->
+                        <location corresp="#afonsII" from="1218" to="1224"/>
                         <location corresp="#sousa" from="1225" to="1239"/>
                     </floruit>
                     <affiliation key="literario" n="geo">Toroño
                         <geo>43.289839,-8.397806</geo></affiliation>
-                    <!--  <affiliation key="familia">Gonzalo Garcia</affiliation>-->
+                      <affiliation key="familia">Gonzalo Garcia</affiliation>
                     <affiliation key="origem" n="geo">Eixo
                         <geo>40.631709,-8.570415</geo></affiliation>
-                    <!--<affiliation key="familia">Fernando Garcia d' Esgaravunha</affiliation>-->
+                    <affiliation key="familia">Fernando Garcia d' Esgaravunha</affiliation>
                 </person>
                 <person xml:id="PRdzPal">
                     <persName>Pedro Rodriguez da Palmeira</persName>
                     <floruit period="1"/>
-                    <!--  <affiliation>Trava</affiliation>-->
-                    <!--<affiliation>Pereira (Portugal)-->
+                      <affiliation>Trava</affiliation>
+                    <affiliation>Pereira (Portugal)
                     <affiliation>Paço de Vila Nova de </affiliation>
-                    <!--</affiliation>-->
+                    </affiliation>
                 </person>
-                <!--                <person xml:id="GonçGar">
+                                <person xml:id="GonçGar">
                     <persName>Gonçalo Garcia</persName>
                     <floruit period="1"/>
                     <affiliation>Sousa</affiliation>
-                </person>-->
+                </person>
                 <person xml:id="JuBols">
                     <persName>Juião Bolseiro</persName>
-                    <!--   <floruit period="3"/>-->
-                    <!-- <affiliation>D. Cotalana</affiliation>-->
-                    <!--<affiliation>Afonso IX</affiliation>-->
+                       <floruit period="3"/>
+                     <affiliation>D. Cotalana</affiliation>
+                    <affiliation>Afonso IX</affiliation>
                     <socecStatus>Clérigo</socecStatus>
                     <socecStatus>Burguês</socecStatus>
                     <affiliation n="predio">San Miguel dos Agros
                         <geo>42.882145,-8.542809</geo></affiliation>
-                    <!--                    <affiliation>
+                                        <affiliation>
                         <affiliation>Velaz</affiliation>
                         <affiliation>Osoiro Eanes</affiliation>
-                    </affiliation>-->
+                    </affiliation>
                 </person>
 
                 <person xml:id="OsEa">
@@ -1039,8 +993,8 @@
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1220" to="1240" period="2"> </floruit>
-                    <!--
-                    <affiliation>Trava</affiliation>-->
+                    
+                    <affiliation>Trava</affiliation>
                     <affiliation key="origem" n="geo">Tamallancos
                         <geo>42.425060,-7.903228</geo></affiliation>
                     <affiliation key="administrativo" n="geo">Búbal
@@ -1061,16 +1015,16 @@
                     <floruit period="3"/>
                     <affiliation key="literario" n="predio">Castelo de Orzellon
                             <geo>42.370967,-7.924829</geo></affiliation>
-                    <!--<affiliation key="literario">Babuim, Sobral (Mogor)</affiliation>-->
+                    <affiliation key="literario">Babuim, Sobral (Mogor)</affiliation>
                     <affiliation corresp="#compos"/>
-                    <!-- <affiliation>Airas Moniz</affiliation>-->
-                    <!-- <affiliation>Afonso IX</affiliation>-->
+                     <affiliation>Airas Moniz</affiliation>
+                     <affiliation>Afonso IX</affiliation>
                 </person>
                 <person xml:id="AyMnz">
                     <persName>Airas Moniz</persName>
                     <floruit period="2"/>
                     <affiliation n="geo">Asma <geo>42.565248,-7.884611</geo></affiliation>
-                    <!--<affiliation key="familia" cert="medium">Diego Moniz</affiliation>-->
+                    <affiliation key="familia" cert="medium">Diego Moniz</affiliation>
                 </person>
                 <person xml:id="DieMnz">
                     <floruit period="2"/>
@@ -1096,11 +1050,11 @@
                 <person xml:id="MonFdzMir">
                     <persName>Nuno (Monio) Fernandez de Mirapeixe</persName>
                     <nationality key="gl" cert="medium"/>
-                    <!--                    <birth>
+                                        <birth>
                         <location cert="unknown">
                             <geo>42.738587,-8.659817</geo>
                         </location>
-                    </birth>-->
+                    </birth>
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1211" to="1243" period="2">
@@ -1117,7 +1071,7 @@
                     <occupation key="tr"/>
                     <floruit from="1230" to="1260" period="2"/>
                     <affiliation>Toroño <geo>43.289308, -8.397119</geo></affiliation>
-                  <!--  <affiliation corresp="#sousa"/>-->
+                    <affiliation corresp="#sousa"/>
                 </person>
 
                 <person xml:id="AfSrzSam">
@@ -1140,8 +1094,8 @@
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1225" to="1250" period="2">
-                        <!--<location corresp="#soesto"/>
-                        <location corresp="#sanchoI"/>-->
+                        <location corresp="#soesto"/>
+                        <location corresp="#sanchoI"/>
                     </floruit>
                     <affiliation n="geo" key="origem">Tabeirós <geo>42.7,-8.5</geo></affiliation>
                 </person>
@@ -1161,8 +1115,8 @@
                     <persName>Rodrigu'Eanes Redondo</persName>
                     <floruit period="3"></floruit>
                     <affiliation key="familia" n="geo">Barcelos <geo>41.5342131,-8.6202183</geo></affiliation>
-                   <!-- <affiliation>Castela</affiliation>
-                    <affiliation>Santarém</affiliation>-->
+                    <affiliation>Castela</affiliation>
+                    <affiliation>Santarém</affiliation>
                 </person>
 
                 <person xml:id="RoyGmzBret">
@@ -1200,7 +1154,7 @@
                     </floruit>
                     <affiliation n="geo" key="origem">San Tirso de Ambroa <geo>43.133772,-8.604003</geo></affiliation>
                 </person>
-                <!--<person>
+                <person>
                     <persName>Pero de Ambroa</persName>
                     <socecStatus>baixo</socecStatus>
                     <birth>
@@ -1210,13 +1164,13 @@
                         </location>
                     </birth>
                     <affiliation key="contemporaneo">Pero de Armea</affiliation>
-                </person>-->
+                </person>
                 <person xml:id="PArm">
                     <persName>Pero d'Armea</persName>
                     <floruit period="3"/>
                     <affiliation n="geo" key="origem">Armea (Betanzos) <geo>43.2728212,-8.183</geo></affiliation>
-                    <affiliation corresp="#afonsX"/><!--
-                    <affiliation corresp="rodrigogomes"></affiliation>-->
+                    <affiliation corresp="#afonsX"/>
+                    <affiliation corresp="rodrigogomes"></affiliation>
                 </person>
                 <person xml:id="PBard">
                     <persName>Pero de Bardia (Berdia)</persName>
@@ -1251,7 +1205,7 @@
                     <affiliation n="geo">Santiago de Compostela <geo>42.9,120,-8.56</geo></affiliation>
                 </person>
 
-             <!--   <person xml:id="AlfX">
+                <person xml:id="AlfX">
                     <persName>Alfonso X</persName>
                     <nationality key="cas" cert="high"/>
                     <birth>
@@ -1266,11 +1220,11 @@
                         <location corresp="#afonsX"/>
                     </floruit>
                     <affiliation/>
-                </person>-->
+                </person>
 
 
 
-    <!--            <person xml:id="FerSrzQuinh">
+                <person xml:id="FerSrzQuinh">
                     <persName>Fernan Soarez de Quinhones</persName>
                     <nationality key="leo" cert="high"/>
                     <birth>
@@ -1301,9 +1255,9 @@
                     <floruit from="1245 " to="1275" period="3">
                         <location corresp="#afonsX"/>
                     </floruit>
-                </person>-->
+                </person>
 
-             <!--   <person xml:id="Cald">
+                <person xml:id="Cald">
                     <persName>Caldeiron</persName>
                     <nationality key="arag" cert="medium"/>
                     <birth>
@@ -1334,10 +1288,10 @@
                         <location corresp="#jaen" from="1236" to="1237"/>
                         <location corresp="#berenguer" from="1239" to="1243"/>
                     </floruit>
-                </person>-->
+                </person>
 
 
-              <!--  <person xml:id="Lour">
+                <person xml:id="Lour">
                     <persName>Lourenzo</persName>
                     <nationality key="pt" cert="medium"/>
                     <birth>
@@ -1401,7 +1355,7 @@
                         <location corresp="#afonsXI"/>
                         <affiliation>Sevilla</affiliation>
                     </floruit>
-                </person>-->
+                </person>
                 <person xml:id="AyPae">
                     <persName>Airas Paez</persName>
                     <floruit period="3"/>
@@ -1410,29 +1364,29 @@
                 <person xml:id="AyPrzVuyt">
                     <persName>Airas Perez Vuitoron</persName>
                     <floruit period="3"/>
-                    <!--                    <affiliation corresp="#jaen"/>
+                                        <affiliation corresp="#jaen"/>
                     <affiliation corresp="#JSrzCoe"/>
                     <affiliation corresp="#BernBon"/>
                     <affiliation corresp="#PGarBu"/>
                     <affiliation corresp="#JGarGlh"/>
                     <affiliation corresp="#PPon"/>
                     <affiliation corresp="#EstFai"/>
-                    <affiliation corresp="#VaPrzPar"/>-->
+                    <affiliation corresp="#VaPrzPar"/>
                     <affiliation>Terras do Deza <geo>42.660024,-8.110096</geo></affiliation>
                     <affiliation n="predio">San Pedro de Vila Nova de Dozón<geo>42.576944,-8.0225</geo> </affiliation>
                     <affiliation n="predio">Mosteiro de Acebeiro <geo>42.617345,-8.301867</geo></affiliation>
                 </person>
 
-                <!-- <person xml:id="PGarBu">
+                 <person xml:id="PGarBu">
                     <persName>Pero Garcia Burgalês</persName>
                     <floruit period="3"/>
-                </person>-->
+                </person>
 
-                <!--<person xml:id="VaPrzPar">
+                <person xml:id="VaPrzPar">
                     <persName>Vasco Perez Pardal</persName>
                     <floruit period="3"/>
-                </person>-->
-<!--
+                </person>
+
                 <person xml:id="GmzGar">
                     <persName>Gomez Garcia</persName>
                     <nationality key="cas" cert="high"/>
@@ -1447,29 +1401,29 @@
                     <floruit from="1275" to="1286" period="3">
                         <location corresp="#sanchoIV"/>
                     </floruit>
-                </person>-->
+                </person>
                 
                 <person xml:id="JoVlaz">
                     <persName>Johan Velaz</persName>
                     <nationality key="gl"/>
-                   <!-- <affiliation>Marcabrú<affiliation>Guilhem de Peitieu</affiliation>
+                    <affiliation>Marcabrú<affiliation>Guilhem de Peitieu</affiliation>
                         <affiliation ana="#sc"/>
                     </affiliation>
-                    <affiliation ana="#sc"/>-->
+                    <affiliation ana="#sc"/>
                     <affiliation n="predio">Mosteiro de Samos <geo>42.732449,-7.326430</geo></affiliation>
-                   <!-- <affiliation key="familia" ana="#cab"><affiliation>Selva, l'Alt
+                    <affiliation key="familia" ana="#cab"><affiliation>Selva, l'Alt
                             Maresme</affiliation>
-                        <affiliation>Mosteiro de Moreruela</affiliation>-->
+                        <affiliation>Mosteiro de Moreruela</affiliation>
                         <affiliation ana="#OsEa"/>
                         <affiliation ana="#PaySrzTav"/>
                         <affiliation ana="#JSrzSom"/>
-                        <!--<affiliation>Martim Ares Marinho</affiliation>-->
+                        <affiliation>Martim Ares Marinho</affiliation>
                         <affiliation ana="#FerPad"/>
-                    <!--</affiliation>-->
+                    </affiliation>
                     <affiliation key="familia" ana="#vlz"/>
-        <!--            <affiliation>Mosteiro de S. Leonardo de Alba de Tormes
+                    <affiliation>Mosteiro de S. Leonardo de Alba de Tormes
                             <affiliation>Carvalhinho</affiliation>
-                    </affiliation>-->
+                    </affiliation>
                     <affiliation>Mosteiro de Meira <geo>43.213056, -7.291139</geo><affiliation>Castro de
                             Rei</affiliation>
                     </affiliation>
@@ -1482,7 +1436,7 @@
                     <affiliation key="familia" ana="#trava">
                         <affiliation>Fernando II</affiliation>
                     </affiliation>
-                   <!-- <affiliation>Faro (A Coruña)</affiliation>-->
+                    <affiliation>Faro (A Coruña)</affiliation>
                     <affiliation>Oza (A Coruña) <geo>42.906784,-8.239178</geo></affiliation>
                     <affiliation>Vionho (A Coruña) <geo>43.188492,-8.632653</geo></affiliation>
                     <affiliation key="familia">Pedro Velaz <affiliation>Fernando II</affiliation>
@@ -1490,11 +1444,11 @@
                         <affiliation corresp="#compos"/>
                     </affiliation>
                 </person>
-               <!-- <person>
+                <person>
                     <persName>Trava</persName>
                     <affiliation>Mosteiro Sobrado</affiliation>
                     <affiliation corresp="#compos"/>
-                </person>-->
+                </person>
                 <person xml:id="OsEan">
                     <persName>Osoiro Eanes</persName>
                     <floruit period="2"/>
@@ -1508,7 +1462,7 @@
                         </affiliation>
                         <affiliation n="predio">Mosteiro de San Martiño Pinario <geo>42.881811,-8.544453</geo></affiliation>
                     </affiliation>
-                   <!-- <affiliation>Praça do Campo</affiliation>-->
+                    <affiliation>Praça do Campo</affiliation>
                     <affiliation>Búval <affiliation n="predio">Castelo de Búval <geo>42.5131284,-7.8177748</geo></affiliation>
                     </affiliation>
                     <affiliation n="geo">Santa Comba de Trevoedo, Maside<geo>42.395691,-8.032118</geo></affiliation>
