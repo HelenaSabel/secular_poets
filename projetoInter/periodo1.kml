@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>1170-1220</name>
+        
+        
+        <Placemark>
+         <name>Fernan Rodriguez de Calheiros</name>
+         <description>????</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>,,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Rodrigo Diaz de los Cameros</name>
+         <description>Celanova </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.958399,42.151712,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Rodrigo Diaz de los Cameros</name>
+         <description>Mosteiro de Ferreira de Pantón
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.619722,42.508333,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Rodrigo Diaz de los Cameros</name>
+         <description>Ferreira de Pallares </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.679235,42.880173,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Rodrigo Diaz de los Cameros</name>
+         <description>Mosteiro de Alcobaça </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.98,39.548333,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan Soarez de Pavia </name>
+         <description>Mosteiro de Paço de Sousa </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.344697,41.165906,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan Soarez de Pavia </name>
+         <description>Castelo de Paiva </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.269722,41.046389,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Airas Fernandes "Carpancho"</name>
+         <description>Cornado </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.494824,42.807515,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Airas Fernandes "Carpancho"</name>
+         <description>Santiago de Compostela </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.539,42.8803307,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Garcia Mendiz d' Eixo</name>
+         <description>Toroño </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.397806,43.289839,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Garcia Mendiz d' Eixo</name>
+         <description>Eixo </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.570415,40.631709,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Osoir'Anes</name>
+         <description>Santiago de Compostela </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.54,42.8780665,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Osoir'Anes</name>
+         <description>Ribadavia </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.143495,42.288255,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Osoir'Anes</name>
+         <description>Santiago de Compostela </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.527,42.88,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Osoir'Anes</name>
+         <description>Castela (río Avia - río Barbantiño)
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.028387,42.385684,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Osoir'Anes</name>
+         <description>Mosteiro de Bóveda </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>,,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Osoir'Anes</name>
+         <description>San Martiño de Cornozes </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.975,42.413056,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Osoir'Anes</name>
+         <description>Mosteiro de San Martiño Pinario
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.544453,42.881811,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Osoir'Anes</name>
+         <description>Castelo de Búval </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.8177748,42.5131284,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Osoir'Anes</name>
+         <description>Santa Comba de Trevoedo,
+            Maside</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.032118,42.395691,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Osoir'Anes</name>
+         <description>Igrexa de Santa María de Alón (Santa Comba)
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.83196,43.0075297,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan Velaz</name>
+         <description>Santiago de Compostela </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.527,42.8737893,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan Velaz</name>
+         <description>Mosteiro de Samos </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.326430,42.732449,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan Velaz</name>
+         <description>Mosteiro de Meira </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates> -7.291139,43.213056,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan Velaz</name>
+         <description>Castro de Rei </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.441949,43.156468,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan Velaz</name>
+         <description>Mosteiro de San Tirso </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.0325,42.3708,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan Velaz</name>
+         <description>Oza </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.239178,42.906784,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan Velaz</name>
+         <description>Vioño </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.632653,43.188492,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Airas Oares</name>
+         <description>Mosteiro de Oseira </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.951214,42.538461,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Airas Oares</name>
+         <description>Mosteiro de Sobrado </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.0225,43.038889,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero Pais Bazaco</name>
+         <description>Mosteiro de Oseira </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.94,42.54,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Pero Pais Bazaco</name>
+         <description>Vilanova de Dozón </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.022460,42.584438,100</coordinates>
+         </Point>
+      </Placemark>
+    </Document>
+</kml>

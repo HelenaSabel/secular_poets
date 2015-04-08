@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Topónimos interreg cantigas</name>
+    <Placemark>
+      <name>Viveyro</name>
+      <description>cantiga "Que muyto mi de Fernan Diaz praz" de Pero Garcia Burgalês.</description>
+      <Point>
+        <coordinates>-7.5934, 43.6639</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lagares</name>
+      <description>cantiga "Nostro Senhor, que ben alberguey" de Pero Garcia Burgalês.</description>
+      <Point>
+        <coordinates>-7.8621, 40.4016</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Paayo</name>
+      <description>cantiga "Nostro Senhor, que ben alberguey" de Pero Garcia Burgalês.</description>
+      <Point>
+        <coordinates>-7.841, 40.3529</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiago</name>
+      <description>cantiga "Quem seu parente vendia," de Pero da Ponte.</description>
+      <Point>
+        <coordinates>-8.5446, 42.8804</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Condado</name>
+      <description>cantiga "Mandei pedir noutro dia" de Pedro de Portugal, Conde de Barcelos.</description>
+      <Point>
+        <coordinates>-8.612058, 41.529207</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Compostela (Santiago de Compostela)</name>
+      <description>cantiga "Quand' eu hun dia fuy en Compostela" de Pedr' Amigo de Sevilha.</description>
+      <Point>
+        <coordinates>-8.5446, 42.8804</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sar</name>
+      <description>cantiga "Quand' eu hun dia fuy en Compostela" de Pedr' Amigo de Sevilha.</description>
+      <Point>
+        <coordinates>-8.5370, 42.8719</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Clemenço</name>
+      <description>cantiga "San Clemenço do mar" de Nuno Treez.</description>
+      <Point>
+        <coordinates>-8.7537,42.3501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Clemenço</name>
+      <description>cantiga "Non vou eu a San Clemenço orar e faço gram razon" de Nuno Treez</description>
+      <Point>
+        <coordinates>-8.7537,42.3501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Clemenço</name>
+      <description>cantiga "Non vou eu a San Clemenço orar e faço gram razon" de Nuno Treez</description>
+      <Point>
+        <coordinates>-8.7537,42.3501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Clemenço</name>
+      <description>cantiga "Estava m' en San Clemenço, u fora fazer oraçon" de Nuno Treez</description>
+      <Point> </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Simion</name>
+      <description>cantiga "Seiam' eu na ermida de San Simion," de Mendinho.</description>
+      <Point>
+        <coordinates>-8.628757, 42.307357</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sousela</name>
+      <description>cantiga "Pois boas donas son desemparadas" de Martin Soarez.</description>
+      <Point>
+        <coordinates>-8.183333, 41.366667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valongo (actual San Martín de Balongo)</name>
+      <description>cantiga "Madr', enviou-vo-lo meu amigo" de Martin de Padrozelos (Pedrozelos).</description>
+      <Point>
+        <coordinates>-8.143139, 42.190524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valongu’ (actual San Martín de Balongo)</name>
+      <description>cantiga "Gran sazon á, meu amigo" de Martin de Padrozelos (Pedrozelos).</description>
+      <Point>
+        <coordinates>-8.143139, 42.190524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Salvador (actual San Martín de Balongo)</name>
+      <description>cantiga “Por Deus, que vos non pês” de Martin de Padrozelos (Pedrozelos).</description>
+      <Point>
+        <coordinates>-8.143139, 42.190524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Salvador (actual San Martín de Balongo)</name>
+      <description>cantiga "Amig', avia queixume" de Martin de Padrozelos (Pedrozelos).</description>
+      <Point>
+        <coordinates>-8.143139, 42.190524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valongo (actual San Martín de Balongo)</name>
+      <description>cantiga "Ai meu amigo, coitada" de Martin de Padrozelos (Pedrozelos).</description>
+      <Point>
+        <coordinates>-8.143139, 42.190524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vigo</name>
+      <description>cantiga "Mandad' ei comigo" de Martin Codax.</description>
+      <Point>
+        <coordinates>-8.7210, 42.2403</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vigo</name>
+      <description>cantiga "Eno sagrado en Vigo" de Martin Codax.</description>
+      <Point>
+        <coordinates>-8.7210, 42.2403</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vigo</name>
+      <description>cantiga "Ai Deus, se sab' ora meu amigo" de Martin Codax.</description>
+      <Point>
+        <coordinates>-8.7210, 42.2403</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coronha</name>
+      <description>cantiga "Ena primeira rua que cheguemos" de Martin Anes Marinho.</description>
+      <Point>
+        <coordinates>-8.410687, 43.362157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orzelhon</name>
+      <description>cantiga "Se m' el Rey dess' algo, i m' iria" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates>-8.139275, 42.429185</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morrazo</name>
+      <description>cantiga "Saben en Morraz' e en Salnês" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates>-8.73, 42.3325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salnês</name>
+      <description>cantiga "Saben en Morraz' e en Salnês" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates>-8.7986, 42.5089</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alvan (Albán)</name>
+      <description>cantiga "O infançon ouv' atal" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates>-7.8563, 42.4284</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alvam (Albán)</name>
+      <description>cantiga "Enmentar quer' eu do brial" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates>-7.8563, 42.4284</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orzelhon</name>
+      <description>cantiga "Enmentar quer' eu do brial" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates>-8.139275, 42.429185</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orzelhon</name>
+      <description>cantiga "A mj quer mal o infanon" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates>-8.139275, 42.429185</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Galiza</name>
+      <description>cantiga "A mj quer mal o infanon" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates>-7.8833, 42.75</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Soveral</name>
+      <description>cantiga "A dona fremosa do Soveral" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates>-8.712730, 42.385735</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagüyn</name>
+      <description>cantiga "A dona de Bagüyn" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates> -8.7195, 42.3826</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Soveral</name>
+      <description>cantiga "A dona de Bagüyn" de Lopo Liáns (Lias).</description>
+      <Point>
+        <coordinates>-8.712730, 42.385735</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moeda Velha</name>
+      <description>cantiga "Direi-vos ora que o dizer" de Johan Vasquiz de Talaveira.</description>
+      <Point>
+        <coordinates>-8.5437, 42.8819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>San Martinho</name>
+      <description>cantiga "Direi-vos ora que o dizer" de Johan Vasquiz de Talaveira.</description>
+      <Point>
+        <coordinates>-8.5446, 42.8819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coimbra</name>
+      <description>cantiga "Don Estêvan fezo sa partiçon" de Johan Soarez Coelho.</description>
+      <Point>
+        <coordinates>-8.407739, 40.201272</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Runa</name>
+      <description>cantiga "Don Estêvan fezo sa partiçon" de Johan Soarez Coelho.</description>
+      <Point>
+        <coordinates>-8.344792, -40.213169</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arnado (Ribeirinha da cidade de Coimbra)</name>
+      <description>cantiga "Don Estêvan fezo sa partiçon" de Johan Soarez Coelho.</description>
+      <Point>
+        <coordinates>-8.407739, 40.201272</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amarante</name>
+      <description>cantiga "Don Estêvan fezo sa partiçon" de Johan Soarez Coelho.</description>
+      <Point>
+        <coordinates>-8.0828, 41.2719</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muimenta</name>
+      <description>cantiga "Ogan', en Muimenta" de Johan Soarez Somesso.</description>
+      <Point>
+        <coordinates> -8.186398, 42.330309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida San Servando</name>
+      <description>cantiga "A San Servand' en oraçon" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "A San Servando foi meu amigo" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "A San Servand', u ora van todas orar" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Disseron-mi ca se queria ir" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Donas van a San Servando muytas oj' en romaria” de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Filha, o que queredes ben" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Fui eu a San Servando por veer meu amigo" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Ir-se quer o meu amigo" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Mia madre velida, e non me guardedes" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Ora van a San Servando donas fazer romaria" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Quand' eu a San Servando fui un dia daqui" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Se meu amig' a San Servando for" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Trist' and' eu, velida, e ben vo-lo digo" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> Ermida de San Servando</name>
+      <description>cantiga "Trist' and' eu, velida, e ben vo-lo digo" de Johan Servando.</description>
+      <Point>
+        <coordinates>-8.021579, 42.379850</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lugo</name>
+      <description>cantiga "Loavan un dia, en Lugo, Elvira" de Johan Romeu de Lugo.</description>
+      <Point>
+        <coordinates>-7.5566, 43.0133</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barcelos</name>
+      <description>cantiga "Se m' ora Deus gran ben fazer quisesse" de Johan Garcia de Guilhade.</description>
+      <Point>
+        <coordinates>-8.612058, 41.529207</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faria</name>
+      <description>cantiga "Se m' ora Deus gran ben fazer quisesse" de Johan Garcia de Guilhade.</description>
+      <Point>
+        <coordinates>-8.6717, 41.4801</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faria</name>
+      <description>cantiga "Cuydou-s' amor que logo me faria" de Johan Garcia de Guilhade.</description>
+      <Point>
+        <coordinates>-8.6717, 41.4801</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crecente</name>
+      <description>cantiga "Pelo souto de Crecente" de Johan Airas, burgués de Santiago.</description>
+      <Point>
+        <coordinates>-8.555034, 42.863657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sar</name>
+      <description>cantiga "Pelo souto de Crecente" de Johan Airas, burgués de Santiago.</description>
+      <Point>
+        <coordinates>-8.5370, 42.8719</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lampai</name>
+      <description>cantiga "A por que perço o dormir" de Johan Airas, burgués de Santiago.</description>
+      <Point>
+        <coordinates>-8.614565, 42.779386</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Minho</name>
+      <description>cantiga "A por que perço o dormir" de Johan Airas, burgués de Santiago.</description>
+      <Point>
+        <coordinates>-8.649881, 42.034852</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Doiro</name>
+      <description>cantiga "A por que perço o dormir" de Johan Airas, burgués de Santiago.</description>
+      <Point>
+        <coordinates>-8.620465, 41.140103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gaia</name>
+      <description>cantiga "A por que perço o dormir" de Johan Airas, burgués de Santiago.</description>
+      <Point>
+        <coordinates>-8.614088, 41.125114</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crecente</name>
+      <description>cantiga "A por que perço o dormir" de Johan Airas, burgués de Santiago.</description>
+      <Point>
+        <coordinates>-8.555034, 42.863657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monte-mayor</name>
+      <description>cantiga "Tu, que ora vẽes de Monte-mayor" de Gil Sanchez.</description>
+      <Point>
+        <coordinates>-8.681797, 40.178177</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dormãa</name>
+      <description>cantiga "Quand' eu passei per Dorma" de Fernan Paez de Talamancos (Tamalancos).</description>
+      <Point>
+        <coordinates>-8.135054, 43.001663</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiago</name>
+      <description>cantiga "Que adubastes, amigo, al en Lug' u andastes" de Fernand' Esquio.</description>
+      <Point>
+        <coordinates>-8.5446, 42.8804</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lugo</name>
+      <description>cantiga "Que adubastes, amigo, al en Lug' u andastes" de Fernand' Esquio.</description>
+      <Point>
+        <coordinates>-7.5566, 43.0133</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alhariz</name>
+      <description>cantiga "Vós, Don Josep, venho eu preguntar" de Estevan da Guarda.</description>
+      <Point>
+        <coordinates>-7.803399, 42.190290</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sea</name>
+      <description>cantiga "Disse-m' oj' assi un ome" de Estevan da Guarda.</description>
+      <Point>
+        <coordinates>-7.704657, 40.413831</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Doiro</name>
+      <description>cantiga "Disse-m' oj' assi un ome" de Estevan da Guarda.</description>
+      <Point>
+        <coordinates>-8.620465, 41.140103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Minho</name>
+      <description>cantiga "Disse-m' oj' assi un ome" de Estevan da Guarda.</description>
+      <Point>
+        <coordinates>-8.649881, 42.034852</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sousa</name>
+      <description>cantiga "Meu senhor arcebispo, and' eu escomungado" de Diego Pezelho.</description>
+      <Point>
+        <coordinates>-8.3140, 41.3038</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Galiza</name>
+      <description>cantiga "Os d' Aragon, que soen donear" de Caldeiron.</description>
+      <Point>
+        <coordinates>-7.8833, 42.75</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaval</name>
+      <description>cantiga "Se veess' o meu amigo a Bonaval e me visse" de Bernal de Bonaval.</description>
+      <Point>
+        <coordinates>-8.5382,42.8825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaval</name>
+      <description>cantiga "Pois mi dizedes, amigo, ca mi queredes vós melhor" de Bernal de Bonaval.</description>
+      <Point>
+        <coordinates>-8.5382,42.8825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaval</name>
+      <description>cantiga "Rogar vos quer' eu, mha madre e mha senhor" de Bernal de Bonaval</description>
+      <Point>
+        <coordinates>-8.5382,42.8825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaval</name>
+      <description>cantiga "Diss' a fremosa en Bonaval assy" de Bernal de Bonaval.</description>
+      <Point>
+        <coordinates>-8.5382,42.8825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaval</name>
+      <description>cantiga "A Bonaval quer' eu, mha senhor, hir" de Bernal de Bonaval</description>
+      <Point>
+        <coordinates>-8.5382,42.8825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>riba Sil</name>
+      <description>cantiga "Mester avia Don Gil" de Alfonso X o Sabio.</description>
+      <Point>
+        <coordinates>-7.302396, 42.467545</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deça</name>
+      <description>cantiga "Med' ei ao pertigueiro que ten Dea" de Alfonso X o Sabio.</description>
+      <Point>
+        <coordinates>-8.112614, 42.662336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Souto Maior</name>
+      <description>cantiga "Don Meendo, Don Meendo" de Alfonso X o Sabio.</description>
+      <Point>
+        <coordinates>-8.570035, 42.339083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ourens (Ourense).</name>
+      <description>cantiga "Com' eu en dia de Pascoa queria ben comer" de Alfonso X o Sabio.</description>
+      <Point>
+        <coordinates>-7.862913, 42.336015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beira</name>
+      <description>cantiga "Á lealdade da Bezerra que pela Beira muito anda" de Airas Perez Vuitoron.</description>
+      <Point>
+        <coordinates>-7.910987, 40.663012</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marialva</name>
+      <description>cantiga "Á lealdade da Bezerra que pela Beira muito anda" de Airas Perez Vuitoron.</description>
+      <Point>
+        <coordinates>-7.259720, 40.967971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faria</name>
+      <description>cantiga "Á lealdade da Bezerra que pela Beira muito anda" de Airas Perez Vuitoron.</description>
+      <Point>
+        <coordinates>-8.6717, 41.4801</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monsanto</name>
+      <description>cantiga "Á lealdade da Bezerra que pela Beira muito anda" de Airas Perez Vuitoron.</description>
+      <Point>
+        <coordinates>-7.113673, 40.044630</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trancoso</name>
+      <description>cantiga "Á lealdade da Bezerra que pela Beira muito anda" de Airas Perez Vuitoron.</description>
+      <Point>
+        <coordinates>-7.349064, 40.780400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiago</name>
+      <description>cantiga "Porque no mundo mengou a verdade" de Airas Nunez.</description>
+      <Point>
+        <coordinates>-8.5446, 42.8804</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiag’</name>
+      <description>cantiga "Por fazer romaria, pug' en meu coraçon" de Airas Carpancho.</description>
+      <Point>
+        <coordinates>-8.5446, 42.8804</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Redondela</name>
+      <description>cantiga "O meu señor, o bispo, na Redondela ũu dia" de Airas Nunez.</description>
+      <Point>
+        <coordinates>-8.609459, 42.283400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Molide</name>
+      <description>cantiga "O meu señor, o bispo, na Redondela ũu dia" de Airas Nunez.</description>
+      <Point>
+        <coordinates>-8.015301, 42.913959</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mosteiro de Longos (Longos)</name>
+      <description>cantiga "Seiaxi Don Belpelho en ũa sa maison," de Afonso Lopez de Baian.</description>
+      <Point>
+        <coordinates>-8.364640, 41.520479</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Basto</name>
+      <description>cantiga "Seiaxi Don Belpelho en ũa sa maison," de Afonso Lopez de Baian.</description>
+      <Point>
+        <coordinates>-7.990937, 41.483062</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beira</name>
+      <description>cantiga "Seiaxi Don Belpelho en ũa sa maison," de Afonso Lopez de Baian.</description>
+      <Point>
+        <coordinates>-7.910987, 40.663012</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arouca</name>
+      <description>cantiga "En Arouca űa casa faria," de Afonso Lopez de Baian.</description>
+      <Point>
+        <coordinates>-8.245050, 40.933058</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blandiz</name>
+      <description>cantiga "Paai Rengel e outros dous romeus" de Afons' Eanes do Coton.</description>
+      <Point>
+        <coordinates>-7.527943, 42.031382</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maia</name>
+      <description>cantiga "Pois non ei de Dona Elvira" de Anónimo.</description>
+      <Point>
+        <coordinates>-8.622344, 41.231453</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sanhoane</name>
+      <description>cantiga "Pois non ei de Dona Elvira" de Anónimo.</description>
+      <Point>
+        <coordinates>-6.709254, 41.343431</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Doiro</name>
+      <description>cantiga "Pois non ei de Dona Elvira" de Anónimo.</description>
+      <Point>
+        <coordinates>-8.620465, 41.140103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Porto</name>
+      <description>cantiga "Pois non ei de Dona Elvira" de Anónimo.</description>
+      <Point>
+        <coordinates> -8.629234, 41.160915</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gaia</name>
+      <description>cantiga "Pois non ei de Dona Elvira" de Anónimo.</description>
+      <Point>
+        <coordinates>-8.614088, 41.125114</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sousa</name>
+      <description>cantiga "Ala u jaz la Torona" de Garcia Mendiz d' Eixo.</description>
+      <Point>
+        <coordinates>-8.3140, 41.3038</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Porto</name>
+      <description>cantiga "Do Port' ando e vou mudar" de Fernand' Eanes.</description>
+      <Point>
+        <coordinates> -8.629234, 41.160915</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Simon de Val de Prados</name>
+      <description>cantiga "Pois nossas madres van a San Simon" de Pero Viviaez</description>
+      <Point>
+        <coordinates>-6.9619,41.5378</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria das Leiras</name>
+      <description>cantiga "Dis[s]eronmi ũas novas de que m' é mui gran ben" de Afonso Lopez de Baian</description>
+      <Point>
+        <coordinates>-8.8008,41.629</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria das Leiras</name>
+      <description>cantiga "Ir quer' oj' eu, fremosa, de coraçon" de Afonso Lopez de Baian</description>
+      <Point>
+        <coordinates>-8.8008,41.629</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria de Reça</name>
+      <description>cantiga "Por vee-lo namorado que muit' que eu non vi" de Airas Paez, jograr</description>
+      <Point>
+        <coordinates>-7.8991,42.3492</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria de Reça</name>
+      <description>cantiga "Quer' ir a Santa Maria de Reça, e, irmana, treides migo" de Airas Paez, jograr</description>
+      <Point>
+        <coordinates>-7.8991,42.3492</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria do Lago</name>
+      <description>cantiga "D' ir a Santa Maria do Lagu' ei gram sabor" de Fernan do Lago</description>
+      <Point>
+        <coordinates>-8.7326, 42.57</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria do Faro</name>
+      <description>cantiga "Pois vos, filha, queredes mui gran ben" de Johan de Requeixo</description>
+      <Point>
+        <coordinates>-7.8713,42.6345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria do Faro</name>
+      <description>cantiga "Fui eu, madr', en romaria a Faro con meu amigo" de Johan de Requeixo</description>
+      <Point>
+        <coordinates>-7.8713,42.6345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria do Faro</name>
+      <description>cantiga "Atender quer' eu mandado, que m' enviou meu amigo" de Johan de Requeixo</description>
+      <Point>
+        <coordinates>-7.8713,42.6345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria do Faro</name>
+      <description>cantiga "Amiga, quen oj' ouvesse" de Johan de Requeixo</description>
+      <Point>
+        <coordinates>-7.8713,42.6345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria do Faro</name>
+      <description>cantiga "A Far' un dia irei" de Johan de Requeixo</description>
+      <Point>
+        <coordinates>-7.8713,42.6345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Mamede</name>
+      <description>cantiga "Fui eu, madr', a San Momed', u me cuidei" de Johan de Cangas</description>
+      <Point>
+        <coordinates>-8.6403,42.1916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Mamede</name>
+      <description>cantiga "En San Momed', u sabedes" de Johan de Cangas</description>
+      <Point>
+        <coordinates>-8.6403,42.1916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Mamede</name>
+      <description>cantiga "Amigo, se mi gran ben queredes" de Johan de Cangas</description>
+      <Point>
+        <coordinates>-8.6403,42.1916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Treeçon</name>
+      <description>cantiga "Mal faç' eu velida, que ora non vou" de Golparro</description>
+      <Point>
+        <coordinates>-8.6394,42.0486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Treeçon</name>
+      <description>cantiga "Mal faç' eu velida, que ora non vou" de Golparro</description>
+      <Point>
+        <coordinates>-8.6394,42.0486</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de San Leuter</name>
+      <description>cantiga "Por Deus vos rogo, madre, que mi digades" de Lopo, jogral</description>
+      <Point>
+        <coordinates>-8.5471,42.8592</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria de Reça</name>
+      <description>cantiga "Quer' ir a Santa Maria de Reça, e, irmana, treides migo" de Airas Paez, jograr</description>
+      <Point>
+        <coordinates>-7.8991,42.3492</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ermida de Santa Maria de Reça</name>
+      <description>cantiga "Por vee-lo namorado que muit' que eu non vi" de Airas Paez, jograr</description>
+      <Point>
+        <coordinates>-7.8991,42.3492</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiago (Santiago de Compostela)</name>
+      <description>cantiga "A Santiagu' en romaria ven" de Airas Nunez</description>
+      <Point>
+        <coordinates>-8.5441,42.8806</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santiago(Santiago de Compostela)</name>
+      <description>cantiga "Por fazer romaria, pug' en meu coraçon" de Airas Carpancho (Corpancho)</description>
+      <Point>
+        <coordinates>-8.5441,42.8806</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
