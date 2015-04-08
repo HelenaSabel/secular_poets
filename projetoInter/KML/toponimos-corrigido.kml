@@ -144,7 +144,7 @@
       </Placemark>
       <Placemark>
          <name>Martin de Padrozelos</name>
-         <description>Valongo (actual San Martín de Balongo), que aparece na cantiga "Madr', enviou-vo-lo meu amigo" e "Gran sazon á, meu amigo" de Martin de Padrozelos (Pedrozelos).</description>
+         <description>Valongo (actual San Martín de Balongo), que aparece nas cantigas "Ai meu amigo, coitada", "Madr', enviou-vo-lo meu amigo" e "Gran sazon á, meu amigo" de Martin de Padrozelos (Pedrozelos).</description>
          <Style>
             <IconStyle>
                <Icon>
@@ -159,20 +159,6 @@
       <Placemark>
          <name>Martin de Padrozelos </name>
          <description>Ermida de San Salvador (actual San Martín de Balongo), que aparece nas cantigas “Por Deus, que vos non pês” e "Amig', avia queixume" de Martin de Padrozelos (Pedrozelos).</description>
-         <Style>
-            <IconStyle>
-               <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
-               </Icon>
-            </IconStyle>
-         </Style>
-         <Point>
-            <coordinates>-8.143139, 42.190524</coordinates>
-         </Point>
-      </Placemark>
-      <Placemark>
-         <name>Martin de Padrozelos</name>
-         <description>Valongo (actual San Martín de Balongo), que aparece na cantiga "Ai meu amigo, coitada" de Martin de Padrozelos (Pedrozelos).</description>
          <Style>
             <IconStyle>
                <Icon>

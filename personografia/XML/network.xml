@@ -332,6 +332,7 @@
                     <floruit from="1230" to="1270" period="3"/>
                     <affiliation>Riba de Lima (Minho) <geo>41.683333,-8.833333</geo></affiliation>
                     <affiliation key="familia" corresp="#GarSrz"/>
+                    <affiliation key="literaria" n="geo">Sousela <geo>41.366667,-8.183333</geo></affiliation>
                 </person>
                 <person xml:id="AyCarp">
                     <persName>Airas Fernandes "Carpancho"</persName>
@@ -560,6 +561,7 @@
                         <location corresp="#haro"/>
                         <location corresp="#meneses"/>
                     </floruit>
+                         <affiliation key="literaria" corresp="#compos"/>
                 </person>
                 <person xml:id="MartCod">
                     <persName>Martin Codax</persName>
@@ -581,6 +583,7 @@
                     <persName>Martin de Padrozelos</persName>
                     <affiliation key="origem" n="geo">Praduzelos <geo>42.33,-7.5095</geo>
                     </affiliation>
+                    <affiliation key="literaria">Balongo <geo>42.190524,-8.143139</geo></affiliation>
                     <affiliation n="predio">Mosteiro de Montederramo <geo>42.274503,-7.501944</geo>
                     </affiliation>
                 </person>
@@ -801,9 +804,14 @@
                     </floruit>
                     <affiliation n="predio">Mosteiro de São João de Tarouca (Viseu)
                             <geo>40.994554,-7.745913</geo></affiliation>
+                    <affiliation key="literaria">Condado <geo>41.529207,-8.612058</geo></affiliation>
                     <affiliation n="geo">Lalim <geo>42.549670,-7.519520</geo></affiliation>
                 </person>
-
+                <person>
+                    <persName>Pedr'Amigo de Sevilha</persName>
+                    <affiliation key="literaria" corresp="#compos"/>
+                    <affiliation key="literaria">Sar</affiliation>
+                </person>
 
                 <person xml:id="EstGuar">
                     <persName>Estevan da Guarda</persName>
@@ -1190,8 +1198,9 @@
                 </person>
                 <person xml:id="Mend">
                     <persName>Meendinho</persName>
+                    <nationality key="gl"/>
                     <floruit period="3"/>
-                    <affiliation key="literaria" n="geo">Sa Simón (Vigo) <geo>42.307579,-8.628628</geo></affiliation>
+                    <affiliation key="literaria" n="geo">San Simón (Vigo) <geo>42.307579,-8.628628</geo></affiliation>
                 </person>
                 <person xml:id="JAy">
                     <persName>Johan Airas</persName>
@@ -1380,6 +1389,9 @@
                  <person xml:id="PGarBu">
                     <persName>Pero Garcia Burgalês</persName>
                     <floruit period="3"/>
+                     <affiliation key="literaria" n="geo">Viveiro <geo>43.6639,-7.5934</geo></affiliation>
+                     <affiliation key="literaria" n="geo">Lagares <geo>40.4016,-7.8621</geo></affiliation>
+                     <affiliation key="literaria" n="??">San Paio <geo>40.3529,-7.841</geo></affiliation>
                 </person>
 
                 <person xml:id="VaPrzPar">
