@@ -125,9 +125,10 @@
     
         
         
-            <Placemark>
+        <Placemark>
          <name>Alfonso Lopez de Baião</name>
-         <description>Mosteiro de Arouca </description>
+         <description>Mosteiro de Arouca
+            </description>
          <Style>
             <IconStyle>
                <Icon>
@@ -139,7 +140,7 @@
             <coordinates>-8.246897,40.927947,100</coordinates>
          </Point>
       </Placemark>
-            <Placemark>
+        <Placemark>
          <name>Alfonso Lopez de Baião</name>
          <description>Baião </description>
          <Style>
@@ -235,6 +236,23 @@
          </Style>
          <Point>
             <coordinates>-8.582251,41.764301,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Fernan Padron</name>
+         <description>Padrón </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7,42.8,100</coordinates>
          </Point>
       </Placemark>
     
@@ -395,7 +413,8 @@
             </IconStyle>
          </Style>
          <Point>
-            <coordinates> -7.840788,42.383283,100</coordinates>
+            <coordinates>
+            -7.840788,42.383283,100</coordinates>
          </Point>
       </Placemark>
     
@@ -656,6 +675,23 @@
          </Style>
          <Point>
             <coordinates>-8.039395,41.984776,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero da Ponte</name>
+         <description>Pontevedra </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.64,42.431667,100</coordinates>
          </Point>
       </Placemark>
     
@@ -1125,7 +1161,7 @@
       </Placemark>
     
         
-                
+        
         <Placemark>
          <name>Pai da Cana</name>
          <description>Santiago de Compostela </description>

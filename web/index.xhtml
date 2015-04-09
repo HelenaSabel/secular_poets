@@ -14,10 +14,10 @@
                 margin:4% 5% 4% 7%
             }
             
-            div.capital{
-                margin-top:13%;
-                float:right;
+            div.capital{               
+                clear:right;
                 width:9%;
+                clear:both;
                 vertical-align:central;
             }
             
@@ -33,28 +33,31 @@
         }</style>
     </head>
     <body>
-        <div class="capital">
-            <a class="tooltip"><span class="initial" id="en"><img src="images/E.png" alt="e"
-                     /></span><span class="title">English version</span></a>
-            <a class="tooltip"><span class="initial" id="gl"><img src="images/G.png" alt="g"
-                     /></span><span class="title">Versom em galego</span></a>
-        </div>
-        <div class="inicio">
-            <a href="about.xhtml">
-                <div class="background">
-                    <img src="images/macaco.jpg" />
-                </div>
-                <div class="transbox">
-                    <!--<h1 class="inicio"><span class="gl">Lírica galego-portuguesa</span><span
+        <div class="contentor">
+            <div class="left">
+                <div class="capital">
+                    <a class="tooltip"><span class="initial" id="en"><img src="images/E.png"
+                        alt="e" /></span><span class="title">English version</span></a>
+                    <a class="tooltip"><span class="initial" id="gl"><img src="images/G.png"
+                        alt="g" /></span><span class="title">Versom em galego</span></a>
+                </div></div>
+            <div class="inicio">
+                <a href="about.xhtml">
+                    <div class="background">
+                        <!-- <img src="images/macaco.jpg" />-->
+                        <div class="transbox">
+                            <!--<h1 class="inicio"><span class="gl">Lírica galego-portuguesa</span><span
                                 class="en">Galician-Portuguese Lyric</span></h1>-->
-                    <h3 class="inicio"><span class="gl">Página pessoal de Helena Bermúdez
-                            Sabel</span><span class="en">Helena Bermudez Sabel’s
-                        homepage</span></h3>
-                    <h4 class="inicio"><span class="gl">Estudante pré-doutoral na Universidade de
-                            Santiago de Compostela</span><span class="en">PhD candidate at the
-                            University of Santiago de Compostela</span></h4>
-                </div>
-            </a>
+                            <h3 class="inicio"><span class="gl">Página pessoal de Helena Bermúdez
+                                    Sabel</span><span class="en">Helena Bermudez Sabel’s
+                                    homepage</span></h3>
+                            <h4 class="inicio"><span class="gl">Estudante pré-doutoral na
+                                    Universidade de Santiago de Compostela</span><span class="en"
+                                    >PhD candidate at the University of Santiago de
+                                    Compostela</span></h4>
+                        </div>
+                    </div>
+                </a>
             <div class="menu"><ul class="menu gl">
                     <li>
                         <a href="about.xhtml" class="has-sub">Início</a>
@@ -105,6 +108,7 @@
                         <a href="recursos.xhtml">Resources</a>
                     </li>
                 </ul></div>
+        </div>
         </div>
     </body>
 </html>

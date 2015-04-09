@@ -57,7 +57,7 @@ opacity:0.7;
 
 div.inicio {
     float:left;
-    width:85%;
+    /*width:85%;*/
     background-color: DimGray;
     border:2px solid #610000;
     border-radius: 7px;
@@ -78,12 +78,21 @@ div.inicio {
             }*/
             
   div.background {
-            position:absolute;
+            /*position:absolute;*/
             opacity:1;
+            background-image: url('../images/macaco.jpg');
+            height:438px;
+            display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+            clear:both;
             }
             
-    div.background img {width:100%}
-            
+    /*div.background img {width:100%}*/
+
 div.background:hover{
     opacity:0.9;
 }
@@ -95,16 +104,17 @@ div.menu{
     clear:both;
     background-color:#8b0000;    
 }
+
             
 div.transbox{
-    margin: 1%;
-    margin-bottom:16%;
+/*    margin-bottom:16%;
     margin-top:16%;
-    float:right;
-    width:41%;
+    float:right;*/
+    /*width:41%;*/
     padding:1%;
     background-color: white;
     opacity: 0.9;
+    margin:auto;
 }
     
 

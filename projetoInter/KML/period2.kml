@@ -55,7 +55,7 @@
     
         
         
-            <Placemark>
+        <Placemark>
          <name>Johan Soarez Somesso</name>
          <description>Fornelos </description>
          <Style>
@@ -69,10 +69,9 @@
             <coordinates>-8.495883,42.136781,100</coordinates>
          </Point>
       </Placemark>
-            <Placemark>
+        <Placemark>
          <name>Johan Soarez Somesso</name>
-         <description>Muimenta
-                </description>
+         <description>Muimenta </description>
          <Style>
             <IconStyle>
                <Icon>
@@ -86,7 +85,8 @@
       </Placemark>
         <Placemark>
          <name>Johan Soarez Somesso</name>
-         <description>Terra menor de San Martiño de Ladróns</description>
+         <description>Terra menor de San Martiño de
+            Ladróns</description>
          <Style>
             <IconStyle>
                <Icon>
@@ -140,7 +140,7 @@
             <coordinates>-8.25,42.1455069,100</coordinates>
          </Point>
       </Placemark>
-            <Placemark>
+        <Placemark>
          <name>Johan Soarez Somesso</name>
          <description>Tui </description>
          <Style>
@@ -154,7 +154,7 @@
             <coordinates>-8.646907,42.049014,100</coordinates>
          </Point>
       </Placemark>
-            <Placemark>
+        <Placemark>
          <name>Johan Soarez Somesso</name>
          <description>Mosteiro de Fiães </description>
          <Style>
@@ -168,7 +168,7 @@
             <coordinates>-8.210651,42.102527,100</coordinates>
          </Point>
       </Placemark>
-            <Placemark>
+        <Placemark>
          <name>Johan Soarez Somesso</name>
          <description>Catedral de Tui </description>
          <Style>
@@ -182,7 +182,7 @@
             <coordinates>-8.644611,42.045972,100</coordinates>
          </Point>
       </Placemark>
-            <Placemark>
+        <Placemark>
          <name>Johan Soarez Somesso</name>
          <description>Igrexa de Santa Cristina de Valeixe</description>
          <Style>
@@ -194,10 +194,10 @@
          </Style>
          <Point>
             <coordinates>
-                    -8.272472,42.167806,100</coordinates>
+            -8.272472,42.167806,100</coordinates>
          </Point>
       </Placemark>
-            <Placemark>
+        <Placemark>
          <name>Johan Soarez Somesso</name>
          <description>Igrexa de Santa Euxenia de Setados</description>
          <Style>
@@ -209,7 +209,7 @@
          </Style>
          <Point>
             <coordinates>
-                    -8.398167,42.086167,100</coordinates>
+            -8.398167,42.086167,100</coordinates>
          </Point>
       </Placemark>
     
@@ -227,23 +227,6 @@
          </Style>
          <Point>
             <coordinates>-8.492129,42.686679,100</coordinates>
-         </Point>
-      </Placemark>
-    
-        
-        
-        <Placemark>
-         <name>Fernan Padron</name>
-         <description>Padrón </description>
-         <Style>
-            <IconStyle>
-               <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
-               </Icon>
-            </IconStyle>
-         </Style>
-         <Point>
-            <coordinates>-8.7,42.8,100</coordinates>
          </Point>
       </Placemark>
     
@@ -294,6 +277,52 @@
          </Style>
          <Point>
             <coordinates>-8.746229,41.352477,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Gonçalo Garcia</name>
+         <description>Toroño </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.397806,43.289839,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Gonçalo Garcia</name>
+         <description>Eixo </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.570415,40.631709,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Gonçalo Garcia</name>
+         <description>Terras de Sousa
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.520278,41.087778,100</coordinates>
          </Point>
       </Placemark>
     

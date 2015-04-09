@@ -6,7 +6,7 @@
         
         <Placemark>
          <name>Fernan Rodriguez de Calheiros</name>
-         <description>????</description>
+         <description>Calheiros </description>
          <Style>
             <IconStyle>
                <Icon>
@@ -15,7 +15,7 @@
             </IconStyle>
          </Style>
          <Point>
-            <coordinates>,,100</coordinates>
+            <coordinates>-8.568889,41.806389,100</coordinates>
          </Point>
       </Placemark>
     
@@ -175,6 +175,79 @@
         
         
         <Placemark>
+         <name>Pero Rodriguez da Palmeira</name>
+         <description>Paço de Vila Nova de Famalicão </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.521,41.4126001,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Pero Rodriguez da Palmeira</name>
+         <description>Mosteiro de Landim </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.46,41.379469,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Pero Rodriguez da Palmeira</name>
+         <description>Igrexa de São Miguel de Guimarães </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.294762,41.448529,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Pero Rodriguez da Palmeira</name>
+         <description>Palmeira </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.50545,41.3994888,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Pero Rodriguez da Palmeira</name>
+         <description>Pereira </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.518598,41.378266,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
          <name>Osoir'Anes</name>
          <description>Santiago de Compostela </description>
          <Style>
@@ -276,7 +349,7 @@
       </Placemark>
         <Placemark>
          <name>Osoir'Anes</name>
-         <description>Castelo de Búval </description>
+         <description>Castelo de Búbal </description>
          <Style>
             <IconStyle>
                <Icon>
@@ -306,7 +379,7 @@
         <Placemark>
          <name>Osoir'Anes</name>
          <description>Igrexa de Santa María de Alón (Santa Comba)
-            </description>
+                </description>
          <Style>
             <IconStyle>
                <Icon>
