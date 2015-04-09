@@ -35,39 +35,52 @@ body {
 div.banner {
     margin-top: 1%;
 }
-/*div.cabeçalho{
+/*div.cabeÃ§alho{
     float:left;
     width:90%;
     margin-bottom:1%;
 }*/
 
 div.capital {
-    float:right;
-    /*width:10%;*/
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-end;
 }
 
 div.capital img{
     width:4em;
-    display:inline;
+    margin-left:10%;
 }
 
 div.capital img:hover{
 opacity:0.7;
 }
 
+div.contentor{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:99%;
+}
+div.right{
+    display:flex;
+    }
+div.left{
+
+}
+
 div.inicio {
-    float:left;
-    /*width:85%;*/
     background-color: DimGray;
     border:2px solid #610000;
     border-radius: 7px;
     padding: 1%;
     box-shadow:15px 15px 5px #444444;
-    margin-bottom:2%;}
+    margin-bottom:2%;
+    }
     
     
 /* div.background {
-            background: url(../images/cabeçalho.jpg);
+            background: url(../images/cabeÃ§alho.jpg);
             max-width:100%;
             max-height:100%;
             height:452px;
@@ -83,7 +96,7 @@ div.inicio {
             background-image: url('../images/macaco.jpg');
             height:438px;
             display: -webkit-flex;
-  display:         flex;
+  display: flex;
   -webkit-align-items: center;
           align-items: center;
   -webkit-justify-content: center;
@@ -300,20 +313,25 @@ table.sortable th > svg{
 }
 
 q{
-    quotes:"“" "”" "‘" "’";
+    quotes:"â€œ" "â€" "â€˜" "â€™";
 }
 
 a{text-decoration: none;
 color: #610000}
 
 iframe{
-    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:2%;
+    display:block;
 }
 
-/*a:link {color:darkred}
-a:visited {color:DimGray}
-a:hover {background-color:#610000}
-a:active {color:#093950}*/
+
+a:visited {color:darkred}
+a:hover {color:#093950}
+
+
+
 
 /*#navMenu ul{
     font-family:georgia;

@@ -32,7 +32,6 @@
         <persName>Vasco Fernandez Praga de Sandin</persName>
         <floruit from="1200" to="1240" period="2"/>
         <affiliation n="geo" key="familia">Sandim <geo>41.033534,-8.498819</geo></affiliation>
-        <!--<affiliation n="nomsei" key="familia">Mogudos <geo/></affiliation>-->
         <affiliation key="origem" cert="low" n="geo">Parga (Lugo)
             <geo>43.162582,-7.836350</geo></affiliation>
     </person>
@@ -41,8 +40,7 @@
         <floruit from="1223" to="1257" period="2"/>
         <affiliation key="familia" n="geo">Fornelos <geo>42.136781,-8.495883</geo></affiliation>
         <affiliation key="literario" n="geo">Muimenta <geo>42.330626,-8.185819</geo></affiliation>
-        <affiliation n="geo">Terra menor de San Martiño de
-            Ladróns<geo>42.183512,-8.245</geo></affiliation>
+        <affiliation n="geo">Terra menor de San Martiño de Ladróns<geo>42.183512,-8.245</geo></affiliation>
         <affiliation n="geo">Melón <geo>42.259788,-8.214286</geo></affiliation>
         <affiliation n="predio">San Pedro de Crecente <geo>42.153784,-8.223320</geo></affiliation>
         <affiliation n="geo">Albeos <geo>42.1455069,-8.25</geo></affiliation>
@@ -63,7 +61,7 @@
     <person xml:id="FerRdzCalh">
         <persName>Fernan Rodriguez de Calheiros</persName>
         <floruit period="1"/>
-        <affiliation>Calheiros <geo>41.806389,-8.568889</geo></affiliation>
+        <affiliation n="geo">Calheiros <geo>41.806389,-8.568889</geo></affiliation>
     </person>
     <person xml:id="RodDzCam">
         <persName>Rodrigo Diaz de los Cameros</persName>
