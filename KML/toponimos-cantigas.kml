@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
    <Document>
-      <name>Topónimos interreg cantigas</name>
+      <name>Topónimos cantigas Galiza-Norte de Portugal</name>
       <Placemark>
          <name>Pero Garcia Burgalês</name>
          <description>Viveyro, que aparece na cantiga "Que muyto mi de Fernan Diaz praz" de Pero Garcia Burgalês.</description>
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -22,7 +22,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -36,7 +36,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -50,7 +50,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/citywalls.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -64,7 +64,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -78,7 +78,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/citywalls.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -92,7 +92,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -106,7 +106,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -120,7 +120,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -134,7 +134,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -148,7 +148,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -162,7 +162,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -176,7 +176,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/citywalls.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -190,7 +190,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -204,7 +204,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -218,7 +218,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -232,7 +232,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -246,7 +246,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -261,7 +261,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -275,7 +275,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -289,7 +289,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -303,7 +303,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -317,7 +317,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -331,7 +331,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/citywalls.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -345,12 +345,12 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
          <Point>
-            <coordinates>-8.344792, -40.213169</coordinates>
+            <coordinates>-8.344792, 40.213169</coordinates>
          </Point>
       </Placemark>
       <Placemark>
@@ -359,7 +359,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -373,7 +373,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -387,7 +387,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -401,7 +401,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -415,7 +415,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/citywalls.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -429,7 +429,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -443,7 +443,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -457,7 +457,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -471,7 +471,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/river.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -485,7 +485,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -499,7 +499,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/river.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -513,7 +513,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/river.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -527,7 +527,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -541,7 +541,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -555,7 +555,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -569,7 +569,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -583,7 +583,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/citywalls.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -597,7 +597,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -611,7 +611,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -625,7 +625,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -639,7 +639,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -653,7 +653,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -667,7 +667,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -681,7 +681,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -695,7 +695,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -709,7 +709,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -723,7 +723,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -737,7 +737,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -751,7 +751,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -765,7 +765,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -779,7 +779,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -793,7 +793,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -807,7 +807,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -821,7 +821,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -835,7 +835,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -849,7 +849,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -863,7 +863,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -877,7 +877,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -891,7 +891,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -905,7 +905,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -919,7 +919,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -933,7 +933,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -947,7 +947,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -961,7 +961,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -975,7 +975,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -989,7 +989,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/river.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1003,7 +1003,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1017,7 +1017,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1031,7 +1031,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1046,7 +1046,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1060,7 +1060,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1074,7 +1074,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1088,7 +1088,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1102,7 +1102,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1116,7 +1116,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/smallcity.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1130,7 +1130,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1144,7 +1144,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1158,7 +1158,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1172,7 +1172,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/chapel.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1186,7 +1186,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/citywalls.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -1195,12 +1195,12 @@
          </Point>
       </Placemark>
       <Placemark>
-         <name>Airas Carpancho (Corpancho)</name>
-         <description>Santiago(Santiago de Compostela), que aparece na cantiga "Por fazer romaria, pug' en meu coraçon" de Airas Carpancho (Corpancho)</description>
+         <name>Airas Carpancho</name>
+         <description>Santiago (Santiago de Compostela), que aparece na cantiga "Por fazer romaria, pug' en meu coraçon" de Airas Carpancho (Corpancho)</description>
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon0.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/cathedral.png</href>
                </Icon>
             </IconStyle>
          </Style>

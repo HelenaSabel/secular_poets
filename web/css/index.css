@@ -167,6 +167,18 @@ div#menu{
     width:73%
 }
 
+.legenda {display:flex;
+justify-content:space-around;}
+
+.legenda .direita p{
+display:flex;
+align-items:center;
+}
+
+.legenda .esquerda p{
+display:flex;
+align-items:center;
+}
 
 h3.inicio {
     background-color:inherit;
