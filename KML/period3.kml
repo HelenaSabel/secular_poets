@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>1240-1300</name>
+        
+        
+        <Placemark>
+         <name>Afonso Gomez, jograr de Sarria</name>
+         <description>Sarria </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.414307,42.780116,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Alfonso X</name>
+         <description>Ribadavia </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.1,42.290668,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Afons' Eanes do Coton</name>
+         <description>Negreira </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.736629,42.910065,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Afonso Fernandez Cubel</name>
+         <description>São Pedro d'Arcos/Bertiandos
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.631628,41.759659,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Estevan Faian</name>
+         <description>Ribadavia </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.137916,42.293858,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan Romeu de Lugo</name>
+         <description>Lugo </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.554869,43.010338,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan Servando</name>
+         <description>Santa María de Barxés (Muíño, Limia)
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.954321,41.967829,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Alfonso Lopez de Baião</name>
+         <description>Mosteiro de Arouca
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.246897,40.927947,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Alfonso Lopez de Baião</name>
+         <description>Baião </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.050259,41.177488,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Afonso Mendez de Besteiros</name>
+         <description>São Cosme de Besteiros
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.348087,41.221282,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Estevan Perez Froian</name>
+         <description>Froião, Paredes de Coura</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>,,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Men Rodriguez Tenoiro</name>
+         <description>Pontevedra </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.644538,42.429078,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Men Vasquez de Folhente (Folhete)</name>
+         <description>Aguiar </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.651456,41.627393,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Men Vasquez de Folhente (Folhete)</name>
+         <description>Ponte de Lima
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.582251,41.764301,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Fernan Padron</name>
+         <description>Padrón </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7,42.8,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan Vello de Pedrogaez</name>
+         <description>Forjães </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.742969,41.604657,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan Vello de Pedrogaez</name>
+         <description>Viana do Castelo </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.833439,41.691796,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Martin Soarez</name>
+         <description>Riba de Lima (Minho) </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.833333,41.683333,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Nuno Fernandez Torneol</name>
+         <description>Santiago de Compostela </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.539,42.9,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Nuno Fernandez Torneol</name>
+         <description>Luou </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.582389,42.804583,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Roi Queimado</name>
+         <description>Sabadim </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.4425,41.906111,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Vasco Gil</name>
+         <description>Sobrosa </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.349892,41.250195,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan Soarez Coelho</name>
+         <description>Ribadouro </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.076944,41.098333,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan Soarez Coelho</name>
+         <description>Cinfães </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.085854,41.067343,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Roi Paez de Ribela</name>
+         <description>San Xulián de Ribela (Ourense) </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>
+            -7.840788,42.383283,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Afonso Paez de Braga</name>
+         <description>Braga </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.419533,41.549331,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Afonso Paez de Braga</name>
+         <description>Fermentões
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.316240,41.455765,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Afonso Paez de Braga</name>
+         <description>Silvares </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.335583,41.444813,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan Lopez de Ulhoa</name>
+         <description>Terras de Monterroso </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.833271,42.794063,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan Lopez de Ulhoa</name>
+         <description>Estremadura (Portugal) </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.741260,39.701578,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Fernan Gonçalvez de Seabra</name>
+         <description>Vinhais, Trás-os-Montes (Brahança)
+                </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.006722,41.832233,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero Gomez Barroso</name>
+         <description>Terras de Basto </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.981805,41.487813,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Pero Gomez Barroso</name>
+         <description>Também acrescentamos as Terras de Barroso????</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>,,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero Gonçalvez de Porto Carreiro</name>
+         <description>Porto Carreiro
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.595628,41.435510,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero Mafaldo</name>
+         <description>Souto de Rebordões
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.561696,41.724558,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero Mendiz da Fonseca</name>
+         <description>São Martinho de Mouros (Lamego)
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.896737,41.103286,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan Garcia de Guilhade</name>
+         <description>Milhazes, Barcelos </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.660556,41.490833,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan de Requeixo</name>
+         <description>Requeixo, Chantada </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>
+            -7.863815,42.613402,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Johan de Requeixo</name>
+         <description>Santa Maria do Faro </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.8713,42.6345,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Joham Lobeira</name>
+         <description>Guimarães </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.291874,41.440787,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Joham Lobeira</name>
+         <description>Lobeira </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.039395,41.984776,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero da Ponte</name>
+         <description>Pontevedra </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.64,42.431667,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Martin Codax</name>
+         <description>Vigo </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.731278,42.223078,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Martin de Ginzo</name>
+         <description>Ginzo (Ponteareas)
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.558962,42.181334,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Martin de Ginzo</name>
+         <description>Santa Cecilia
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.509,42.1752,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Martin de Padrozelos</name>
+         <description>Praduzelos </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.5095,42.33,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Martin de Padrozelos</name>
+         <description>Mosteiro de Montederramo </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.501944,42.274503,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan Perez d' Aboim</name>
+         <description>Aboim da Nóbrega </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>
+            -8.391344,41.750190,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        
+        
+        
+        <Placemark>
+         <name>Pai Gomez Charinho</name>
+         <description>Rianxo </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.816360,42.651408,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Pai Gomez Charinho</name>
+         <description>Mosteiro de San Francisco (Pontevedra)
+                </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.642996,42.431171,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Vasco Rodrigues de Calvelo</name>
+         <description>Calvelo </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.543333,41.681944,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Roi Fernandiz de Santiago</name>
+         <description>Santiago de Compostela </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.546,42.880205,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Roi Martinz d'Ulveira</name>
+         <description>Guimarães </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.30,41.4360904,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Roi Martinz d'Ulveira</name>
+         <description>Oliveira, Arcos de Valdevez
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.393688,41.825125,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Roi Martinz do Casal</name>
+         <description>Outeiro, Vila do Conde
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.703222,41.342444,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Roi Martinz do Casal</name>
+         <description>Mosteiro São Simão da Junqueira
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.682222,41.379722,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Fernand' Esquio</name>
+         <description>Mosteiro de San Martín de Xubia
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.174167,43.498056,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Fernand' Esquio</name>
+         <description>Terras do Neda
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.156906,43.499886,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Golparro</name>
+         <description>Tui </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.648865,42.049759,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Fernan do Lago</name>
+         <description>Rubiáns </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.744206,42.576764,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Fernan Fernandez Cogominho</name>
+         <description>Chaves </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.468215,41.740926,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Fernan Fernandez Cogominho</name>
+         <description>Coimbra </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.414043,40.209229,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Fernan Figueira</name>
+         <description>Lemos </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.519520,42.549670,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Estevan Reimondo</name>
+         <description>Porto Carreiro
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.416648,41.266480,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        <Placemark>
+         <name>Juião Bolseiro</name>
+         <description>San Miguel dos Agros </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.542809,42.882145,100</coordinates>
+         </Point>
+      </Placemark>
+        
+    
+        
+        
+        <Placemark>
+         <name>Pedr' Eanes Solaz </name>
+         <description>Meis </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.706556,42.516044,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Lopo Lias</name>
+         <description>Castelo de Orzellon
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.924829,42.370967,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Lopo Lias</name>
+         <description>Santiago de Compostela </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.542109,42.887186,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Nuno Trez</name>
+         <description>San Clemenço
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.7537,42.3501,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pai da Cana</name>
+         <description>Santiago de Compostela </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.52,42.887186,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Nun´Eanes Cêrzeo</name>
+         <description>Cercio (Lalín)
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.119226,42.756304,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Nun´Eanes Cêrzeo</name>
+         <description>Búbal </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.817732,42.514552,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Rodrigu' Eanes d' Alvares</name>
+         <description>Dálvares </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.758272,41.036356,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Rodrigu' Eanes d' Alvares</name>
+         <description>Mosteiro de Santa Maria de Salzedas
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.723854,41.054610,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Rodrigu' Eanes de Vasconcelos</name>
+         <description>Santa Maria de Ferreiros (Entre Homem e Cávado)
+                </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.368611,41.630833,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Rodrigu' Eanes de Vasconcelos</name>
+         <description>Torre de Vasconcelos </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.3539252,41.6213854,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Rodrigu'Eanes Redondo</name>
+         <description>Barcelos </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.6202183,41.5342131,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Men Rodriguez de Briteiros</name>
+         <description>Briteiros </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.319,41.5165051,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Johan Mendiz de Briteiros</name>
+         <description>Briteiros </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.30,41.5152519,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero d'Armea</name>
+         <description>Armea (Betanzos)
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.183,43.2728212,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero de Bardia (Berdia)</name>
+         <description>Verdia (Santiago de Compostela)
+                </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.50,42.9531083,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero d'Ornelas</name>
+         <description>Amares </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.348,41.6312533,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Pero d'Ornelas</name>
+         <description>Dornelas </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.3287,41.6428501,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Pero de Veer</name>
+         <description>San Vicente de Ver (Terra de Lemos)
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.714381,42.596718,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Meendinho</name>
+         <description>Sa Simón (Vigo)
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.628628,42.307579,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+            
+            
+        
+        <Placemark>
+         <name>Johan Airas</name>
+         <description>Santiago de Compostela </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>120,-8.56,42.9,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Airas Paez</name>
+         <description>Santa Maria de Reça
+            </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.8991,42.3492,100</coordinates>
+         </Point>
+      </Placemark>
+    
+        
+        
+        <Placemark>
+         <name>Airas Perez Vuitoron</name>
+         <description>Terras do Deza </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/country.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.110096,42.660024,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Airas Perez Vuitoron</name>
+         <description>San Pedro de Vila Nova de Dozón</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.0225,42.576944,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Airas Perez Vuitoron</name>
+         <description>Mosteiro de Acebeiro </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/tower.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.301867,42.617345,100</coordinates>
+         </Point>
+      </Placemark>
+    </Document>
+</kml>

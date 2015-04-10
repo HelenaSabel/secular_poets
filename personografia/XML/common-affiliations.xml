@@ -54,8 +54,17 @@
         </encodingDesc>
     </teiHeader>
     <text>
-        <body>
+        <body>             
+            
             <listPlace>
+                <place xml:id="braga">
+                    <location>
+                        <placeName>Os Braga</placeName>
+                        <geo>41.549331,-8.419533</geo>
+                    </location>
+                </place>
+                <place xml:id="velaz"></place>
+                <place xml:id="cabrera"></place>
                 <place xml:id="toronho" type="geo">
                     <location>
                         <placeName>Toroño</placeName>
