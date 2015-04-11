@@ -2,7 +2,6 @@ body {
     background-color: silver;
     margin: 2% 4% 4%;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-
     }
     
     a.tooltip {
@@ -35,13 +34,11 @@ body {
 div.banner {
     margin-top: 1%;
 }
-/*div.cabeÃ§alho{
-    float:left;
-    width:90%;
-    margin-bottom:1%;
-}*/
 
 .capital {
+    display: -webkit-flex;
+    -webkit-flex-direction:row;
+    -webkit-justify-content:flex-end;
     display:flex;
     flex-direction:row;
     justify-content:flex-end;
@@ -57,12 +54,16 @@ opacity:0.7;
 }
 
 .contentor{
+    display:-webkit-flex;
+    -webkit-justify-content:center;
+    -webkit-align-items:center;
     display:flex;
     justify-content:center;
     align-items:center;
     width:99%;
 }
 .right{
+    display:-webkit-flex;
     display:flex;
     }
 
@@ -70,6 +71,8 @@ opacity:0.7;
     display:flex;
      float:none;
      flex-direction:column;
+      display:-webkit-flex;
+      -webkit-flex-direction:column;
     }
 
 .right .capital img{
@@ -89,20 +92,8 @@ div.inicio {
     margin-bottom:2%;
     }
     
-    
-/* div.background {
-            background: url(../images/cabeÃ§alho.jpg);
-            max-width:100%;
-            max-height:100%;
-            height:452px;
-            border:2px solid #610000;
-            border-radius: 7px;
-            padding: 1%;
-            opacity:1;
-            }*/
             
   div.background {
-            /*position:absolute;*/
             opacity:1;
             background-image: url('../images/macaco.jpg');
             height:438px;
@@ -115,7 +106,6 @@ div.inicio {
             clear:both;
             }
             
-    /*div.background img {width:100%}*/
 
 div.background:hover{
     opacity:0.9;
@@ -131,10 +121,6 @@ div.menu{
 
             
 div.transbox{
-/*    margin-bottom:16%;
-    margin-top:16%;
-    float:right;*/
-    /*width:41%;*/
     padding:1%;
     background-color: white;
     opacity: 0.9;
@@ -167,10 +153,14 @@ div#menu{
     width:73%
 }
 
-.legenda {display:flex;
+.legenda {display:-webkit-flex;
+-webkit-justify-content:space-around;
+display:flex;
 justify-content:space-around;}
 
 .legenda .direita p{
+-webkit-display:flex;
+-webkit-align-items:center;
 display:flex;
 align-items:center;
 }
@@ -178,6 +168,8 @@ align-items:center;
 .legenda .esquerda p{
 display:flex;
 align-items:center;
+-webkit-display:flex;
+-webkit-align-items:center;
 }
 
 h3.inicio {
@@ -243,13 +235,6 @@ div.rightSide {
     
 }
 
-/*div.move {
-    position:fixed;
-    width:25.5%;    
-    height:100%;
-    margin-left:0%;
-    margin-right:0%;
-}*/
 
 div.rightSide p, ul {
     padding-right:2%;
@@ -336,11 +321,36 @@ table.sortable th > svg{
 }
 
 q{
-    quotes:"â€œ" "â€" "â€˜" "â€™";
+    quotes:"“" "”" "‘" "’";
 }
 
 a{text-decoration: none;
 color: #610000}
+
+code{
+    color:darkred;
+    font-size:larger;
+    font-weight:bold;
+}
+
+.code {background-color: lightgrey;
+text-align:left;
+width:95%;
+    margin-top:1%;
+    margin-bottom:1%;
+    padding-top:1%;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:1%;
+
+}
+
+pre{
+color:darkred;
+    font-weight:bold;
+    font-family:monospace;
+    font-size:large;
+}
 
 iframe{
     margin-left:auto;

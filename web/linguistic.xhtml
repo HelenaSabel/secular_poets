@@ -19,6 +19,45 @@
             </div>
             <div class="container">
                 <div class="main gl">
+                    <h2 id="metodo">Metodologia</h2>
+                    <ul>
+                        <li>Seleçom dum corpus em diacronia. Textos comuns em <em>A</em> e
+                                <em>B</em> e/ou <em>V</em>. Textos completos de <em>N</em>,
+                                <em>T</em>, <em>M</em> e <em>P</em>. </li>
+                        <li>Extraçom das transcriçons paleográficas pertinentes elaboradas pola Dra.
+                                <a href="http://www.usc.es/filrom/staff/marina-arbor-aldea/">Mariña
+                                Arbor Aldea</a> (<em>A</em> e <em>T</em>) e <a
+                                href="http://www.usc.es/filrom/staff/antonio-fernandez-guiadanes"
+                                target="_blank">Antonio Guiadanes</a> (<em>B</em> e <em>V</em>). </li>
+                        <li>Conversom das transcriçons de texto plano a XML (regex)</li>
+                        <li>Marcaçom das cantigas segundo o módulo <a
+                                href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html#TCAPPS"
+                                target="_blank">Parallel Segmentation Method</a>. Usamos XSLT para
+                            criar um output em que cada verso fica etiquetado da seguinte maneira:<br />
+                            <div class="code"><pre>&lt;l n="12"&gt;
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;mais se lle ren de mia coita disser&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;mays selhi re&lt;ex&gt;n&lt;/ex&gt; demha coyta diss&lt;ex&gt;er&lt;/ex&gt;&lt;/rdg&gt;
+&lt;/app&gt;
+&lt;/l&gt;</pre></div></li>
+                        <li>Manualmente, corrigimos a disposiçom do texto separando e unindo
+                            elementos segundo conformem unidades léxicas. Corrigimos certas irregulariadades para que haja o
+                            mesmo número de <em>tokens</em> em cada verso, e que estes estejam alinhados</li>
+                        <li>Utilizamos de novo XSLT para criar um output que separe as liçons comuns das variantes:<br/>
+                            <div class="code"><pre>&lt;l n="9"&gt;
+    q&lt;ex&gt;ue&lt;/ex&gt; no&lt;ex&gt;n&lt;/ex&gt; dormiro&lt;ex&gt;n&lt;/ex&gt; 
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;muit'&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;muyt'&lt;/rdg&gt;
+    &lt;/app&gt;
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;ay&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;ahi&lt;/rdg&gt;
+    &lt;/app&gt;
+&lt;/l&gt;</pre></div>
+                        </li>
+
+                    </ul>
                     <h2 id="ling">Variaçom lingüística</h2>
                     <table class="sortable">
                         <thead>
@@ -6973,6 +7012,6 @@
                     </div></div>
             </div>
         </div>
-        <div id="footer"/>
+        <div id="footer"></div>
     </body>
 </html>
