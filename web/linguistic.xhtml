@@ -4,7 +4,7 @@
         <title>Estudos lingüísticos</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link href="CSS/index.css" rel="stylesheet" type="text/css" />
+        <link href="CSS/index.css" rel="stylesheet" type="text/css" media="screen"/>
         <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript">/**/</script>
         <script src="JavaScript/menu.js" type="text/javascript">/**/</script>
         <script type="text/javascript" src="JavaScript/sorttable.js">/**/</script>
@@ -38,21 +38,38 @@
     &lt;app&gt;
         &lt;rdg wit="#A"&gt;mais se lle ren de mia coita disser&lt;/rdg&gt;
         &lt;rdg wit="#B"&gt;mays selhi re&lt;ex&gt;n&lt;/ex&gt; demha coyta diss&lt;ex&gt;er&lt;/ex&gt;&lt;/rdg&gt;
-&lt;/app&gt;
+    &lt;/app&gt;
 &lt;/l&gt;</pre></div></li>
                         <li>Manualmente, corrigimos a disposiçom do texto separando e unindo
                             elementos segundo conformem unidades léxicas. Corrigimos certas irregulariadades para que haja o
                             mesmo número de <em>tokens</em> em cada verso, e que estes estejam alinhados</li>
                         <li>Utilizamos de novo XSLT para criar um output que separe as liçons comuns das variantes:<br/>
-                            <div class="code"><pre>&lt;l n="9"&gt;
-    q&lt;ex&gt;ue&lt;/ex&gt; no&lt;ex&gt;n&lt;/ex&gt; dormiro&lt;ex&gt;n&lt;/ex&gt; 
+                            <div class="code"><pre>&lt;l n="12"&gt;
     &lt;app&gt;
-        &lt;rdg wit="#A"&gt;muit'&lt;/rdg&gt;
-        &lt;rdg wit="#B"&gt;muyt'&lt;/rdg&gt;
+        &lt;rdg wit="#A"&gt;mais&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;mays&lt;/rdg&gt;
+    &lt;/app&gt;
+    se
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;lle&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;lhi&lt;/rdg&gt;
     &lt;/app&gt;
     &lt;app&gt;
-        &lt;rdg wit="#A"&gt;ay&lt;/rdg&gt;
-        &lt;rdg wit="#B"&gt;ahi&lt;/rdg&gt;
+        &lt;rdg wit="#A"&gt;ren&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;re&lt;ex&gt;n&lt;/ex&gt;&lt;/rdg&gt;
+    &lt;/app&gt; 
+    de
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;mia&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;mha&lt;/rdg&gt;
+    &lt;/app&gt;
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;coita&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;coyta&lt;/rdg&gt;
+    &lt;/app&gt;
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;disser&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;diss&lt;ex&gt;er&lt;/ex&gt;&lt;/rdg&gt;
     &lt;/app&gt;
 &lt;/l&gt;</pre></div>
                         </li>
@@ -3505,7 +3522,7 @@
                     <table class="sortable">
                         <thead>
                             <tr class="head">
-                                <th>Phenomenons </th>
+                                <th>Phenomena </th>
                                 <th>Variants </th>
                                 <th>Witnesss </th>
                                 <th>Copyists </th>
@@ -4002,7 +4019,7 @@
                     <table class="sortable">
                         <thead>
                             <tr class="head">
-                                <th>Phenomenons </th>
+                                <th>Phenomena </th>
                                 <th>Variants </th>
                                 <th>Witnesss </th>
                                 <th>Copyists </th>
@@ -6679,7 +6696,7 @@
                     <table class="sortable">
                         <thead>
                             <tr class="head">
-                                <th>Phenomenons </th>
+                                <th>Phenomena </th>
                                 <th>Variants </th>
                                 <th>Witnesss </th>
                                 <th>Copyists </th>
