@@ -223,6 +223,7 @@ img.rightSide{
     width:100%;
     min-height:100%;
     overflow:auto;
+    display:flex;
 }
 
 div.main{
@@ -233,17 +234,19 @@ div.main{
 }
 
 div.rightSide{
-    margin-left:71%;
+   width:30%;
 }
 
 div.rightSide p,
 ul{
     padding-right:2%;
-    text-align:left;
+    text-align:left;  
 }
 
+div.rightSide p, ul, h3, .imageRight {margin-left:3%;}
+
 div.imageRight{
-    margin-right:4%;
+    margin-right:4%;    
 }
 
 h1{
@@ -256,7 +259,7 @@ h1{
 h2{
     text-align:center;
     font-weight:bold;
-    color:#d8d8d8;
+    color:white;
     background-color:darkred;
 }
 
@@ -269,6 +272,7 @@ h3{
 
 ul{
     text-align:justify;
+    list-style-type:square;
 }
 
 p{
@@ -359,6 +363,8 @@ pre{
     font-family:monospace;
     font-size:large;
 }
+
+pre span {color:black; font-weight:600;}
 
 iframe{
     margin-left:auto;

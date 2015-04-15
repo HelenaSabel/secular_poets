@@ -4,7 +4,7 @@
         <title>Estudos lingüísticos</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link href="CSS/index.css" rel="stylesheet" type="text/css" media="screen"/>
+        <link href="CSS/index.css" rel="stylesheet" type="text/css" media="screen" />
         <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript">/**/</script>
         <script src="JavaScript/menu.js" type="text/javascript">/**/</script>
         <script type="text/javascript" src="JavaScript/sorttable.js">/**/</script>
@@ -34,42 +34,46 @@
                                 href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html#TCAPPS"
                                 target="_blank">Parallel Segmentation Method</a>. Usamos XSLT para
                             criar um output em que cada verso fica etiquetado da seguinte maneira:<br />
-                            <div class="code"><pre>&lt;l n="12"&gt;
+                            <div class="code"
+                                ><pre>&lt;l n="12"&gt;
     &lt;app&gt;
-        &lt;rdg wit="#A"&gt;mais se lle ren de mia coita disser&lt;/rdg&gt;
-        &lt;rdg wit="#B"&gt;mays selhi re&lt;ex&gt;n&lt;/ex&gt; demha coyta diss&lt;ex&gt;er&lt;/ex&gt;&lt;/rdg&gt;
+        &lt;rdg wit="#A"&gt;<span>mais se lle ren de mia coita disser</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>mays selhi re</span>&lt;ex&gt;<span>n</span>&lt;/ex&gt;<span> demha coyta diss</span>&lt;ex&gt;<span>er</span>&lt;/ex&gt;&lt;/rdg&gt;
     &lt;/app&gt;
 &lt;/l&gt;</pre></div></li>
                         <li>Manualmente, corrigimos a disposiçom do texto separando e unindo
-                            elementos segundo conformem unidades léxicas. Corrigimos certas irregulariadades para que haja o
-                            mesmo número de <em>tokens</em> em cada verso, e que estes estejam alinhados</li>
-                        <li>Utilizamos de novo XSLT para criar um output que separe as liçons comuns das variantes:<br/>
-                            <div class="code"><pre>&lt;l n="12"&gt;
+                            elementos segundo conformem unidades léxicas. Corrigimos certas
+                            irregulariadades para que haja o mesmo número de <em>tokens</em> em cada
+                            verso, e que estes estejam alinhados</li>
+                        <li>Utilizamos de novo XSLT para criar um output que separe as liçons comuns
+                            das variantes:<br />
+                            <div class="code"
+                                ><pre>&lt;l n="12"&gt;
     &lt;app&gt;
-        &lt;rdg wit="#A"&gt;mais&lt;/rdg&gt;
-        &lt;rdg wit="#B"&gt;mays&lt;/rdg&gt;
+        &lt;rdg wit="#A"&gt;<span>mais</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>mays</span>&lt;/rdg&gt;
     &lt;/app&gt;
-    se
+    <span>se</span>
     &lt;app&gt;
-        &lt;rdg wit="#A"&gt;lle&lt;/rdg&gt;
-        &lt;rdg wit="#B"&gt;lhi&lt;/rdg&gt;
+        &lt;rdg wit="#A"&gt;<span>lle</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>lhi</span>&lt;/rdg&gt;
     &lt;/app&gt;
     &lt;app&gt;
-        &lt;rdg wit="#A"&gt;ren&lt;/rdg&gt;
-        &lt;rdg wit="#B"&gt;re&lt;ex&gt;n&lt;/ex&gt;&lt;/rdg&gt;
+        &lt;rdg wit="#A"&gt;<span>ren</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>re</span>&lt;ex&gt;<span>n</span>&lt;/ex&gt;&lt;/rdg&gt;
     &lt;/app&gt; 
-    de
+    <span>de</span>
     &lt;app&gt;
-        &lt;rdg wit="#A"&gt;mia&lt;/rdg&gt;
-        &lt;rdg wit="#B"&gt;mha&lt;/rdg&gt;
+        &lt;rdg wit="#A"&gt;<span>mia</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>mha</span>&lt;/rdg&gt;
     &lt;/app&gt;
     &lt;app&gt;
-        &lt;rdg wit="#A"&gt;coita&lt;/rdg&gt;
-        &lt;rdg wit="#B"&gt;coyta&lt;/rdg&gt;
+        &lt;rdg wit="#A"&gt;<span>coita</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>coyta</span>&lt;/rdg&gt;
     &lt;/app&gt;
     &lt;app&gt;
-        &lt;rdg wit="#A"&gt;disser&lt;/rdg&gt;
-        &lt;rdg wit="#B"&gt;diss&lt;ex&gt;er&lt;/ex&gt;&lt;/rdg&gt;
+        &lt;rdg wit="#A"&gt;<span>disser</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>diss</span>&lt;ex&gt;<span>er</span>&lt;/ex&gt;&lt;/rdg&gt;
     &lt;/app&gt;
 &lt;/l&gt;</pre></div>
                         </li>
@@ -3518,6 +3522,80 @@
                     </table>
                 </div>
                 <div class="main en">
+                    <h2 id="method">Methodology</h2>
+                    <ul>
+                        <li>I have selected a corpus of songs attending to diachronic criteria. I
+                            chose texts that are transmited by <em>A</em> and <em>B</em> (and/or
+                                <em>V</em>). All texts preserved in <em>N</em>, <em>T</em>,
+                                <em>M</em> and <em>P</em> are selected. </li>
+                        <li>I retrieve the corresponding diplomatic transcriptions that Prof. <a
+                                href="http://www.usc.es/filrom/staff/marina-arbor-aldea/">Mariña
+                                Arbor Aldea</a> (<em>A</em> and <em>T</em>) and <a
+                                href="http://www.usc.es/filrom/staff/antonio-fernandez-guiadanes"
+                                target="_blank">Antonio Guiadanes</a> (<em>B</em> and <em>V</em>)
+                            have gracioulsy handed over to me. </li>
+                        <li>I convert these transcriptions from plain text to XML (regex). I give
+                            every poem an ID, so that its different versions share the same ID.</li>
+                        <li>I use XQuery to retrieve the witnesses of the songs that have the same
+                            ID but not the same number of lines. I manually correct those instances
+                            inserting <code>&lt;gap&gt;</code> elements in the missing lines with an
+                                <code>@reason</code> attribute (being <q>damage</q> and
+                                <q>economy</q> the most common values).</li>
+                        <li>I mark-up the songs according to the <a
+                                href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html#TCAPPS"
+                                target="_blank">Parallel Segmentation Method</a>. I use XSLT to
+                            match the lines of the poems that have the same ID. Each line is tagged
+                            as follows:<br />
+                            <div class="code"
+                                ><pre>&lt;l n="12"&gt;
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;<span>mais se lle ren de mia coita disser</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>mays selhi re</span>&lt;ex&gt;<span>n</span>&lt;/ex&gt;<span> demha coyta diss</span>&lt;ex&gt;<span>er</span>&lt;/ex&gt;&lt;/rdg&gt;
+    &lt;/app&gt;
+&lt;/l&gt;</pre></div></li>
+                        <li>Manually, I correct the disposition of the text, joining and dividing
+                            the elements so they conform words. We correct particular irregularities
+                            so the tokens of each reading are aligned</li>
+                        <li>I use XSLT again to match the tokens. The tokens that match are
+                            displayed as text nodes that are children of <code>&lt;l&gt;</code>. The
+                            tokens that are different are displayed as variants inside an
+                                <code>&lt;app&gt;</code> element<br />
+                            <div class="code"
+                                ><pre>&lt;l n="12"&gt;
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;<span>mais</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>mays</span>&lt;/rdg&gt;
+    &lt;/app&gt;
+    <span>se</span>
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;<span>lle</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>lhi</span>&lt;/rdg&gt;
+    &lt;/app&gt;
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;<span>ren</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>re</span>&lt;ex&gt;<span>n</span>&lt;/ex&gt;&lt;/rdg&gt;
+    &lt;/app&gt; 
+    <span>de</span>
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;<span>mia</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>mha</span>&lt;/rdg&gt;
+    &lt;/app&gt;
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;<span>coita</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>coyta</span>&lt;/rdg&gt;
+    &lt;/app&gt;
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;<span>disser</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B"&gt;<span>diss</span>&lt;ex&gt;<span>er</span>&lt;/ex&gt;&lt;/rdg&gt;
+    &lt;/app&gt;
+&lt;/l&gt;</pre></div>
+                        </li>
+                        <li>I have created a <a
+                                href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/FS.html"
+                                >Feature Structure library</a> where I define every textual variant
+                            I find. At least one <code>&lt;rdg&gt;</code> in each
+                                <code>&lt;app&gt;</code> is linked to the library through and <code>@ana</code> attribute.</li>
+                    </ul>
                     <h2 id="Ling">Linguistic variation</h2>
                     <table class="sortable">
                         <thead>
@@ -7006,6 +7084,7 @@
                         <p>Táboas com os resultados de apenas catro cantigas
                                 (<em>A</em>1,<em>B</em>91&#8211;<em>A</em>4,<em>B</em>94)</p>
                         <ul>
+                            <li><a href="#metodo">Metodologia</a></li>
                             <li><a href="#ling">Variaçom lingüística</a>
                             </li>
                             <li><a href="#graph">Variaçom gráfica</a>
@@ -7019,6 +7098,7 @@
                         <p>Table with the results from only four songs
                                 (<em>A</em>1,<em>B</em>91&#8211;<em>A</em>4,<em>B</em>94)</p>
                         <ul>
+                            <li><a href="#method">Methodology</a></li>
                             <li><a href="#Ling">Linguistic variation</a>
                             </li>
                             <li><a href="#Graph">Graphic variants</a>
