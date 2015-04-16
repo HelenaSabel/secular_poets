@@ -172,6 +172,7 @@
                         <geo>42.880173,-7.679235</geo></affiliation>
                     <affiliation n="predio">Mosteiro de Alcobaça
                         <geo>39.548333,-8.98</geo></affiliation>
+                    <affiliation n="predio" key="familia">Mosteiro de Meira <geo></geo></affiliation>
                 </person>
                 <person xml:id="MartPrzAl">
                     <persName>Martin Perez Alvin</persName>
@@ -252,8 +253,9 @@
                         <location cert="low" n="social" corresp="#jaen"/>
                         <location cert="medium" n="social" corresp="#afonsX"/>
                     </floruit>
-                    <affiliation key="familia">Faian (Ribadavia)</affiliation>
-                    <affiliation key="familia">Sarraça e Somesso</affiliation>
+                    <affiliation key="familia" n="geo">Faian (Ribadavia) <geo></geo></affiliation>
+                    <affiliation key="familia" n="social">Sarraça</affiliation>
+                    <affiliation key="familia" n="social">Somesso</affiliation>
                 </person>
 
                 <person xml:id="EstPrzFroy">
@@ -996,16 +998,16 @@
                     <persName>Juião Bolseiro</persName>
                     <nationality key="gl"/>
                     <socecStatus>Clérigo</socecStatus>
-                    <socecStatus>Burguês</socecStatus>
                     <floruit period="3"/>
-                    <affiliation>D. Cotalana</affiliation>
-                    <affiliation corresp="#afonsIX"/>
+                    <affiliation n="social" key="familia">D. Cotalaia</affiliation>
+                    <affiliation n="social" corresp="#afonsIX"/>
                     <affiliation n="predio">San Miguel dos Agros
                         <geo>42.882145,-8.542809</geo></affiliation>
-                    <affiliation>
+                    <affiliation n="predio" key="familia">Mosteiro de San Francisco <geo></geo></affiliation>
+     
                         <affiliation n="social" corresp="#velaz"/>
                         <affiliation n="social" corresp="#OsEan"/>
-                    </affiliation>
+                    
                 </person>
 
 <!--Somesso, Muimenta, Vilar de Donas-->
@@ -1092,11 +1094,6 @@
                 <person xml:id="MonFdzMir">
                     <persName>Nuno (Monio) Fernandez de Mirapeixe</persName>
                     <nationality key="gl" cert="medium"/>
-                    <birth>
-                        <location cert="unknown">
-                            <geo>42.738587,-8.659817</geo>
-                        </location>
-                    </birth>
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                    <!-- <floruit from="1211" to="1243" period="2"> Cameros finais década XII-->
@@ -1106,6 +1103,9 @@
                         <geo>43.123492,-7.623114</geo></affiliation>
                     <affiliation key="familia" n="predio">Vilar das Donas
                             <geo>42.8925,-7.809444</geo></affiliation>
+                   <!--<affiliation n="predio"> Catedral de Lugo</affiliation>                    
+                    <affiliation n="predio">Catedral de Mondonhedo</affiliation>                    
+                   <affiliation n="predio"> San Xoan de Outeiro de Rei (Lugo, antiga terra de Montenegro) <geo></geo></affiliation>  -->                  
                 </person>
 
                 <person xml:id="BernBon">

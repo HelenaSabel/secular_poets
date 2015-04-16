@@ -510,6 +510,9 @@
             <geo>43.123492,-7.623114</geo></affiliation>
         <affiliation key="familia" n="predio">Vilar das Donas
             <geo>42.8925,-7.809444</geo></affiliation>
+        <!--<affiliation n="predio"> Catedral de Lugo</affiliation>                    
+                    <affiliation n="predio">Catedral de Mondonhedo</affiliation>                    
+                   <affiliation n="predio"> San Xoan de Outeiro de Rei (Lugo, antiga terra de Montenegro) <geo></geo></affiliation>  -->      
     </person>
     <person xml:id="BernBon">
         <persName>Bernal de Bonaval</persName>
