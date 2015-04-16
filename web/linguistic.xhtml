@@ -33,7 +33,7 @@
                         <li>Marcaçom das cantigas segundo o módulo <a
                                 href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html#TCAPPS"
                                 target="_blank">Parallel Segmentation Method</a>. Usamos XSLT para
-                            criar um output em que cada verso fica etiquetado da seguinte maneira:<br />
+                            que cada verso ficar etiquetado da seguinte maneira:<br />
                             <div class="code"
                                 ><pre>&lt;l n="12"&gt;
     &lt;app&gt;
@@ -3593,8 +3593,54 @@
                         <li>I have created a <a
                                 href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/FS.html"
                                 >Feature Structure library</a> where I define every textual variant
-                            I find. At least one <code>&lt;rdg&gt;</code> in each
-                                <code>&lt;app&gt;</code> is linked to the library through and <code>@ana</code> attribute.</li>
+                            I find. I have a list of individual features (<code>&lt;f&gt;</code>)
+                            that are later combine to create feature structures (&lt;fs&gt;).<br />
+                            <div class="code">
+                                <pre>&lt;fs xml:id="dat" feats="#datCon #pr #morph #ling" n="Dative contamination"&gt;
+    <span style="font-size:200%">&#8627;</span>
+        &lt;f name="linguisticVariant" xml:id="ling"/&gt;
+        &lt;f name="morphosyntactic" xml:id="morph"/&gt;
+        &lt;f name="pronoum" xml:id="pr"/&gt;
+        &lt;f name="dativeContamination" xml:id="datCon"/&gt;</pre></div>
+                        </li>
+                        <li>At least one <code>&lt;rdg&gt;</code> in each <code>&lt;app&gt;</code>
+                            is linked to the feature library through and <code>@ana</code>
+                            attribute.Some of the variants are automatically code using XSLT to ook
+                            for regular patterns.<br />
+                            <div class="code">
+<pre>&lt;l n="4"&gt;
+    <span>de</span> 
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;<span>mia</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B" ana="#trend"&gt;<span>mha</span>&lt;/rdg&gt;
+    &lt;/app&gt;
+    &lt;app&gt;
+        &lt;rdg wit="#A" ana="#irreg"&gt;<span>ui</span>&lt;ex&gt;<span style="color:DimGray">&amp;#771;</span>&lt;/ex&gt;<span>jr</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B" ana="#denas"&gt;<span>uijr</span>&lt;/rdg&gt;
+    &lt;/app&gt;
+    <span>todo </span>
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;<span>mi</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B" ana="#irreg"&gt;<span>m'</span>&lt;/rdg&gt;
+    &lt;/app&gt;
+    <span>auen</span> 
+&lt;/l&gt;</pre></div>
+                        </li>
+                        <li>If in the same token I have more than one variant, I use
+                                <code>&lt;seg&gt;</code> with an <code>@ana</code> attribute to
+                            specify which part of the token corresponds with each value.<br/>
+                        <div class="code">
+<pre>&lt;l n="1"&gt;
+    <span>De quant' eu sempre </span>
+    &lt;app&gt;
+        &lt;rdg wit="#A"&gt;<span>deseiei</span>&lt;/rdg&gt;
+        &lt;rdg wit="#B" ana="#trend #misread"&gt;
+            <span>dese</span>&lt;seg ana="#misread"&gt;<span>l</span>&lt;/seg&gt;<span>e</span>&lt;seg ana="#trend"&gt;<span>y</span>&lt;/seg&gt;
+        &lt;/rdg&gt;
+    &lt;/app&gt;
+&lt;/l&gt;
+</pre>
+                        </div></li>
                     </ul>
                     <h2 id="Ling">Linguistic variation</h2>
                     <table class="sortable">
