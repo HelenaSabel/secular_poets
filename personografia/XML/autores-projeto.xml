@@ -40,7 +40,8 @@
         <floruit from="1223" to="1257" period="2"/>
         <affiliation key="familia" n="geo">Fornelos <geo>42.136781,-8.495883</geo></affiliation>
         <affiliation key="literario" n="geo">Muimenta <geo>42.330626,-8.185819</geo></affiliation>
-        <affiliation n="geo">Terra menor de San Martiño de Ladróns<geo>42.183512,-8.245</geo></affiliation>
+        <affiliation n="geo">Terra menor de San Martiño de
+            Ladróns<geo>42.183512,-8.245</geo></affiliation>
         <affiliation n="geo">Melón <geo>42.259788,-8.214286</geo></affiliation>
         <affiliation n="predio">San Pedro de Crecente <geo>42.153784,-8.223320</geo></affiliation>
         <affiliation n="geo">Albeos <geo>42.1455069,-8.25</geo></affiliation>
@@ -210,8 +211,9 @@
     <person xml:id="PGmzBarr">
         <persName>Pero Gomez Barroso</persName>
         <floruit period="3" from="1248" to="1273"/>
-        <affiliation n="geo">Terras de Basto <geo>41.487813,-7.981805</geo></affiliation>
-        <affiliation n="geo">Também acrescentamos as Terras de Barroso????</affiliation>
+        <affiliation n="geo">Terras de Basto
+        <geo>41.487813,-7.981805</geo></affiliation><!--
+        <affiliation n="geo">Também acrescentamos as Terras de Barroso????</affiliation>-->
     </person>
     <person xml:id="PGvzPor">
         <persName>Pero Gonçalvez de Porto Carreiro</persName>
@@ -253,8 +255,7 @@
         <persName>Pero da Ponte</persName>
         <floruit from="1235" to="1275" period="3"/>
         <affiliation>Pontevedra <geo>42.431667,-8.64</geo></affiliation>
-    </person>-->
-    <person xml:id="MartCod">
+    </person>--> <person xml:id="MartCod">
         <persName>Martin Codax</persName>
         <floruit from="1240" to="1275" period="3"/>
         <affiliation n="geo">Vigo <geo>42.223078,-8.731278</geo></affiliation>
@@ -415,9 +416,11 @@
     <person xml:id="PRdzPal">
         <persName>Pero Rodriguez da Palmeira</persName>
         <floruit period="1"/>
-        <affiliation n="predio">Paço de Vila Nova de Famalicão <geo>41.4126001,-8.521</geo></affiliation>
+        <affiliation n="predio">Paço de Vila Nova de Famalicão
+            <geo>41.4126001,-8.521</geo></affiliation>
         <affiliation n="predio">Mosteiro de Landim <geo>41.379469,-8.46</geo></affiliation>
-        <affiliation n="predio">Igrexa de São Miguel de Guimarães <geo>41.448529,-8.294762</geo></affiliation>
+        <affiliation n="predio">Igrexa de São Miguel de Guimarães
+            <geo>41.448529,-8.294762</geo></affiliation>
         <affiliation n="geo">Palmeira <geo>41.3994888,-8.50545</geo></affiliation>
         <affiliation n="geo">Pereira <geo>41.378266,-8.518598</geo></affiliation>
     </person>
@@ -426,8 +429,7 @@
         <floruit period="2"/>
         <affiliation n="geo">Toroño <geo>43.289839,-8.397806</geo></affiliation>
         <affiliation key="origem" n="geo">Eixo <geo>40.631709,-8.570415</geo></affiliation>
-        <affiliation n="geo">Terras de Sousa
-            <geo>41.087778,-8.520278</geo></affiliation>
+        <affiliation n="geo">Terras de Sousa <geo>41.087778,-8.520278</geo></affiliation>
     </person>
     <person xml:id="JuBols">
         <persName>Juião Bolseiro</persName>
@@ -439,14 +441,13 @@
         <floruit from="1180" to="1220" period="1"/>
         <affiliation n="geo">Santiago de Compostela <geo>42.8780665,-8.54</geo></affiliation>
         <affiliation n="geo">Ribadavia <geo>42.288255,-8.143495</geo></affiliation>
-        <affiliation n="geo">Santiago de Compostela <geo>42.88,-8.527</geo></affiliation>
         <affiliation n="geo">Castela (río Avia - río Barbantiño)
             <geo>42.385684,-8.028387</geo></affiliation>
         <affiliation n="predio">Mosteiro de Bóveda <geo>????</geo></affiliation>
         <affiliation n="predio">San Martiño de Cornozes <geo>42.413056,-7.975</geo></affiliation>
         <affiliation n="predio">Mosteiro de San Martiño Pinario
             <geo>42.881811,-8.544453</geo></affiliation>
-        <affiliation n="predio">Castelo de Búbal <geo>42.5131284,-7.8177748</geo></affiliation>
+        <affiliation n="predio">Castelo de Alba de Búbal (Amoeiro, Castelo do Formigueiro) <geo>42.367,-7.967</geo></affiliation>
         <affiliation n="geo">Santa Comba de Trevoedo,
             Maside<geo>42.395691,-8.032118</geo></affiliation>
         <affiliation n="predio">Igrexa de Santa María de Alón (Santa Comba)
@@ -456,8 +457,9 @@
     <person xml:id="FerPaezTal">
         <persName>Fernan Paez de Talamancos</persName>
         <floruit from="1220" to="1240" period="2"/>
-        <affiliation key="origem" n="geo">Tamallancos <geo>42.425060,-7.903228</geo></affiliation>
-        <affiliation key="administrativo" n="geo">Búbal <geo>42.479053,-7.748222</geo></affiliation>
+        <affiliation key="origem" n="geo">Tamallancos
+            <geo>42.425060,-7.903228</geo></affiliation><affiliation n="predio">Castelo de Alba de
+            Búbal (Amoeiro, Castelo do Formigueiro) <geo>42.367,-7.967</geo></affiliation>
         <affiliation key="proprietario" n="geo">Cangas do Morrazo <geo>42.264887,
             -8.780846</geo></affiliation>
         <affiliation key="literario" n="predio">Mosteiro de Dormeá (Boimorto)
@@ -479,6 +481,8 @@
         <persName>Airas Moniz</persName>
         <floruit period="2"/>
         <affiliation n="geo">Asma <geo>42.565248,-7.884611</geo></affiliation>
+        <affiliation n="predio">Castelo de Alba de Búbal (Amoeiro, Castelo do Formigueiro)
+                <geo>42.367,-7.967</geo></affiliation>
     </person>
     <person xml:id="DieMnz">
         <floruit period="2"/>
@@ -510,9 +514,9 @@
             <geo>43.123492,-7.623114</geo></affiliation>
         <affiliation key="familia" n="predio">Vilar das Donas
             <geo>42.8925,-7.809444</geo></affiliation>
-        <!--<affiliation n="predio"> Catedral de Lugo</affiliation>                    
-                    <affiliation n="predio">Catedral de Mondonhedo</affiliation>                    
-                   <affiliation n="predio"> San Xoan de Outeiro de Rei (Lugo, antiga terra de Montenegro) <geo></geo></affiliation>  -->      
+        <affiliation n="predio">Catedral de Lugo <geo>43.0092,-7.5583</geo></affiliation>                    
+        <affiliation n="predio">Catedral de Mondoñedo <geo>43.428027,-7.362712</geo></affiliation>                    
+        <affiliation n="predio">San Xoan de Outeiro de Rei (Lugo, antiga terra de Montenegro)<geo>43.101457,-7.612342</geo></affiliation> 
     </person>
     <person xml:id="BernBon">
         <persName>Bernal de Bonaval</persName>
@@ -647,6 +651,8 @@
         <persName>Pero Pais Bazaco</persName>
         <floruit period="1"/>
         <affiliation n="predio">Mosteiro de Oseira <geo>42.54,-7.94</geo></affiliation>
-        <affiliation n="predio">Vilanova de Dozón <geo>42.584438,-8.022460</geo></affiliation>
+        <affiliation n="predio">Vilanova de Dozón <geo>42.584438,-8.022460</geo></affiliation>        
+        <affiliation n="geo">Vilamarín <geo>42.4652933,-7.890</geo></affiliation>
+        <affiliation n="geo">Masma <geo>43.4666274,-7.33</geo></affiliation>
     </person>
 </listPerson>

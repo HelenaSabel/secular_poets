@@ -646,7 +646,7 @@
                     <affiliation n="predio">Mosteiro de San Francisco (Pontevedra)
                             <geo>42.431171,-8.642996</geo></affiliation>
                     <affiliation n="social" corresp="#sanchoIV"/>
-                    <!--<affiliation n="social" key="contemporaneo">Abade de Valladolid</affiliation>-->
+                    <affiliation n="social" key="contemporaneo">Abade de Valladolid</affiliation>
                     <affiliation n="social" key="contemporaneo" corresp="#EstPrzFroy"/>
                 </person>
                 <person xml:id="FerVelho">
@@ -1035,14 +1035,13 @@
                     <affiliation n="social" key="familia" corresp="#traba"/>
                     <affiliation key="origem" n="geo">Tamallancos
                         <geo>42.425060,-7.903228</geo></affiliation>
-                    <affiliation key="administrativo" n="geo">Búbal
-                        <geo>42.479053,-7.748222</geo></affiliation>
+                    <affiliation n="predio" key="tenencia">Castelo de Alva <geo>42.367,-7.967</geo></affiliation>
                     <affiliation key="proprietario" n="geo">Cangas do Morrazo <geo>42.264887,
                             -8.780846</geo></affiliation>
 <!--                    Santo Estevo de Cartelos e Santa Cristina de asma, rubiás (carvalhedo)-->
                     <affiliation key="literario" n="predio">Mosteiro de Dormeá (Boimorto)
                             <geo>42.998028,-8.090185</geo></affiliation>
-                   <!-- <affiliation>Afonso IX</affiliation>-->
+                   <affiliation>Afonso IX</affiliation>
                     
                 </person>
                 <person xml:id="PEaSol">
@@ -1066,8 +1065,8 @@
                     <floruit period="2"/>
                     <affiliation n="geo">Asma <geo>42.565248,-7.884611</geo></affiliation>
                     <affliation>Vermún, Chantada</affliation>
-                    <affiliation key="familia" cert="medium">Diego Moniz</affiliation><!--
-                    <affiliation >Tenente do Castelo da Alva (área meridional da terra da Búbal (igual que Tamalhanco e Osoiro)</affiliation>-->
+                    <affiliation key="familia" cert="medium" n="social">Diego Moniz</affiliation>
+                    <affiliation n="predio" key="tenencia">Castelo de Alva <geo>42.367,-7.967</geo></affiliation>
                 </person>
                 <person xml:id="DieMnz">
                     <floruit period="2"/>
@@ -1103,9 +1102,9 @@
                         <geo>43.123492,-7.623114</geo></affiliation>
                     <affiliation key="familia" n="predio">Vilar das Donas
                             <geo>42.8925,-7.809444</geo></affiliation>
-                   <!--<affiliation n="predio"> Catedral de Lugo</affiliation>                    
-                    <affiliation n="predio">Catedral de Mondonhedo</affiliation>                    
-                   <affiliation n="predio"> San Xoan de Outeiro de Rei (Lugo, antiga terra de Montenegro) <geo></geo></affiliation>  -->                  
+                    <affiliation n="predio">Catedral de Lugo <geo>43.0092,-7.5583</geo></affiliation>                    
+                    <affiliation n="predio">Catedral de Mondoñedo <geo>43.428027,-7.362712</geo></affiliation>                    
+                    <affiliation n="predio">San Xoan de Outeiro de Rei (antiga terra de Montenegro)<geo>43.101457,-7.612342</geo></affiliation>                 
                 </person>
 
                 <person xml:id="BernBon">
@@ -1191,7 +1190,7 @@
                 <person xml:id="JMdzBrit">
                     <affiliation>Johan Mendiz de Briteiros <geo>41.5152519,-8.30</geo></affiliation>
                     <affiliation n="geo">Briteiros</affiliation>
-                    <affiliation ana="#afonsIII"/>
+                    <affiliation corresp="#afonsIII"/>
                 </person>
                 <person xml:id="PGarAm">
                     <persName>Pero Garcia d' Ambroa</persName>
@@ -1475,35 +1474,35 @@
                 <person xml:id="JoVlaz">
                     <persName>Johan Velaz</persName>
                     <nationality key="gl"/>
-                    <affiliation>Marcabrú<affiliation>Guilhem de Peitieu</affiliation>
-                        <affiliation ana="#sc"/>
+                    <affiliation n="social">Marcabrú<affiliation n="social">Guilhem de Peitieu</affiliation>
+                        <affiliation n="geo" corresp="#compos"/>
                     </affiliation>
-                    <affiliation ana="#sc"/>
+                    <affiliation n="geo" corresp="#compos"/>
                     <affiliation n="predio">Mosteiro de Samos
                         <geo>42.732449,-7.326430</geo></affiliation>
-                    <affiliation key="familia" ana="#cab">
+                    <affiliation key="familia" corresp="#cab">
                         <affiliation>Selva, l'Alt Maresme</affiliation>
                         <affiliation>Mosteiro de Moreruela</affiliation>
-                        <affiliation ana="#OsEa"/>
-                        <affiliation ana="#PaySrzTav"/>
-                        <affiliation ana="#JSrzSom"/>
+                        <affiliation corresp="#OsEa"/>
+                        <affiliation corresp="#PaySrzTav"/>
+                        <affiliation corresp="#JSrzSom"/>
                         <affiliation>Martim Ares Marinho</affiliation>
-                        <affiliation ana="#FerPad"/>
+                        <affiliation corresp="#FerPad"/>
                     </affiliation>
-                    <affiliation key="familia" ana="#vlz"/>
+                    <affiliation key="familia" corresp="#vlz"/>
                     <affiliation>Mosteiro de S. Leonardo de Alba de Tormes
                             <affiliation>Carvalhinho</affiliation>
                     </affiliation>
                     <affiliation>Mosteiro de Meira <geo>43.213056,
                             -7.291139</geo><affiliation>Castro de Rei</affiliation>
                     </affiliation>
-                    <affiliation key="familia">Maria Fernandes de Trava <affiliation ana="#trava"/>
-                        <affiliation ana="#sc"/>
+                    <affiliation key="familia">Maria Fernandes de Trava <affiliation corresp="#trava"/>
+                        <affiliation corresp="#sc"/>
                     </affiliation>
                     <affiliation>Mosteiro de San Tirso <geo>42.3708,-5.0325</geo></affiliation>
                     <affiliation key="familia">Geraldo III de Cabrera (enterrado em Samos) [Geraldo
                         outro]</affiliation>
-                    <affiliation key="familia" ana="#trava">
+                    <affiliation key="familia" corresp="#trava">
                         <affiliation>Fernando II</affiliation>
                     </affiliation>
                     <affiliation>Faro (A Coruña)</affiliation>
@@ -1535,9 +1534,7 @@
                                 <geo>42.881811,-8.544453</geo></affiliation>
                     </affiliation>
                     <affiliation>Praça do Campo</affiliation>
-                    <affiliation>Búval <affiliation n="predio">Castelo de Búval
-                                <geo>42.5131284,-7.8177748</geo></affiliation>
-                    </affiliation>
+                    <affiliation n="predio" key="tenencia">Castelo de Alba de Búbal <geo>42.367,-7.967</geo></affiliation>
                     <affiliation n="geo">Santa Comba de Trevoedo,
                             Maside<geo>42.395691,-8.032118</geo></affiliation>
                     <affiliation n="predio">Igrexa de Santa María de Alón (Santa Comba)
@@ -1556,7 +1553,7 @@
                         <geo>42.538461,-7.951214</geo></affiliation>
                     <affiliation n="predio">Mosteiro de Sobrado
                         <geo>43.038889,-8.0225</geo></affiliation>
-                    <affiliation key="family" ana="#OsEa"/>
+                    <affiliation key="family" corresp="#OsEa" n="social"/>
                     <affiliation key="family">Pero Pais Bazaco</affiliation>
 
                 </person>
@@ -1566,8 +1563,8 @@
                     <affiliation n="predio">Mosteiro de Oseira <geo>42.54,-7.94</geo></affiliation>
                     <affiliation n="predio">Vilanova de Dozón
                         <geo>42.584438,-8.022460</geo></affiliation>
-                    <!--<affiliation n="geo">Vila Marín (zona prévia a Ourense</affiliation>
-                    <affiliation n="geo">Masma</affiliation>-->
+                    <affiliation n="geo">Vilamarín <geo>42.4652933,-7.890</geo></affiliation>
+                    <affiliation n="geo">Masma <geo>43.4666274,-7.33</geo></affiliation>
                     <affiliation>D. Múnio Fernandes de Rodeiro</affiliation>
                     <affiliation>D. Maior Peres</affiliation>
                 </person>

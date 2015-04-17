@@ -305,6 +305,16 @@ td.intro{
     background-color:lightgrey;
 }
 
+span.normal {font-style:normal;}
+
+span.ex {font-style:italic;}
+
+span.reg {color:darkred}
+
+.o, .min,.innova, .trend {color:Dimgray}
+
+span.irreg {font-weight:bold;}
+
 
 table.sortable th{
     color:black;

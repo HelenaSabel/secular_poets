@@ -36,7 +36,6 @@
             <coordinates>-8.498819,41.033534,100</coordinates>
          </Point>
       </Placemark>
-        
         <Placemark>
          <name>Vasco Fernandez Praga de Sandin</name>
          <description>Parga (Lugo)
@@ -312,8 +311,7 @@
       </Placemark>
         <Placemark>
          <name>Gonçalo Garcia</name>
-         <description>Terras de Sousa
-            </description>
+         <description>Terras de Sousa </description>
          <Style>
             <IconStyle>
                <Icon>
@@ -330,7 +328,8 @@
         
         <Placemark>
          <name>Fernan Paez de Talamancos</name>
-         <description>Tamallancos </description>
+         <description>Tamallancos
+            </description>
          <Style>
             <IconStyle>
                <Icon>
@@ -342,18 +341,19 @@
             <coordinates>-7.903228,42.425060,100</coordinates>
          </Point>
       </Placemark>
-        <Placemark>
+      <Placemark>
          <name>Fernan Paez de Talamancos</name>
-         <description>Búbal </description>
+         <description>Castelo de Alba de
+            Búbal (Amoeiro, Castelo do Formigueiro) </description>
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
                </Icon>
             </IconStyle>
          </Style>
          <Point>
-            <coordinates>-7.748222,42.479053,100</coordinates>
+            <coordinates>-7.967,42.367,100</coordinates>
          </Point>
       </Placemark>
         <Placemark>
@@ -401,6 +401,21 @@
          </Style>
          <Point>
             <coordinates>-7.884611,42.565248,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Airas Moniz</name>
+         <description>Castelo de Alba de Búbal (Amoeiro, Castelo do Formigueiro)
+                </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.967,42.367,100</coordinates>
          </Point>
       </Placemark>
     
@@ -453,6 +468,48 @@
             <coordinates>-7.809444,42.8925,100</coordinates>
          </Point>
       </Placemark>
+        <Placemark>
+         <name>Nuno (Monio) Fernandez de Mirapeixe</name>
+         <description>Catedral de Lugo </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.5583,43.0092,100</coordinates>
+         </Point>
+      </Placemark>                    
+        <Placemark>
+         <name>Nuno (Monio) Fernandez de Mirapeixe</name>
+         <description>Catedral de Mondoñedo </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.362712,43.428027,100</coordinates>
+         </Point>
+      </Placemark>                    
+        <Placemark>
+         <name>Nuno (Monio) Fernandez de Mirapeixe</name>
+         <description>San Xoan de Outeiro de Rei (Lugo, antiga terra de Montenegro)</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.612342,43.101457,100</coordinates>
+         </Point>
+      </Placemark> 
     
         
         

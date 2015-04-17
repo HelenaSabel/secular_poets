@@ -517,7 +517,8 @@
         
         <Placemark>
          <name>Pero Gomez Barroso</name>
-         <description>Terras de Basto </description>
+         <description>Terras de Basto
+        </description>
          <Style>
             <IconStyle>
                <Icon>
@@ -527,20 +528,6 @@
          </Style>
          <Point>
             <coordinates>-7.981805,41.487813,100</coordinates>
-         </Point>
-      </Placemark>
-        <Placemark>
-         <name>Pero Gomez Barroso</name>
-         <description>Também acrescentamos as Terras de Barroso????</description>
-         <Style>
-            <IconStyle>
-               <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
-               </Icon>
-            </IconStyle>
-         </Style>
-         <Point>
-            <coordinates>,,100</coordinates>
          </Point>
       </Placemark>
     
@@ -796,22 +783,7 @@
     
         
         
-        <Placemark>
-         <name>Johan de Cangas</name>
-         <description>San Mamemede do Mar
-            </description>
-         <Style>
-            <IconStyle>
-               <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal2/icon3.png</href>
-               </Icon>
-            </IconStyle>
-         </Style>
-         <Point>
-            <coordinates>-8.8103,42.3,100</coordinates>
-         </Point>
-      </Placemark>
-    
+        
         
         
         <Placemark>

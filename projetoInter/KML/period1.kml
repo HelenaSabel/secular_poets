@@ -176,7 +176,8 @@
         
         <Placemark>
          <name>Pero Rodriguez da Palmeira</name>
-         <description>Paço de Vila Nova de Famalicão </description>
+         <description>Paço de Vila Nova de Famalicão
+            </description>
          <Style>
             <IconStyle>
                <Icon>
@@ -204,7 +205,8 @@
       </Placemark>
         <Placemark>
          <name>Pero Rodriguez da Palmeira</name>
-         <description>Igrexa de São Miguel de Guimarães </description>
+         <description>Igrexa de São Miguel de Guimarães
+            </description>
          <Style>
             <IconStyle>
                <Icon>
@@ -277,20 +279,6 @@
       </Placemark>
         <Placemark>
          <name>Osoir'Anes</name>
-         <description>Santiago de Compostela </description>
-         <Style>
-            <IconStyle>
-               <Icon>
-                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
-               </Icon>
-            </IconStyle>
-         </Style>
-         <Point>
-            <coordinates>-8.527,42.88,100</coordinates>
-         </Point>
-      </Placemark>
-        <Placemark>
-         <name>Osoir'Anes</name>
          <description>Castela (río Avia - río Barbantiño)
             </description>
          <Style>
@@ -349,7 +337,7 @@
       </Placemark>
         <Placemark>
          <name>Osoir'Anes</name>
-         <description>Castelo de Búbal </description>
+         <description>Castelo de Alba de Búbal (Amoeiro, Castelo do Formigueiro) </description>
          <Style>
             <IconStyle>
                <Icon>
@@ -358,7 +346,7 @@
             </IconStyle>
          </Style>
          <Point>
-            <coordinates>-7.8177748,42.5131284,100</coordinates>
+            <coordinates>-7.967,42.367,100</coordinates>
          </Point>
       </Placemark>
         <Placemark>
@@ -552,6 +540,34 @@
          </Style>
          <Point>
             <coordinates>-8.022460,42.584438,100</coordinates>
+         </Point>
+      </Placemark>        
+        <Placemark>
+         <name>Pero Pais Bazaco</name>
+         <description>Vilamarín </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.890,42.4652933,100</coordinates>
+         </Point>
+      </Placemark>
+        <Placemark>
+         <name>Pero Pais Bazaco</name>
+         <description>Masma </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://maps.google.com/mapfiles/kml/pal4/icon17.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.33,43.4666274,100</coordinates>
          </Point>
       </Placemark>
     </Document>
