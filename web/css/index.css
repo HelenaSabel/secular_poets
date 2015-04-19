@@ -305,13 +305,10 @@ td.intro{
     background-color:lightgrey;
 }
 
-span.normal {font-style:normal;}
-
-span.ex {font-style:italic;}
 
 span.reg {color:darkred}
 
-.o, .min,.innova, .trend {color:Dimgray}
+.o, .min,.innova, .trend {color:red}
 
 span.irreg {font-weight:bold;}
 
@@ -325,6 +322,8 @@ table.sortable th{
 tbody td:nth-child(2){
     font-style:italic;
 }
+
+tbody td:nth-child(2) span.normal, .ex {font-style:normal;}
 
 table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after{
     content:url(../images/arrow.svg)
