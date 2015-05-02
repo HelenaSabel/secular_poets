@@ -243,7 +243,7 @@ ul{
     text-align:left;  
 }
 
-div.rightSide p, ul, h3, .imageRight {margin-left:3%;}
+div.rightSide p, div.rightSide ul, div.rightSide h3, div.rightSide .imageRight {margin-left:3%;}
 
 div.imageRight{
     margin-right:4%;    
