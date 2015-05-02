@@ -77,6 +77,7 @@ span[data-ana] span[data-ana]{
 
 span[data-ling]{
     text-decoration:underline;
+    color:darkred;
 }
 
 .first {

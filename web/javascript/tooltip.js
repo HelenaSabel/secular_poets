@@ -1,9 +1,9 @@
 "use strict";
 
 function init() {
-    var spans = document.querySelectorAll('[data-ana]'||'[data-ling]')
-    for (var i = 0; i < spans.length; i++) {
-        spans[i].addEventListener('click', popup, false);
+    var spans = document.querySelectorAll('[data-ana],[data-ling]')
+for (var i = 0; i < spans.length; i++) {
+        spans[i].addEventListener('click', popup, true);
     }
 }
 
@@ -16,7 +16,12 @@ function popup(event) {
         var random = "n" + Math.random();
         
         this.id = random;
-        overlay.innerHTML = this.dataset.ana||this.dataset.ling;
+        if (this.dataset.ana) {
+            overlay.innerHTML = this.dataset.ana;
+        }
+        if (this.dataset.ling) {
+            overlay.innerHTML = this.dataset.ling;
+        }
         overlay.style.backgroundColor = "#444";
         overlay.style.position = "absolute";
         overlay.style.left = x + "px";
