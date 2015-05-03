@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2">
     <ns prefix="tei" uri="http://www.tei-c.org/ns/1.0"/>
-    <let name="IDs" value="//tei:person/@xml:id"/>
+    <let name="IDs" value="//@xml:id"/>
     <let name="places" value="doc('../XML/common-affiliations.xml')//tei:place/@xml:id"/>
     <pattern>
         <rule context="tei:person">

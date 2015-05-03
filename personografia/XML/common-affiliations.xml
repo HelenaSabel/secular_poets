@@ -54,9 +54,10 @@
         </encodingDesc>
     </teiHeader>
     <text>
-        <body>             
+        <body>            
             
             <listPlace>
+                <place xml:id="velho"></place>
                 <place xml:id="braga">
                     <location>
                         <placeName>Os Braga</placeName>
@@ -95,8 +96,9 @@
                 <place xml:id="traba" type="noble">
                     <location>
                         <placeName type="short">The Trabas</placeName>
-                        <placeName type="full">Family Traba Court</placeName>
-                        <geo>42.063,-7.71765</geo>
+                        <placeName type="full">Family Traba Court</placeName>                        
+                        <affiliation>Mosteiro de Sobrado</affiliation>
+                        <affiliation n="geo" corresp="#compos"/>
                     </location>
                 </place>
                 <place xml:id="dmartim" type="noble">
@@ -161,7 +163,7 @@
 
                 <place xml:id="rodeiro" type="noble">
                     <location>
-                        <placeName type="short">Múnio de Rodeiro</placeName>
+                        <placeName type="short">Múnio de Rodeiro e D. Maior Peres</placeName>
                         <affiliation>Lima</affiliation>
                         <placeName type="full">Circle of D. Múnio de Rodeiro</placeName>
                         <geo>42.65,-7.95</geo>
