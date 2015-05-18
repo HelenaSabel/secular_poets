@@ -714,7 +714,7 @@
                 </person>
                 <person xml:id="RoyMrzUl">
                     <persName>Roi Martinz d' Ulveira</persName>
-                    <affiliation n="geo">Guimaraes</affiliation>
+                    <affiliation n="geo">Guimarães</affiliation>
                     <affiliation key="origem" n="geo">Oliveira, Arcos de Valdevez
                             <geo>41.825125,-8.393688</geo></affiliation>
                 </person>
@@ -781,6 +781,10 @@
                 </person>
                 <person xml:id="FerFigLem">
                     <persName>Fernan Figueira</persName>
+                    <nationality key="gl" cert="medium"/>
+                    <socecStatus key="kn"/>
+                    <occupation key="tr"/>
+                    <floruit period="3" from="1275" to="1300"/>
                     <affiliation n="geo" key="origem">Lemos
                         <geo>42.549670,-7.519520</geo></affiliation>
                 </person>
@@ -801,9 +805,14 @@
                         <geo>41.529207,-8.612058</geo></affiliation>
                     <affiliation n="geo">Lalim <geo>42.549670,-7.519520</geo></affiliation>
                 </person>
-                <person>
+                <person xml:id="PAmigo">
                     <persName>Pedr'Amigo de Sevilha</persName>
                     <affiliation key="literaria" n="geo" corresp="#compos"/>
+                    <floruit period="3" from="1257" to="1275"/>
+                    <occupation key="jn"/>
+                    <socecStatus key="cl"/>
+                    <affiliation n="social" key="mecenas" corresp="#afonsX"/>
+                    <affiliation n="social" key="contemporaneo" corresp="#lalim"/>
                 </person>
 
                 <person xml:id="EstGuar">
