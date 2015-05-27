@@ -3663,11 +3663,16 @@
                 <div class="main en">
                     <h2 id="method">Methodology</h2>
                     <ul>
-                        <li>I have selected a corpus of songs attending to diachronic criteria. I
-                            chose texts that are transmited by <em>A</em> and <em>B</em> (and/or
-                                <em>V</em>). All texts preserved in <em>N</em>, <em>T</em>,
-                                <em>M</em> and <em>P</em> are selected. </li>
-                        <li>I retrieve the corresponding diplomatic transcriptions that Prof. <a
+                        <li>Beginning probably around the middle of the thirteenth century, the Galician-Portuguese songs, known as <em>cantigas</em>,
+                            began to be compiled in collections known as <em>cancioneiros</em> (songbooks).
+                            Three such anthologies are known: the <em>Cancioneiro da Ajuda</em> (<em>A</em>), 
+                            the <em>Cancioneiro Colocci-Brancuti</em> (or <em>Cancioneiro da Biblioteca Nacional de Lisboa</em>) (<em>B</em>), 
+                            and the <em>Cancioneiro da Vaticana</em> (<em>V</em>). For this project, I have selected a corpus of songs attending to diachronic criteria. I
+                            chose texts that are transmited by both <em>A</em> and <em>B</em> (and/or
+                                <em>V</em>). All texts preserved in the minor witnesses <em>N</em>, <em>T</em>,
+                                <em>M</em> and <em>P</em> have been selected too. [Include a link 
+                            to an explanation on the selection]</li>
+                        <li>I retrieved the corresponding diplomatic transcriptions that Prof. <a
                                 href="http://www.usc.es/filrom/staff/marina-arbor-aldea/">Mariña
                                 Arbor Aldea</a> (<em>A</em> and <em>T</em>) and <a
                                 href="http://www.usc.es/filrom/staff/antonio-fernandez-guiadanes"
@@ -3693,8 +3698,8 @@
     &lt;/app&gt;
 &lt;/l&gt;</pre></div></li>
                         <li>Manually, I correct the disposition of the text, joining and dividing
-                            the elements so they conform words. We correct particular irregularities
-                            so the tokens of each reading are aligned</li>
+                            the elements so they conform words. I must correct very specific irregularities
+                            so the tokens of each reading are aligned.</li>
                         <li>I use XSLT again to match the tokens. The tokens that match are
                             displayed as text nodes that are children of <code>&lt;l&gt;</code>. The
                             tokens that are different are displayed as variants inside an
@@ -3733,7 +3738,7 @@
                                 href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/FS.html"
                                 >Feature Structure library</a> where I define every textual variant
                             I find. I have a list of individual features (<code>&lt;f&gt;</code>)
-                            that are later combine to create feature structures (&lt;fs&gt;).<br />
+                            that are later combine to create feature structures (<code>&lt;fs&gt;</code>).<br />
                             <div class="code">
                                 <pre>&lt;fs xml:id="dat" feats="#datCon #pr #morph #ling" n="Dative contamination"&gt;
     <span style="font-size:200%">&#8627;</span>
@@ -3744,7 +3749,7 @@
                         </li>
                         <li>At least one <code>&lt;rdg&gt;</code> in each <code>&lt;app&gt;</code>
                             is linked to the feature library through and <code>@ana</code>
-                            attribute.Some of the variants are automatically code using XSLT to ook
+                            attribute. Some of the variants are automatically tagged using XSLT to look
                             for regular patterns.<br />
                             <div class="code">
                                 <pre>&lt;l n="4"&gt;
@@ -3779,7 +3784,8 @@
     &lt;/app&gt;
 &lt;/l&gt;
 </pre>
-                            </div></li>
+                            </div></li><li>If you want to watch a presentation I did on this topic: <br/>
+                                <iframe src="https://prezi.com/embed/vyiybomivkoo/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;PARENT_REQUEST_ID=29bba66df7043bbf#" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" id="iframe_container" frameborder="0" height="400" width="550"></iframe></li>
                     </ul>
                     <h2 id="Ling">Linguistic variation</h2>
                     <table class="sortable">
