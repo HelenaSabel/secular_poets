@@ -69,9 +69,9 @@
                     <persName>Abril Perez</persName>
                     <nationality key="gl" cert="medium"/>
                     <floruit period="2" from="1220" to="1230"/>
-                    <affiliation n="geo">Toroño <geo/></affiliation>
-                    <affiliation n="social" corresp="#sousa"/>
-                    <affiliation key="contempo" n="social" corresp="#BernBon"/>
+                    <affiliation n="geo" key="origem" corresp="#toronho"/>
+                    <affiliation n="social" key="mecenado" corresp="#sousa"/>
+                    <affiliation key="literaria" n="social" corresp="#BernBon"/>
                 </person>
                 <person xml:id="AfEaCo">
                     <persName>Afons' Eanes do Coton</persName>
@@ -84,9 +84,9 @@
                     <persName>Afonso Fernandez Cubel</persName>
                     <nationality key="pt" cert="low"/>
                     <floruit period="3"/>
-                    <affiliation n="geo">São Pedro d'Arcos/Bertiandos
+                    <affiliation n="geo" key="origem">São Pedro d'Arcos/Bertiandos
                         <geo>41.759659,-8.631628</geo></affiliation>
-                    <affiliation key="familia" n="nomsei">Val do Lima <geo/></affiliation>
+                    <!--<affiliation key="familia" n="nomsei">Val do Lima <geo/></affiliation>-->
                 </person>
 
                 <person xml:id="NuRdzCan">
@@ -97,10 +97,10 @@
                     <floruit from="1225" to="1250" period="2"/>
                     <affiliation cert="low" key="origem" n="geo">Penafiel
                             <geo>41.206058,-8.290484</geo></affiliation>
-                    <affiliation n="social" corresp="#jaen"/>
-                    <affiliation n="social" corresp="#afonsX"/>
-                    <affiliation n="social" corresp="#sanchoIV"/>
-                    <affiliation n="social" corresp="#soesto"/>
+                    <affiliation n="social" key="mecenado" corresp="#jaen"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
+                    <affiliation n="social" key="mecenado" corresp="#sanchoIV"/>
+                    <affiliation n="social" key="mecenado" corresp="#soesto"/>
                 </person>
 
                 <person xml:id="VaFdezSen">
@@ -112,7 +112,7 @@
                     <affiliation n="geo" key="familia">Sandim
                         <geo>41.033534,-8.498819</geo></affiliation>
                     <affiliation n="social" key="familia">Mogudos</affiliation>
-                    <affiliation n="social" corresp="#sobrosa" cert="medium"/>
+                    <affiliation n="social" key="mecenado" corresp="#sobrosa" cert="medium"/>
                     <affiliation key="origem" cert="low" n="geo">Parga (Lugo)
                             <geo>43.162582,-7.836350</geo></affiliation>
                 </person>
@@ -120,8 +120,8 @@
                     <persName>Johan Soarez Somesso</persName>
                     <nationality key="gl"/>
                     <floruit from="1223" to="1257" period="2"/>
-                    <affiliation key="familia" n="geo">Fornelos
-                        <geo>42.136781,-8.495883</geo></affiliation>
+                    <affiliation key="origem" n="geo">Fornelos
+                        <geo>42.136781,-8.495883</geo></affiliation><!--
                     <affiliation key="literario" n="geo">Muimenta
                         <geo>42.330626,-8.185819</geo></affiliation>
                     <affiliation n="geo">Terra menor de San Martiño de
@@ -139,17 +139,17 @@
                     <affiliation n="predio">Igrexa de Santa Cristina de Valeixe<geo>42.167806,
                             -8.272472</geo></affiliation>
                     <affiliation n="predio">Igrexa de Santa Euxenia de Setados<geo>42.086167,
-                            -8.398167</geo></affiliation>
+                            -8.398167</geo></affiliation>-->
                 </person>
 
                 <person xml:id="FerRdzCalh">
                     <persName>Fernan Rodriguez de Calheiros</persName>
                     <nationality key="pt"/>
                     <floruit period="2"/>
-                    <affiliation n="social" corresp="#traba"/>
+                    <affiliation n="social" key="mecenado" corresp="#traba"/>
                     <affiliation n="geo" key="origem">Calheiros
                         <geo>41.806389,-8.568889</geo></affiliation>
-                    <affiliation n="social" corresp="#GonEan"/>
+                    <affiliation n="social"  corresp="#GonEan"/>
                 </person>
                 <person xml:id="GonEan">
                     <nationality key="gl"/>
