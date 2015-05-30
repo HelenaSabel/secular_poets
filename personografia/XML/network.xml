@@ -57,14 +57,14 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="AfGmz">
+                <!--<person xml:id="AfGmz">
                     <persName>Afonso Gomez, jograr de Sarria</persName>
                     <nationality key="gl"/>
                     <occupation key="jn"/>
                     <floruit period="3" from="1270" to="1280"/>
                     <affiliation key="origem" n="geo">Sarria <geo>42.780116,-7.414307</geo>
                     </affiliation>
-                </person>
+                </person>-->
                 <person xml:id="AbPrz">
                     <persName>Abril Perez</persName>
                     <nationality key="gl" cert="medium"/>
@@ -79,15 +79,25 @@
                     <floruit period="3"/>
                     <affiliation key="origem" n="geo">Negreira
                         <geo>42.910065,-8.736629</geo></affiliation>
+                    <affiliation key="mecenado" n="social" corresp="#afonsX"/>
+                    <affiliation key="mecenado" n="social" corresp="#jaen"/>
+                    <affiliation key="literaria" n="social" corresp="#PPon"/>
+                   <!-- Afonso Eanes do Cotom	pessoa	referência	referência	Afonso X
+                    Afonso Eanes do Cotom	pessoa	referência	referência	Martim Soares
+                    Afonso Eanes do Cotom	pessoa	mecenado	mecenado	Afonso X
+                    Afonso Eanes do Cotom	pessoa	mecenado	mecenado	Fernando III
+                    Afonso Eanes do Cotom	pessoa	literária	literária	Pero da Ponte
+                    Afonso Eanes do Cotom	pessoa	morada	geografica	Compostela
+                    -->
                 </person>
-                <person xml:id="AfFdzCub">
+                <!--<person xml:id="AfFdzCub">
                     <persName>Afonso Fernandez Cubel</persName>
                     <nationality key="pt" cert="low"/>
                     <floruit period="3"/>
                     <affiliation n="geo" key="origem">São Pedro d'Arcos/Bertiandos
-                        <geo>41.759659,-8.631628</geo></affiliation>
-                    <!--<affiliation key="familia" n="nomsei">Val do Lima <geo/></affiliation>-->
-                </person>
+                            <geo>41.759659,-8.631628</geo></affiliation>
+                    <!-\-<affiliation key="familia" n="nomsei">Val do Lima <geo/></affiliation>-\->
+                </person>-->
 
                 <person xml:id="NuRdzCan">
                     <persName>Nuno Rodriguez de Candarei</persName>
@@ -121,7 +131,9 @@
                     <nationality key="gl"/>
                     <floruit from="1223" to="1257" period="2"/>
                     <affiliation key="origem" n="geo">Fornelos
-                        <geo>42.136781,-8.495883</geo></affiliation><!--
+                        <geo>42.136781,-8.495883</geo></affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#cabrera"/>
+                    <!--
                     <affiliation key="literario" n="geo">Muimenta
                         <geo>42.330626,-8.185819</geo></affiliation>
                     <affiliation n="geo">Terra menor de San Martiño de
@@ -130,7 +142,7 @@
                     <affiliation n="predio">San Pedro de Crecente
                         <geo>42.153784,-8.223320</geo></affiliation>
                     <affiliation n="geo">Albeos <geo>42.1455069,-8.25</geo></affiliation>
-                    <affiliation key="propriedade" n="geo">Tui
+                    <affiliation key="politica" n="geo">Tui
                         <geo>42.049014,-8.646907</geo></affiliation>
                     <affiliation n="predio">Mosteiro de Fiães <geo>42.102527,-8.210651</geo>
                     </affiliation>
@@ -149,31 +161,25 @@
                     <affiliation n="social" key="mecenado" corresp="#traba"/>
                     <affiliation n="geo" key="origem">Calheiros
                         <geo>41.806389,-8.568889</geo></affiliation>
-                    <affiliation n="social"  corresp="#GonEan"/>
+                    <affiliation n="social" key="politica" corresp="#GonEan"/>
                 </person>
-                <person xml:id="GonEan">
-                    <nationality key="gl"/>
-                    <occupation key="other"/>
-                    <floruit period="2"/>
-                    <affiliation n="social" key="familia" corresp="#OsEan"/>
-                </person>
-                
+
+
                 <person xml:id="RodDzCam">
                     <persName>Rodrigo Diaz de los Cameros</persName>
                     <floruit period="1"/>
                     <nationality key="cas"/>
                     <affiliation key="familia" n="social">Cameros</affiliation>
-                    <affiliation key="familia" n="social">Guiomar Rodriguez <affiliation
-                            key="familia" n="geo">Celanova
-                            <geo>42.151712,-7.958399</geo></affiliation></affiliation>
-                    <affiliation n="social" corresp="#traba"/>
-                    <affiliation n="predio">Mosteiro de Ferreira de Pantón
+                    <affiliation key="origem" n="geo">Cameros <geo>42.2130,-2.55</geo></affiliation>
+                    <affiliation key="familia" n="social" corresp="#guiomar"/>
+                    <affiliation n="social" key="mecenado" corresp="#traba"/>
+                    <!--<affiliation n="predio">Mosteiro de Ferreira de Pantón
                             <geo>42.508333,-7.619722</geo></affiliation>
                     <affiliation n="geo">Ferreira de Pallares
                         <geo>42.880173,-7.679235</geo></affiliation>
                     <affiliation n="predio">Mosteiro de Alcobaça
                         <geo>39.548333,-8.98</geo></affiliation>
-                    <affiliation n="predio" key="familia">Mosteiro de Meira <geo/></affiliation>
+                    <affiliation n="predio" key="familia">Mosteiro de Meira <geo/></affiliation>-->
                 </person>
                 <person xml:id="MartPrzAl">
                     <persName>Martin Perez Alvin</persName>
@@ -182,6 +188,8 @@
                     <affiliation key="origem" n="geo">Alvim, Guimaraes
                             <geo>41.436622,-8.287752</geo></affiliation>
                     <affiliation key="familia" n="social" corresp="#JLob"/>
+                    <affiliation key="mecenado" n="social" corresp="#sanchoIV"/>
+                    <affiliation key="mecenado" n="social" corresp="#dinis"/>
                 </person>
                 <person xml:id="PaySrzTav">
                     <persName>Pai Soarez de Taveirós</persName>
@@ -189,15 +197,16 @@
                     <occupation key="tr"/>
                     <socecStatus key="kn"/>
                     <floruit from="1225" to="1250" period="2"/>
-                    <affiliation n="social" corresp="#sanchoI"/>
+                    <affiliation n="social" key="mecenado" corresp="#sanchoI"/>
                     <affiliation n="social" key="mecenado" corresp="#constança"/>
-                    <affiliation n="social" corresp="#soesto"/>
-                    <affiliation from="1241" to="1249" n="social" corresp="#jaen"/>
+                    <affiliation n="social" key="mecenado" corresp="#soesto"/>
+                    <affiliation n="social" key="mecenado" corresp="#cabrera"/>
+                    <affiliation from="1241" key="mecenado" to="1249" n="social" corresp="#jaen"/>
                     <affiliation key="origem" n="geo">Tabeirós
                         <geo>42.686679,-8.492129</geo></affiliation>
                     <affiliation key="familia" n="social" corresp="#PVelho"/>
                 </person>
-                <person xml:id="JNzCam">
+                <!--<person xml:id="JNzCam">
                     <persName>Joham Nunez Camanez</persName>
                     <nationality cert="low" key="gl"/>
                     <occupation cert="unknown" key="unknown"/>
@@ -205,33 +214,32 @@
                     <floruit from="1240" to="1260" period="3"/>
                     <affiliation key="origem" cert="low" n="geo">Camán (Pontevedra)
                             <geo>42.145014,-8.251545</geo></affiliation>
-                </person>
-                <person xml:id="JRom">
+                </person>-->
+                <!--<person xml:id="JRom">
                     <persName>Johan Romeu de Lugo</persName>
                     <nationality key="gl"/>
                     <floruit period="3"/>
                     <affiliation n="geo" key="origem">Lugo
                         <geo>43.010338,-7.554869</geo></affiliation>
-                    <affiliation n="social" corresp="#LoLias"/>
-                </person>
-                <person xml:id="JServ">
+                    <affiliation n="social" key="literaria" corresp="#LoLias"/>
+                </person>-->
+<!--                <person xml:id="JServ">
                     <persName>Johan Servando</persName>
                     <floruit period="3"/>
                     <nationality key="gl"/>
-                    <affiliation n="geo">Santa María de Barxés (Muíño, Limia)
+                    <affiliation n="geo" key="origem">Santa María de Barxés (Muíño, Limia)
                             <geo>41.967829,-7.954321</geo></affiliation>
-
-                </person>
+                </person>-->
                 <person xml:id="AfLpzBay">
                     <persName>Alfonso Lopez de Baião</persName>
                     <nationality cert="high" key="pt"/>
                     <occupation key="tr"/>
                     <socecStatus key="nb"/>
                     <floruit from="1246" to="1280" period="3"/>
-                    <affiliation from="1245" to="1250" n="social" corresp="#jaen"/>
-                    <affiliation from="1251" to="1280" n="social" corresp="#sousa"/>
-                    <affiliation key="literaria" n="predio">Mosteiro de Arouca
-                            <geo>40.927947,-8.246897</geo></affiliation>
+                    <affiliation key="mecenado" from="1245" to="1250" n="social" corresp="#jaen"/>
+                    <affiliation key="mecenado" from="1251" to="1280" n="social" corresp="#sousa"/>
+                    <!--<affiliation key="literaria" n="predio">Mosteiro de Arouca
+                            <geo>40.927947,-8.246897</geo></affiliation>-->
                     <affiliation key="origem" n="geo">Baião
                         <geo>41.177488,-8.050259</geo></affiliation>
 
@@ -242,8 +250,8 @@
                     <floruit period="3"/>
                     <affiliation key="origem" n="geo">São Cosme de Besteiros
                             <geo>41.221282,-8.348087</geo></affiliation>
-                    <affiliation key="familia" n="social">Riba de Vizela</affiliation>
-                    <affiliation n="social" corresp="#sanchoII"/>
+                    <!-- <affiliation key="familia" n="social">Riba de Vizela</affiliation>-->
+                    <affiliation n="social" key="mecenado" corresp="#sanchoII"/>
                 </person>
                 <person xml:id="EstFai">
                     <persName>Estevan Faian</persName>
@@ -252,10 +260,10 @@
                     <occupation key="tr"/>
                     <socecStatus key="kn"/>
                     <floruit from="1240" to="1260" period="3"/>
-                    <affiliation cert="low" n="social" corresp="#jaen"/>
-                    <affiliation cert="medium" n="social" corresp="#afonsX"/>
-
-                    <affiliation key="familia" n="geo">Faian (Ribadavia) <geo/></affiliation>
+                    <affiliation key="mecenado" cert="low" n="social" corresp="#jaen"/>
+                    <affiliation key="mecenado" cert="medium" n="social" corresp="#afonsX"/>
+                    <affiliation n="geo" key="origem">Faian (Ribadavia)
+                            <geo>43.475226,-7.485082</geo></affiliation>
                     <affiliation key="familia" n="social">Sarraça</affiliation>
                     <affiliation key="familia" n="social">Somesso</affiliation>
                 </person>
@@ -264,13 +272,13 @@
                     <persName>Estevan Perez Froian</persName>
                     <nationality key="pt"/>
                     <floruit period="3"/>
-                    <affiliation n="geo">Froião, Paredes de
-                        Coura<geo>41.912-8.558</geo></affiliation>
+                    <affiliation n="geo" key="origem">Froião, Paredes de
+                            Coura<geo>41.912-8.558</geo></affiliation>
                     <affiliation n="social" key="familia">Pereiras</affiliation>
                     <affiliation n="social" key="familia">Redondos</affiliation>
-                    <affiliation n="social" corresp="#sanchoIV"/>
-                    <affiliation n="social" corresp="#fernIV"/>
-                    <affiliation n="social" corresp="#AyPrzVuyt"/>
+                    <affiliation n="social" key="mecenado" corresp="#sanchoIV"/>
+                    <affiliation n="social" key="mecenado" corresp="#fernIV"/>
+                    <affiliation n="social" key="literaria" corresp="#AyPrzVuyt"/>
                 </person>
 
                 <person xml:id="MenRdzTen">
@@ -280,36 +288,36 @@
                     <affiliation key="origem" n="geo">Pontevedra
                         <geo>42.429078,-8.644538</geo></affiliation>
                     <affiliation n="social" key="mecenado" corresp="#afonsX"/>
-                    <affiliation n="social" corresp="#JVqzTal"/>
-                    <affiliation n="social" corresp="#PayGmzCha"/>
+                    <affiliation n="social" key="literaria" corresp="#JVqzTal"/>
+                    <affiliation n="social" key="literaria" corresp="#PayGmzCha"/>
                 </person>
-                <person xml:id="MenVzqFo">
+                <!--<person xml:id="MenVzqFo">
                     <persName>Men Vasquez de Folhente</persName>
                     <nationality key="pt"/>
                     <floruit period="3"/>
-                    <affiliation key="familia" n="geo">Aguiar
+                    <affiliation key="origem" n="geo">Aguiar
                         <geo>41.627393,-8.651456</geo></affiliation>
                     <affiliation key="familia" n="geo">Ponte de Lima
                         <geo>41.764301,-8.582251</geo></affiliation>
-                </person>
+                </person>-->
                 <person xml:id="FerPad">
                     <persName>Fernan Padron</persName>
                     <nationality cert="medium" key="gl"/>
                     <occupation key="tr"/>
                     <socecStatus key="kn"/>
                     <floruit period="2"/>
-                    <affiliation n="geo">Padrón <geo>42.8,-8.7</geo></affiliation>
+                    <affiliation n="geo" key="origem">Padrón <geo>42.8,-8.7</geo></affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#cabrera"/>
                 </person>
 
                 <person xml:id="MartMo">
                     <persName>Martin Moxa</persName>
                     <nationality cert="medium" key="gl"/>
-
                     <occupation key="tr"/>
                     <socecStatus key="cl"/>
                     <floruit from="1270" to="1280" period="3"/>
-                    <affiliation n="social" corresp="#afonsX"/>
-                    <affiliation n="geo" corresp="#compos"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
+                    <affiliation n="geo" key="origem" corresp="#compos"/>
                 </person>
                 <person xml:id="JSrzPav">
                     <persName>Johan Soarez de Pavia </persName>
@@ -317,23 +325,24 @@
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1170" to="1200" period="1"/>
-                    <affiliation n="social" corresp="#afonsII"/>
-
-                    <affiliation n="predio">Mosteiro de Paço de Sousa <geo>41.165906,-8.344697</geo>
+                    <affiliation n="social" key="mecenado" corresp="#afonsII"/>
+                    <!--<affiliation n="predio">Mosteiro de Paço de Sousa <geo>41.165906,-8.344697</geo>
                         <affiliation n="social">Egas Moniz</affiliation>
                     </affiliation>
                     <affiliation n="predio">Castelo de Paiva
-                        <geo>41.046389,-8.269722</geo></affiliation>
+                        <geo>41.046389,-8.269722</geo></affiliation>-->
                     <affiliation n="social" corresp="#velaz" key="mecenado"/>
                     <affiliation n="social" corresp="#cabrera" key="mecenado"/>
                 </person>
                 <person xml:id="JVelho">
                     <persName>Johan Vello de Pedrogaez</persName>
                     <floruit period="3"/>
-                    <affiliation n="geo">Forjães <geo>41.604657,-8.742969</geo></affiliation>
-                    <affiliation n="social" key="familia" corresp="#velho"/>
-                    <affiliation n="geo">Viana do Castelo
-                        <geo>41.691796,-8.833439</geo></affiliation>
+                    <affiliation n="geo" key="origem">Forjães
+                        <geo>41.604657,-8.742969</geo></affiliation>
+                    <affiliation n="social" key="familia">Velho</affiliation>
+                    <affiliation n="geo" key="politica">Viana do Castelo
+                            <geo>41.691796,-8.833439</geo></affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#dinis"/>
                 </person>
                 <person xml:id="MartSrz">
                     <persName>Martin Soarez</persName>
@@ -341,11 +350,13 @@
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1230" to="1270" period="3"/>
-                    <affiliation n="geo">Riba de Lima (Minho)
-                        <geo>41.683333,-8.833333</geo></affiliation>
+                    <affiliation n="geo" key="origem">Riba de Lima (Minho)
+                            <geo>41.683333,-8.833333</geo></affiliation>
                     <affiliation key="familia" n="social" corresp="#GarSrz"/>
-                    <affiliation key="literaria" n="geo">Sousela
-                        <geo>41.366667,-8.183333</geo></affiliation>
+                    <!--<affiliation key="literaria" n="geo">Sousela
+                        <geo>41.366667,-8.183333</geo></affiliation>-->
+                    <affiliation n="social" key="mecenado" corresp="#sanchoII"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
                 </person>
                 <person xml:id="AyCarp">
                     <persName>Airas Fernandes "Carpancho"</persName>
@@ -364,9 +375,8 @@
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1230" to="1260" period="3"/>
-                    <affiliation n="social" corresp="#jaen"/>
-                    <affiliation n="social" corresp="#afonsX"/>
-
+                    <affiliation n="geo" key="origem" corresp="#compos"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
                     <affiliation n="geo" corresp="#compos" key="origem"/>
                     <affiliation key="familia" n="geo">Luou
                         <geo>42.804583,-8.582389</geo></affiliation>
@@ -378,10 +388,9 @@
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1220" to="1250" period="2"/>
-                    <affiliation from="1220" to="1238" n="social" corresp="#sousa"/>
-                    <affiliation n="social" corresp="#jaen" from="1239" to="1245"/>
-                    <affiliation from="1246" to="1250" n="social" corresp="#afonsIII"/>
-
+                    <affiliation from="1220" to="1238" n="social" key="mecenado" corresp="#sousa"/>
+                    <affiliation key="mecenado" n="social" corresp="#jaen" from="1239" to="1245"/>
+                    <affiliation key="mecenado" from="1246" to="1250" n="social" corresp="#afonsIII"/>
                     <affiliation n="geo" key="origem">Terras de Sousa
                         <geo>41.087778,-8.520278</geo></affiliation>
                 </person>
@@ -392,26 +401,24 @@
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1240" to="1270" period="3"/>
-                    <affiliation n="social" corresp="#sousa"/>
-                    <affiliation from="1240" to="1252" n="social" corresp="#jaen"/>
-                    <affiliation from="1253" to="1270" n="social" corresp="#afonsX"/>
-
-                    <affiliation n="geo">Sabadim <geo>41.906111,-8.4425</geo></affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#sousa"/>
+                    <affiliation from="1240" to="1252" n="social" key="mecenado" corresp="#jaen"/>
+                    <affiliation from="1253" to="1270" n="social" key="mecenado" corresp="#afonsX"/>
+                    <affiliation n="geo" key="origem">Sabadim
+                        <geo>41.906111,-8.4425</geo></affiliation>
                 </person>
 
                 <person xml:id="VasGil">
                     <persName>Vasco Gil</persName>
                     <nationality key="pt" cert="high"/>
-
                     <affiliation key="origem" n="geo">Sousa <geo>41.35,-8.245</geo></affiliation>
-
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1235" to="1260" period="3"/>
-                    <affiliation n="social" corresp="#sobrosa" from="1235" to="1240"/>
-                    <affiliation n="social" corresp="#sanchoII" from="1241" to="1245"/>
-                    <affiliation n="social" corresp="#jaen" from="1246" to="1253"/>
-                    <affiliation n="social" corresp="#afonsX"/>
+                    <affiliation n="social" corresp="#sobrosa" from="1235" to="1240" key="mecenado"/>
+                    <affiliation n="social" corresp="#sanchoII" from="1241" to="1245" key="mecenado"/>
+                    <affiliation n="social" corresp="#jaen" from="1246" to="1253" key="mecenado"/>
+                    <affiliation n="social" corresp="#afonsX" key="mecenado"/>
                 </person>
 
                 <person xml:id="JSrzCoe">
@@ -420,14 +427,15 @@
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1235" to="1270" period="3"/>
-                    <affiliation from="1235" to="1237" n="social" corresp="#serpa"/>
-                    <affiliation from="1238" to="1241" n="social" corresp="#berenguer"/>
-                    <affiliation from="1242" to="1248" n="social" corresp="#jaen"/>
-                    <affiliation from="1249" to="1270" n="social" corresp="#afonsIII"/>
-
+                    <affiliation from="1235" to="1237" n="social" key="mecenado" corresp="#serpa"/>
+                    <affiliation from="1238" to="1241" n="social" key="mecenado"
+                        corresp="#berenguer"/>
+                    <affiliation from="1242" to="1248" n="social" key="mecenado" corresp="#jaen"/>
+                    <affiliation from="1249" to="1270" n="social" key="mecenado" corresp="#afonsIII"/>
                     <affiliation n="geo" key="origem">Ribadouro
                         <geo>41.098333,-8.076944</geo></affiliation>
-                    <affiliation n="geo">Cinfães <geo>41.067343,-8.085854</geo></affiliation>
+                    <affiliation n="geo" key="politica">Cinfães
+                        <geo>41.067343,-8.085854</geo></affiliation>
                 </person>
 
                 <person xml:id="RoyPaezRib">
@@ -435,22 +443,21 @@
                     <nationality cert="medium" key="gl"/>
                     <affiliation n="geo" key="origem">Monfero <geo>43.308654,-8.008970</geo>
                     </affiliation>
-
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1240" to="1280" period="3"/>
-                    <affiliation n="social" corresp="#afonsX"/>
-                    <affiliation n="geo">San Xulián de Ribela (Ourense) <geo>42.383283,
-                            -7.840788</geo></affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
+                    <affiliation n="geo" key="politica">San Xulián de Ribela (Ourense)
+                            <geo>42.383283, -7.840788</geo></affiliation>
                 </person>
                 <person xml:id="AfPaez">
                     <persName>Afonso Paez de Braga</persName>
                     <nationality key="gl"/>
                     <floruit period="3" from="1258" to="1300"/>
                     <affiliation n="geo" key="origem" corresp="#braga"/>
-                    <affiliation key="propriedade" n="geo">Fermentões
+                    <affiliation key="politica" n="geo">Fermentões
                         <geo>41.455765,-8.316240</geo></affiliation>
-                    <affiliation key="propriedade" n="geo">Silvares
+                    <affiliation key="politica" n="geo">Silvares
                         <geo>41.444813,-8.335583</geo></affiliation>
                     <affiliation corresp="#JMdzBrit" n="social" key="politica"/>
                     <affiliation corresp="#MenRdzBre" n="social" key="politica"/>
@@ -463,11 +470,11 @@
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1238" to="1286" period="3"/>
-                    <affiliation n="social" corresp="#soesto"/>
-                    <affiliation n="geo">Terras de Monterroso
-                        <geo>42.794063,-7.833271</geo></affiliation>
-                    <affiliation n="geo">Estremadura (Portugal)
-                        <geo>39.701578,-8.741260</geo></affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#soesto"/>
+                    <affiliation n="geo" key="origem">Terras de Monterroso
+                            <geo>42.794063,-7.833271</geo></affiliation>
+                    <affiliation n="geo" key="politica">Estremadura (Portugal)
+                            <geo>39.701578,-8.741260</geo></affiliation>
                 </person>
 
                 <person xml:id="FerGvzSeav">
@@ -476,7 +483,7 @@
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1258" to="1275" period="3"/>
-                    <affiliation n="social" corresp="#afonsIII"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsIII"/>
 
                     <affiliation key="origem" n="geo">Vinhais, Trás-os-Montes (Brahança)
                             <geo>41.832233,-7.006722</geo></affiliation>
@@ -490,9 +497,9 @@
                     <floruit period="3" from="1248" to="1273"/>
                     <affiliation n="geo" key="origem">Terras de Barroso
                         <geo>41.823889,-7.79</geo></affiliation>
-                    <affiliation n="social" corresp="#afonsX"/>
-                    <affiliation n="geo">Terras de Basto <geo>41.487813,
-                        -7.981805</geo></affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
+                    <affiliation n="geo" key="politica">Terras de Basto <geo>41.487813,
+                            -7.981805</geo></affiliation>
                 </person>
                 <person xml:id="PGvzPor">
                     <persName>Pero Gonçalvez de Porto Carreiro</persName>
@@ -506,13 +513,15 @@
                     <floruit period="3"/>
                     <affiliation n="geo" key="origem">Souto de Rebordões
                             <geo>41.724558,-8.561696</geo></affiliation>
-                    <affiliation n="social" corresp="#sousa"/>
+                    <affiliation n="social" key="mecenado" corresp="#sousa"/>
                 </person>
                 <person xml:id="PMdzFon">
                     <persName>Pero Mendiz da Fonseca</persName>
                     <floruit period="3"/>
-                    <affiliation n="geo">São Martinho de Mouros (Lamego)
+                    <affiliation n="geo" key="origem">São Martinho de Mouros (Lamego)
                             <geo>41.103286,-7.896737</geo></affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#JPrzAv"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsIII"/>
                 </person>
                 <person xml:id="JBav">
                     <persName>Johan Baveca</persName>
@@ -521,12 +530,12 @@
                     <affiliation n="social" key="mecenado" corresp="#soesto"/>
                     <affiliation n="social" key="mecenado" corresp="#afonsX"/>
                     <affiliation n="social" key="literaria" corresp="#AyPrzVuyt"/>
-                    <affiliation n="social" key="literaria" corresp="#GonçEaVi"/> 
+                    <affiliation n="social" key="literaria" corresp="#GonçEaVi"/>
                     <affiliation n="social" key="literaria" corresp="#PAmigo"/>
                     <affiliation n="social" key="literaria" corresp="#PGarAm"/>
                 </person>
-                
-                <person xml:id="GonçEaVi"> 
+
+                <person xml:id="GonçEaVi">
                     <persName>Gonçal' Eanes do Vinhal</persName>
                     <floruit period="3"/>
                     <affiliation n="social" key="mecenado" corresp="#sanchoII"/>
@@ -545,28 +554,30 @@
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1240" to="1265" period="3"/>
-                    <affiliation n="social" corresp="#sousa" from="1240" to="1243"/>
-                    <affiliation n="social" corresp="#jaen" from="1244" to="1248"/>
-                    <affiliation n="social" corresp="#afonsX" from="1249" to="1253"/>
-                    <affiliation n="social" corresp="#afonsIII" from="1253" to="1265"/>
-                    <affiliation n="geo">Milhazes, Barcelos
-                        <geo>41.490833,-8.660556</geo></affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#sousa" from="1240" to="1243"/>
+                    <affiliation n="social" key="mecenado" corresp="#jaen" from="1244" to="1248"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX" from="1249" to="1253"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsIII" from="1253" to="1265"/>
+                    <affiliation n="geo" key="origem">Milhazes, Barcelos
+                            <geo>41.490833,-8.660556</geo></affiliation>
                 </person>
-                <person xml:id="JReq">
+                <!--<person xml:id="JReq">
                     <persName>Johan de Requeixo</persName>
                     <floruit period="3"/>
                     <affiliation n="geo" key="origem">Requeixo, Chantada <geo>42.613402,
                             -7.863815</geo></affiliation>
                     <affiliation n="predio">Santa Maria do Faro
                         <geo>42.6345,-7.8713</geo></affiliation>
-                </person>
+                </person>-->
                 <person xml:id="JLob">
-                    <persName>Joham Lobeira</persName>
+                    <persName>Johan Lobeira</persName>
                     <floruit period="3"/>
                     <affiliation key="familia" n="geo">Guimarães
                         <geo>41.440787,-8.291874</geo></affiliation>
                     <affiliation key="origem" n="geo">Lobeira
                         <geo>41.984776,-8.039395</geo></affiliation>
+                    <affiliation key="familia" n="social" corresp="#MartPrzAl"/>
+                    <affiliation key="mecenado" n="social" corresp="#afonsIII"/>
                 </person>
                 <person xml:id="JVqzTal">
                     <persName>Johan Vasquis de Talaveira</persName>
@@ -574,11 +585,11 @@
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1260" to="1295" period="3"/>
-                    <affiliation from="1260" to="1283" n="social" corresp="#afonsX"/>
+                    <affiliation from="1260" to="1283" n="social" key="mecenado" corresp="#afonsX"/>
                     <affiliation n="geo" key="politica" corresp="#baiona"/>
-                    <affiliation from="1284" to="1295" n="social" corresp="#sanchoIV"/>
-                    <affiliation n="geo">Talavera de la Reina
-                        <geo>39.961801,-4.830143</geo></affiliation>
+                    <affiliation from="1284" to="1295" n="social" key="mecenado" corresp="#sanchoIV"/>
+                    <affiliation n="geo" key="origem">Talavera de la Reina
+                            <geo>39.961801,-4.830143</geo></affiliation>
                 </person>
                 <person xml:id="PPon">
                     <persName>Pero da Ponte</persName>
@@ -592,23 +603,24 @@
                     <affiliation n="social" key="mecenado" corresp="#meneses"/>
                     <affiliation key="literaria" n="geo" corresp="#compos"/>
                 </person>
-                <person xml:id="MartCod">
+                <!--<person xml:id="MartCod">
                     <persName>Martin Codax</persName>
                     <nationality cert="medium" key="gl"/>
                     <socecStatus key="unknown" cert="unknown"/>
                     <occupation key="jn"/>
                     <floruit from="1240" to="1275" period="3"/>
-                    <affiliation n="geo">Vigo <geo>42.223078,-8.731278</geo></affiliation>
-                </person>
-                <person xml:id="MartGi">
+                    <affiliation n="geo" key="origem">Vigo
+                        <geo>42.223078,-8.731278</geo></affiliation>
+                </person>-->
+               <!-- <person xml:id="MartGi">
                     <persName>Martin de Ginzo</persName>
                     <floruit period="3"/>
                     <affiliation n="geo" key="origem">Ginzo (Ponteareas)
                             <geo>42.181334,-8.558962</geo></affiliation>
                     <affiliation n="predio" key="literaria">Santa Cecilia
                         <geo>42.1752,-8.509</geo></affiliation>
-                </person>
-                <person xml:id="MartPadr">
+                </person>-->
+               <!-- <person xml:id="MartPadr">
                     <persName>Martin de Padrozelos</persName>
                     <nationality key="gl" from="1240" to="1280"/>
                     <floruit period="3"/>
@@ -616,22 +628,24 @@
                     </affiliation>
                     <affiliation n="geo" key="literaria">Balongo
                         <geo>42.190524,-8.143139</geo></affiliation>
-                    <affiliation n="predio">Mosteiro de Montederramo <geo>42.274503,-7.501944</geo>
-                    </affiliation>
-                </person>
+                    <!-\- <affiliation n="predio">Mosteiro de Montederramo <geo>42.274503,-7.501944</geo>
+                    </affiliation>-\->
+                </person>-->
                 <person xml:id="JPrzAv">
                     <persName>Johan Perez d' Aboim</persName>
                     <floruit period="3"/>
                     <affiliation n="geo" key="origem">Aboim da Nóbrega <geo>41.750190,
                             -8.391344</geo></affiliation>
                     <affiliation n="social" key="mecenado" corresp="#afonsIII"/>
-                    <affiliation n="social">Senhor de Portel</affiliation>
+                    <!--<affiliation n="social">Senhor de Portel</affiliation>-->
+                    <affiliation n="social" key="mecenado" corresp="#dinis"/>
                 </person>
                 <person xml:id="JCan">
                     <persName>Johan de Cangas</persName>
                     <floruit period="3"/>
-                    <affiliation n="predio" key="literaria">San Mamemede do Mar
-                            <geo>42.3,-8.8103</geo></affiliation>
+                    <!--<affiliation n="predio" key="literaria">San Mamemede do Mar
+                            <geo>42.3,-8.8103</geo></affiliation>-->
+                    <affiliation n="geo" key="origem">Cangas <geo>42.3,-8.8103</geo></affiliation>
                 </person>
                 <person xml:id="JoGaia">
                     <persName>Johan de Gaia</persName>
@@ -662,13 +676,13 @@ João de Gaia	pessoa	literária	literária	Martim de Moxa	pessoa
 João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
 -->
                 </person>
-                <person xml:id="Den">
+                <!--<person xml:id="Den">
                     <persName>Dom Dinis</persName>
                     <nationality key="pt" cert="high"/>
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1279" to="1235" period="3"/>
-                </person>
+                </person>-->
 
                 <person xml:id="PayGmzCha">
                     <persName>Pai Gomez Charinho</persName>
@@ -678,12 +692,12 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <floruit from="1248" to="1295" period="3"/>
                     <affiliation n="geo" key="origem">Pontevedra
                         <geo>42.433333,-8.65</geo></affiliation>
-                    <affiliation n="social" corresp="#afonsX"/>
-                    <affiliation key="propriedade" n="geo">Rianxo
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
+                    <affiliation key="politica" n="geo">Rianxo
                         <geo>42.651408,-8.816360</geo></affiliation>
-                    <affiliation n="predio">Mosteiro de San Francisco (Pontevedra)
-                            <geo>42.431171,-8.642996</geo></affiliation>
-                    <affiliation n="social" corresp="#sanchoIV"/>
+                    <!--<affiliation n="predio">Mosteiro de San Francisco (Pontevedra)
+                            <geo>42.431171,-8.642996</geo></affiliation>-->
+                    <affiliation n="social" key="mecenado" corresp="#sanchoIV"/>
                     <affiliation n="social" key="politica">Abade de Valladolid</affiliation>
                     <affiliation n="social" key="politica" corresp="#EstPrzFroy"/>
                 </person>
@@ -693,7 +707,7 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1280" to="1320" period="3"/>
-                    <affiliation n="social" corresp="#afonsX"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
 
                 </person>
                 <person xml:id="GilPrzCo">
@@ -705,43 +719,43 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <affiliation n="social" key="familia" corresp="#JSrzCoe"/>
                     <affiliation key="mecenado" n="social" corresp="#afonsX"/>
                     <affiliation key="mecenado" n="social" corresp="#sanchoIV"/>
-                    <affiliation n="geo" key="politica" corresp="#baiona"/>Gome </person>
+                    <affiliation n="geo" key="politica" corresp="#baiona"/>
+                </person>
                 <person xml:id="GilSchz">
                     <persName>Gil Sanchez</persName>
                     <affiliation key="mecenado" corresp="#sanchoI" n="social"/>
                     <floruit period="2" from="1210" to="1235"/>
-                    <affiliation key="propriedade" n="geo">Covilhã <geo>40.278072,
+                    <affiliation key="politica" n="geo">Covilhã <geo>40.278072,
                         -7.492054</geo></affiliation>
-                    <affiliation key="propriedade" n="geo">Castelo Branco
+                    <affiliation key="politica" n="geo">Castelo Branco
                             <geo>39.834457,-7.485423</geo></affiliation>
                     <affiliation key="familia" n="social">Maria Paez Ribeira
                         (Ribeirinha)</affiliation>
-                    <affiliation n="predio">São Miguel de Laundos (Póvoa de Varzim)
-                            <geo>41.434784,-8.722797</geo></affiliation>
-                    <affiliation n="geo">Vila do Conde <geo>41.352477,-8.746229</geo></affiliation>
+                    <!--<affiliation n="predio">São Miguel de Laundos (Póvoa de Varzim)
+                            <geo>41.434784,-8.722797</geo></affiliation>-->
+                    <affiliation n="geo" key="politica">Vila do Conde
+                        <geo>41.352477,-8.746229</geo></affiliation>
                 </person>
                 <person xml:id="GarSrz">
                     <persName>Garcia Soarez</persName>
                     <floruit period="3"/>
-                    <affiliation n="predio">São Miguel da Ribeira
-                        <geo>40.723861,-8.311348</geo></affiliation>
-                    <affiliation key="familia" n="social">Martin Soarez</affiliation>
+                    <!--<affiliation n="predio">São Miguel da Ribeira
+                        <geo>40.723861,-8.311348</geo></affiliation>-->
+                    <affiliation key="familia" n="social" corres="#MartSrz"/>
                 </person>
                 <person xml:id="BonGen">
                     <persName>Bonifaci Calvo</persName>
                     <nationality key="it" cert="medium"/>
-
                     <affiliation n="geo" key="origem">Genoa <geo>44.411111,8.932778</geo>
                     </affiliation>
-
                     <socecStatus key="unknown"/>
                     <occupation key="tr"/>
                     <floruit from="1250" to="1265" period="3"/>
-                    <affiliation n="social" corresp="#afonsX"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
 
                 </person>
 
-                <person xml:id="VaRdzCal">
+             <!--   <person xml:id="VaRdzCal">
                     <persName>Vasco Rodrigues de Calvelo</persName>
                     <nationality key="pt" cert="medium"/>
                     <socecStatus key="kn"/>
@@ -749,21 +763,21 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <floruit from="1250" to="1275" period="3"/>
                     <affiliation key="origem" n="geo">Calvelo
                         <geo>41.681944,-8.543333</geo></affiliation>
-                </person>
+                </person>-->
                 <person xml:id="RoyFdz">
                     <persName>Roi Fernandiz de Santiago</persName>
                     <nationality key="gl" cert="high"/>
                     <socecStatus key="cl"/>
                     <occupation key="tr"/>
                     <floruit from="1240" to="1270" period="3"/>
-                    <affiliation n="social" corresp="#afonsX"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
 
-                    <affiliation n="geo" corresp="#compos"/>
+                    <affiliation n="geo" key="origem" corresp="#compos"/>
                 </person>
                 <person xml:id="RoyMrzUl">
                     <persName>Roi Martinz d' Ulveira</persName>
                     <floruit period="3"/>
-                    <affiliation n="geo">Guimarães</affiliation>
+                    <affiliation n="geo" key="politica">Guimarães</affiliation>
                     <affiliation key="origem" n="geo">Oliveira, Arcos de Valdevez
                             <geo>41.825125,-8.393688</geo></affiliation>
                     <affiliation n="social" key="mecenado" corresp="#dinis"/>
@@ -772,12 +786,13 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                 <person xml:id="RoyMrzCa">
                     <persName>Roi Martinz do Casal</persName>
                     <floruit period="3"/>
-                    <affiliation key="familia" n="geo">Outeiro, Vila do Conde
+                    <affiliation key="origem" n="geo">Outeiro, Vila do Conde
                             <geo>41.342444,-8.703222</geo></affiliation>
-                    <affiliation n="predio">Mosteiro São Simão da Junqueira
+                    <!--<affiliation n="predio">Mosteiro São Simão da Junqueira
                             <geo>41.379722,-8.682222</geo></affiliation>
                     <affiliation n="geo">Castela</affiliation>
-                    <affiliation n="geo">Santarém</affiliation>
+                    <affiliation n="geo">Santarém</affiliation>-->
+                    <affiliation key="mecenado" n="social" corresp="#dinis"/>
                 </person>
 
                 <person xml:id="VaMrzRes">
@@ -785,14 +800,14 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <nationality key="pt" cert="high"/>
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
-                    <floruit from="1290" to="1325" period="4"/>
-                    <affiliation n="social" corresp="#dinis"/>
-                    <affiliation n="social" corresp="#afonsIV"/>
-                    <affiliation n="social" corresp="#AfSchz"/>
-                    <affiliation n="predio">Mosteiro de Salzedas
+                    <floruit from="1290" to="1325" period="4"/>                    
+                    <affiliation n="social" key="mecenado" corresp="#dinis"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsIV"/>
+                    <affiliation n="social" key="mecenado" corresp="#AfSchz"/>
+                    <!-- <affiliation n="predio">Mosteiro de Salzedas
                         <geo>41.054318,-7.725471</geo></affiliation>
                     <affiliation n="predio">Santa Maria de Cárquere
-                        <geo>41.087397,-7.957896</geo></affiliation>
+                        <geo>41.087397,-7.957896</geo></affiliation>-->
                     <affiliation key="mecenado" n="social">Pimentel</affiliation>
                     <affiliation key="origem" n="geo">Resende <geo>41.1,-7.95</geo></affiliation>
                 </person>
@@ -810,24 +825,27 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <affiliation key="origem" n="geo">Terras do Neda
                         <geo>43.499886,-8.156906</geo></affiliation>
                 </person>
-                <person xml:id="Golp">
+<!--                <person xml:id="Golp">
                     <persName>Golparro</persName>
                     <floruit period="3"/>
-                    <affiliation n="geo">Tui <geo>42.049759,-8.648865</geo></affiliation>
-                </person>
-                <person xml:id="FerLa">
+                    <affiliation n="geo" key="origem">Tui
+                        <geo>42.049759,-8.648865</geo></affiliation>
+                </person>-->
+                <!--<person xml:id="FerLa">
                     <persName>Fernan do Lago</persName>
                     <floruit period="3"/>
-                    <affiliation n="geo">Rubiáns <geo>42.576764,-8.744206</geo></affiliation>
-                </person>
+                    <affiliation n="geo" key="origem">Rubiáns
+                        <geo>42.576764,-8.744206</geo></affiliation>
+                </person>-->
                 <person xml:id="FerFdzCog">
                     <persName>Fernan Fernandez Cogominho</persName>
                     <floruit period="3"/>
                     <affiliation key="origem" n="geo">Chaves
                         <geo>41.740926,-7.468215</geo></affiliation>
-                    <affiliation n="geo">Coimbra <geo>40.209229,-8.414043</geo></affiliation>
+                    <affiliation n="geo" key="politica">Coimbra
+                        <geo>40.209229,-8.414043</geo></affiliation>
                     <affiliation key="familia" n="social">Guedões</affiliation>
-                    <affiliation n="social">Afonso III</affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#afonsIII"/>
                 </person>
                 <person xml:id="FerFigLem">
                     <persName>Fernan Figueira</persName>
@@ -837,6 +855,7 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <floruit period="3" from="1275" to="1300"/>
                     <affiliation n="geo" key="origem">Lemos
                         <geo>42.549670,-7.519520</geo></affiliation>
+                    <affiliation key="mecenado" n="social" corresp="#afonsIII"/>
                 </person>
                 <person xml:id="PPort">
                     <persName>Pedro de Portugal, Conde de Barcelos</persName>
@@ -844,16 +863,15 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <occupation key="tr"/>
                     <socecStatus key="nb"/>
                     <floruit from="1300" to="1350" period="4"/>
-                    <affiliation from="1300" to="1318" n="social" corresp="#dinis"/>
-                    <affiliation n="social" corresp="#afonsXI" from="1319" to="1322"/>
-                    <affiliation from="1323" to="1325" n="social" corresp="#dinis"/>
-                    <affiliation from="1326" to="1350" n="social" corresp="#lalim"/>
-
-                    <affiliation n="predio">Mosteiro de São João de Tarouca (Viseu)
+                    <affiliation from="1300" to="1318" n="social" key="mecenado" corresp="#dinis"/>
+                    <affiliation n="social" corresp="#afonsXI" key="mecenado" from="1319" to="1322"/>
+                    <affiliation from="1323" to="1325" n="social" key="mecenado" corresp="#dinis"/>
+                    <affiliation from="1326" to="1350" n="social" key="mecenado" corresp="#lalim"/>
+                    <!-- <affiliation n="predio">Mosteiro de São João de Tarouca (Viseu)
                             <geo>40.994554,-7.745913</geo></affiliation>
                     <affiliation key="literaria" n="geo">Condado
                         <geo>41.529207,-8.612058</geo></affiliation>
-                    <affiliation n="geo">Lalim <geo>42.549670,-7.519520</geo></affiliation>
+                    <affiliation n="geo">Lalim <geo>42.549670,-7.519520</geo></affiliation>-->
                 </person>
                 <person xml:id="PAmigo">
                     <persName>Pedr'Amigo de Sevilha</persName>
@@ -871,8 +889,8 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <socecStatus key="unknown"/>
                     <occupation key="tr"/>
                     <floruit from="1320" to="1350" period="4"/>
-                    <affiliation n="social" corresp="#dinis" from="1320" to="1325"/>
-                    <affiliation n="social" corresp="#lalim"/>
+                    <affiliation n="social" key="mecenado" corresp="#dinis" from="1320" to="1325"/>
+                    <affiliation n="social" key="mecenado" corresp="#lalim"/>
                     <affiliation n="geo" key="origem">Guarda
                         <geo>40.538230,-7.266249</geo></affiliation>
                 </person>
@@ -880,25 +898,29 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <persName>Estevan Reimondo</persName>
                     <nationality key="pt" cert="high"/>
                     <floruit period="3"/>
-                    <affiliation key="familia" n="geo">Porto Carreiro
+                    <affiliation key="origem" n="geo">Porto Carreiro
                         <geo>41.266480,-8.416648</geo></affiliation>
+                    <affiliation n="social" key="familia" corresp="#JPrzAv"/>
+                    <affiliation n="social" key="familia">Pero Gonçalves de Portocarreiro</affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#afonsIII"/>
+                    <affiliation n="social" key="mecenado" corresp="#dinis"/>
                 </person>
-                <person xml:id="EstTrav">
+                <!--<person xml:id="EstTrav">
                     <persName>Estevan Travanca</persName>
                     <affiliation n="geo" key="origem">Travanca</affiliation>
                     <nationality key="pt" cert="high"/>
                     <floruit period="3"/>
-                </person>
+                </person>-->
                 <person xml:id="Johan">
                     <persName>Johan, jograr morador en León</persName>
                     <nationality key="leo" cert="medium"/>
-                    <affiliation n="geo">León <geo>42.57,-5.54</geo>
+                    <affiliation n="geo" key="origem">León <geo>42.57,-5.54</geo>
                     </affiliation>
                     <socecStatus key="unknown"/>
                     <occupation key="jn"/>
                     <floruit from="1320" to="1340" period="4"/>
-                    <affiliation n="social" corresp="#dinis" from="1320" to="1325"/>
-                    <affiliation n="social" corresp="#lalim" from="1326" to="1340"/>
+                    <affiliation n="social" key="mecenado" corresp="#dinis" from="1320" to="1325"/>
+                    <affiliation n="social" key="mecenado" corresp="#lalim" from="1326" to="1340"/>
                 </person>
 
                 <person xml:id="AfSchz">
@@ -909,10 +931,11 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1289" to="1328" period="4"/>
-                    <affiliation n="social" corresp="#dinis" from="1289" to="1323"/>
-                    <affiliation from="1324" to="1328" n="predio" corresp="#alburquerque"/>
+                    <affiliation n="social" key="mecenado" corresp="#dinis" from="1289" to="1323"/>
+                    <affiliation from="1324" key="mecenado" to="1328" n="predio"
+                        corresp="#alburquerque"/>
                     <!--
-                    <affiliation key="propriedade" n="predio">Convento de Santa Clara de Vila do
+                    <affiliation key="politica" n="predio">Convento de Santa Clara de Vila do
                         Conde <geo>41.352480,-8.739221</geo></affiliation>-->
                 </person>
 
@@ -922,19 +945,18 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1300" to="1325" period="4"/>
-                    <affiliation n="social" corresp="#dinis"/>
-
+                    <affiliation n="social" key="mecenado" corresp="#dinis"/>
                     <affiliation n="geo" key="origem">Riba Homem
                         <geo>41.719828,-8.314163</geo></affiliation>
                 </person>
 
-                <person xml:id="AlvAf">
+                <!--<person xml:id="AlvAf">
                     <persName>Alvaro Afonso</persName>
                     <nationality key="pt" cert="high"/>
                     <socecStatus key="unknown"/>
                     <occupation key="late"/>
                     <floruit from="1440" to="1450" period="5"/>
-                    <affiliation n="social" corresp="#infpedro"/>
+                    <affiliation n="social" key="mecenado" corresp="#infpedro"/>
 
                 </person>
 
@@ -955,7 +977,7 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <socecStatus key="unknown"/>
                     <occupation key="late"/>
                     <floruit from="1450" to="1480" period="5"/>
-                </person>
+                </person>-->
 
                 <person xml:id="GarMdzEi">
                     <persName>Garcia Mendiz d' Eixo</persName>
@@ -963,14 +985,13 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1190" to="1239" period="1"/>
-                    <affiliation n="social" corresp="#sanchoI" from="1190" to="1211"/>
-                    <affiliation n="social" corresp="#afonsIX" from="1212" to="1217"/>
-                    <affiliation n="social" corresp="#afonsII" from="1218" to="1224"/>
-                    <affiliation n="social" corresp="#sousa" from="1225" to="1239"/>
-
+                    <affiliation n="social" key="mecenado" corresp="#sanchoI" from="1190" to="1211"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsIX" from="1212" to="1217"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsII" from="1218" to="1224"/>
+                    <affiliation n="social" key="mecenado" corresp="#sousa" from="1225" to="1239"/>
                     <affiliation key="literario" n="geo">Toroño
                         <geo>43.289839,-8.397806</geo></affiliation>
-                    <affiliation key="familia" n="social">Gonzalo Garcia</affiliation>
+                    <affiliation key="familia" n="social" corresp="#GonçGar"/>
                     <affiliation key="origem" n="geo">Eixo
                         <geo>40.631709,-8.570415</geo></affiliation>
                     <affiliation key="familia" n="social" corresp="#FerGarEsg"/>
@@ -979,27 +1000,31 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <persName>Pedro Rodriguez da Palmeira</persName>
                     <nationality key="pt"/>
                     <floruit period="1"/>
-                    <affiliation n="social" corresp="#traba"/>
-                    <affiliation n="predio">Paço de Vila Nova de Famalicão
+                    <affiliation n="social" key="mecenado" corresp="#traba"/>
+                    <!--<affiliation n="predio">Paço de Vila Nova de Famalicão
                             <geo>41.4126001,-8.521</geo></affiliation>
                     <affiliation n="predio">Mosteiro de Landim
                         <geo>41.379469,-8.46</geo></affiliation>
                     <affiliation n="predio">Igrexa de São Miguel de Guimarães
-                            <geo>41.448529,-8.294762</geo></affiliation>
-                    <affiliation n="geo">Palmeira <geo>41.3994888,-8.50545</geo></affiliation>
-                    <affiliation n="geo">Pereira <geo>41.378266,-8.518598</geo></affiliation>
+                            <geo>41.448529,-8.294762</geo></affiliation>-->
+                    <affiliation n="geo" key="origem">Palmeira
+                        <geo>41.3994888,-8.50545</geo></affiliation>
+                    <affiliation n="geo" key="politica">Pereira
+                        <geo>41.378266,-8.518598</geo></affiliation>
 
                 </person>
                 <person xml:id="GonçGar">
                     <persName>Gonçalo Garcia</persName>
                     <nationality key="pt"/>
                     <floruit period="2"/>
-                    <affiliation n="geo" corresp="#toronho"/>
+                    <affiliation n="geo" key="politica" corresp="#toronho"/>
                     <affiliation key="origem" n="geo">Eixo
                         <geo>40.631709,-8.570415</geo></affiliation>
-                    <affiliation n="geo">Terras de Sousa
-                        <geo>41.087778,-8.520278</geo></affiliation>
+                    <affiliation n="geo" key="politica">Terras de Sousa
+                            <geo>41.087778,-8.520278</geo></affiliation>
                     <affiliation n="social" key="familia" corresp="#GarMdzEi"/>
+                    <affiliation n="social" key="familia">Sousa</affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#afonsIII"/>
                 </person>
                 <person xml:id="JuBols">
                     <persName>Juião Bolseiro</persName>
@@ -1007,30 +1032,19 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <socecStatus>Clérigo</socecStatus>
                     <floruit period="3"/>
                     <affiliation n="social" key="familia">D. Cotalaia</affiliation>
-                    <affiliation n="social" corresp="#afonsIX"/>
-                    <affiliation n="predio">San Miguel dos Agros
+                    <affiliation n="social" key="mecenado" corresp="#afonsIX"/>
+                    <!-- <affiliation n="predio">San Miguel dos Agros
                         <geo>42.882145,-8.542809</geo></affiliation>
                     <affiliation n="predio" key="familia">Mosteiro de San Francisco
-                        <geo/></affiliation>
-
-                    <affiliation n="social" corresp="#velaz"/>
-                    <affiliation n="social" corresp="#OsEan"/>
+                        <geo/></affiliation>-->
+                    <affiliation n="social" key="mecenado" corresp="#velaz"/>
+                    <affiliation n="social" key="politica" corresp="#OsEan"/>
 
                 </person>
 
                 <!--Somesso, Muimenta, Vilar de Donas-->
 
-                <person xml:id="OsEa">
-                    <persName>Osoir'Anes</persName>
-                    <nationality key="gl" cert="medium"/>
-                    <socecStatus key="nb"/>
-                    <occupation key="tr"/>
-                    <floruit from="1180" to="1220" period="1"/>
-                    <affiliation n="social" corresp="#traba"/>
 
-                    <affiliation n="geo" corresp="#compos"/>
-                    <affiliation n="geo">Ribadavia <geo>42.288255,-8.143495</geo></affiliation>
-                </person>
 
                 <person xml:id="FerPaezTal">
                     <persName>Fernan Paez de Tamallancos</persName>
@@ -1042,7 +1056,7 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <affiliation n="social" key="familia">Celanovas</affiliation>
                     <affiliation key="origem" n="geo">Tamallancos
                         <geo>42.425060,-7.903228</geo></affiliation>
-                   <!-- <affiliation n="predio" key="tenencia">Castelo de Alva
+                    <!-- <affiliation n="predio" key="tenencia">Castelo de Alva
                         <geo>42.367,-7.967</geo></affiliation>
                     <affiliation key="proprietario" n="geo">Cangas do Morrazo <geo>42.264887,
                             -8.780846</geo></affiliation>
@@ -1052,56 +1066,78 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <affiliation key="mecenado" corresp="#afonsIX" n="social"/>
 
                 </person>
-                <person xml:id="PEaSol">
+<!--                <person xml:id="PEaSol">
                     <persName>Pedr' Eanes Solaz </persName>
                     <floruit period="3"/>
-                    <affiliation key="literaria" n="geo">Meis
+                    <affiliation key="origem" n="geo">Meis
                         <geo>42.516044,-8.706556</geo></affiliation>
-                </person>
+                </person>-->
                 <person xml:id="LoLias">
                     <persName>Lopo Lias</persName>
                     <floruit period="2"/>
                     <!--<affiliation key="literario" n="predio">Castelo de Orzellon
                             <geo>42.370967,-7.924829</geo></affiliation>
                     <affiliation key="literario" n="geo">Babuim, Sobral (Mogor)</affiliation>-->
-                    <affiliation n="geo" corresp="#compos"/>
+                    <affiliation n="geo" key="origem" corresp="#compos"/>
                     <affiliation n="social" key="literaria" corresp="#AyMnz"/>
                     <affiliation corresp="#afonsIX" key="mecenado" n="social"/>
                 </person>
                 <person xml:id="AyMnz">
                     <persName>Airas Moniz</persName>
                     <floruit period="2"/>
-                    <affiliation n="geo" key="origem">Asma <geo>42.565248,-7.884611</geo></affiliation>
+                    <affiliation n="geo" key="origem">Asma
+                        <geo>42.565248,-7.884611</geo></affiliation>
                     <!--<affliation>Vermún, Chantada</affliation>-->
-                    <affiliation key="familia" cert="medium" n="social" corresp="#DieMnz"/>
+                    <affiliation key="familia" cert="medium" n="social">Diego Moniz</affiliation>
                     <!--<affiliation n="predio" key="tenencia">Castelo de Alva
                         <geo>42.367,-7.967</geo></affiliation>-->
                     <affiliation key="mecenado" n="social" corresp="#afonsX"/>
                 </person>
-                <person xml:id="DieMnz">
+               <!-- <person xml:id="DieMnz">
                     <floruit period="2"/>
                     <persName>Diego Moniz</persName>
-                    <affiliation n="geo">Asma <geo>42.564239,-7.885102</geo></affiliation>
-                </person>
-                <person xml:id="NuTrz">
+                    <affiliation n="geo" key="origem">Asma
+                        <geo>42.564239,-7.885102</geo></affiliation>
+                </person>-->
+    <!--            <person xml:id="NuTrz">
                     <persName>Nuno Trez</persName>
                     <floruit period="3"/>
                     <affiliation key="literaria" n="predio">San Clemenço
                         <geo>42.3501,-8.7537</geo></affiliation>
-                </person>
+                </person>-->
                 <person xml:id="PaeCan">
                     <persName>Pai da Cana</persName>
                     <floruit period="3"/>
-                    <affiliation n="geo" corresp="#compos"/>
+                    <affiliation n="geo" key="origem" corresp="#compos"/>
+                    <!--                    Pai de Cana	pessoa	ofício	ofício	Compostela
+Pai de Cana	pessoa	propriedade	geografica	Ames
+Pai de Cana	pessoa	coetaneo	coetaneo	Gomes Garcia
+Pai de Cana	pessoa	coetaneo	coetaneo	Rui Fernandes
+Pai de Cana	pessoa	coetaneo	coetaneo	Sanco Sanches
+Pai de Cana	pessoa	família	família	de Cana
+de Cana	família	propriedade	geografica	Paradela (Tordoia)
+Pai de Cana	pessoa	estadia	geografica	Sevilha
+Afonso X	pessoa	política	política	Sevilha
+Pai de Cana	pessoa	mecenado	mecenado	Afonso X
+-->
                 </person>
                 <person xml:id="NunEaCer">
                     <persName>Nun´Eanes Cêrzeo</persName>
                     <affiliation key="origem" n="geo">Cercio (Lalín)
                         <geo>42.756304,-8.119226</geo></affiliation>
                     <floruit period="3"/>
-                    <affiliation n="geo">Búbal <geo>42.514552,-7.817732</geo></affiliation>
+                    <affiliation n="geo" key="politica">Búbal
+                        <geo>42.514552,-7.817732</geo></affiliation>
                     <affiliation n="social" key="mecenado" corresp="#afonsX"/>
                     <affiliation n="social" key="mecenado" corresp="#jaen"/>
+                    <!--                    Nuno Eanes Cêrzeo	pessoa	família	família	Urraca Eanes
+Nuno Eanes Cêrzeo	pessoa	família	família	Pedro Eanes
+Nuno Eanes Cêrzeo	pessoa	família	família	Afonso Nunes
+Nuno Eanes Cêrzeo	pessoa	família	família	Gonçalo Nunes
+Nuno Eanes Cêrzeo	pessoa	política	política	Sevilha
+Nuno Eanes Cêrzeo	pessoa	política	política	Afonso X
+Nuno Eanes Cêrzeo	pessoa	política	política	Fernando III
+-->
                 </person>
                 <person xml:id="MonFdzMir">
                     <persName>Nuno (Monio) Fernandez de Mirapeixe</persName>
@@ -1109,12 +1145,12 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1211" to="1243" period="2"/>
-                    <affiliation n="social" corresp="#soesto"/>
+                    <affiliation n="social" key="mecenado" corresp="#soesto"/>
                     <affiliation key="familia" n="geo">Rábade (Lugo)
                         <geo>43.123492,-7.623114</geo></affiliation>
                     <affiliation key="familia" n="predio">Vilar das Donas
                             <geo>42.8925,-7.809444</geo></affiliation>
-                    <affiliation n="social" key="mecenado" corresp="#cameros"/>
+                    <affiliation n="social" key="mecenado">Cameros</affiliation>
                     <!-- <affiliation n="predio">Catedral de Lugo
                         <geo>43.0092,-7.5583</geo></affiliation>
                     <affiliation n="predio">Catedral de Mondoñedo
@@ -1134,8 +1170,9 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <affiliation n="geo" key="literaria" correp="#compos"/>
                     <affiliation n="social" key="literaria" corresp="#AbPrz"/>
                     <affiliation n="social" key="literaria" corresp="#JBav"/>
-                    <affiliation n="geo">Toroño <geo>43.289308, -8.397119</geo></affiliation>
-                    <affiliation n="social" corresp="#sousa"/>
+                    <affiliation n="geo" key="politica">Toroño <geo>43.289308,
+                        -8.397119</geo></affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#sousa"/>
                 </person>
 
                 <person xml:id="AfSrzSam">
@@ -1144,13 +1181,13 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <socecStatus key="kn"/>
                     <occupation key="tr"/>
                     <floruit from="1225" to="1250" period="2"/>
-                    <affiliation n="predio">Mosteiro de Santa María de Aciveiro
-                            <geo>42.6175,-8.301667</geo></affiliation>
+                    <!--<affiliation n="predio">Mosteiro de Santa María de Aciveiro
+                            <geo>42.6175,-8.301667</geo></affiliation>-->
                     <affiliation n="geo" key="origem">Cercedo de Montes
                             <geo>42.466667,-7.966667</geo></affiliation>
-                    <affiliation n="predio">Oseira<geo>42.538597,-7.950980</geo></affiliation>
+                    <!-- <affiliation n="predio">Oseira<geo>42.538597,-7.950980</geo></affiliation>-->
                     <affiliation key="familia" n="social">Fornelos</affiliation>
-                    <affiliation n="social" corresp="#afonsX"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsX"/>
                 </person>
 
                 <person xml:id="PVelho">
@@ -1171,18 +1208,18 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <floruit from="1260" to="1290" period="3"/>
                     <affiliation n="geo" key="origem">Dálvares
                         <geo>41.036356,-7.758272</geo></affiliation>
-                    <affiliation n="predio">Mosteiro de Santa Maria de Salzedas
-                            <geo>41.054610,-7.723854</geo></affiliation>
-                    <affiliation n="social" key="familia" corresp="#velho"/>
+                    <!--<affiliation n="predio">Mosteiro de Santa Maria de Salzedas
+                            <geo>41.054610,-7.723854</geo></affiliation>-->
+                    <affiliation n="social" key="familia">Velho</affiliation>
                     <affiliation n="social" key="mecenado" corresp="#afonsIII"/>
                 </person>
                 <person xml:id="RodEaVas">
                     <persName>Rodrigu' Eanes de Vasconcelos</persName>
                     <floruit period="3"/>
-                    <affiliation n="predio">Santa Maria de Ferreiros (Entre Homem e Cávado)
+                    <!-- <affiliation n="predio">Santa Maria de Ferreiros (Entre Homem e Cávado)
                             <geo>41.630833,-8.368611</geo></affiliation>
                     <affiliation n="predio">Torre de Vasconcelos
-                        <geo>41.6213854,-8.3539252</geo></affiliation>
+                        <geo>41.6213854,-8.3539252</geo></affiliation>-->
                 </person>
                 <person xml:id="RodEaRed">
                     <persName>Rodrigu' Eanes Redondo</persName>
@@ -1196,7 +1233,7 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <affiliation n="geo" key="politica">Sevilla
                         <geo>37.377222,-5.986944</geo></affiliation>
                     <affiliation n="social" key="mecenado" corresp="#sanchoIV"/>
-                    <affiliation n="social" key="familia" corresp="#velho"/>
+                    <affiliation n="social" key="familia">Velho</affiliation>
                     <affiliation n="geo" key="politica" corresp="#baiona"/>
                     <affiliation n="social" key="politica" corresp="#MenRdzBre"/>
                 </person>
@@ -1205,14 +1242,14 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <persName>Roi Gomez de Briteiros</persName>
                     <nationality key="pt" cert="high"/>
                     <affiliation n="geo" key="origem" corresp="#brit"/>
-                    <affiliation n="geo">Braga <geo>41.5,-8.42</geo></affiliation>
+                    <affiliation n="geo" key="politica">Braga <geo>41.5,-8.42</geo></affiliation>
                     <affiliation n="social" key="familia" corresp="#MenRdzBre"/>
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1225" to="1250" period="2"/>
                     <affiliation n="social" key="familia" corresp="#sousa"/>
-                    <affiliation n="social" corresp="#afonsIX" from="1225" to="1244"/>
-                    <affiliation n="social" corresp="#afonsIII" from="1245" to="1250"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsIX" from="1225" to="1244"/>
+                    <affiliation n="social" key="mecenado" corresp="#afonsIII" from="1245" to="1250"/>
 
                 </person>
                 <person xml:id="MenRdzBre">
@@ -1271,7 +1308,7 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                 <person xml:id="PVeer">
                     <persName>Pero de Veer</persName>
                     <floruit period="3"/>
-                    <affiliation n="geo">San Vicente de Ver (Terra de Lemos)
+                    <affiliation n="geo" key="origem">San Vicente de Ver (Terra de Lemos)
                             <geo>42.596718,-7.714381</geo></affiliation>
                 </person>
                 <person xml:id="Mend">
@@ -1293,7 +1330,7 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <affiliation n="social" key="literaria" corresp="#JVqzTal"/>
                     <affiliation n="social" key="literaria" corresp="#PEaMar"/>
                 </person>
-                
+
                 <person xml:id="PEaMar">
                     <persName>Per' Eanes Marinho</persName>
                     <floruit period="3"/>
@@ -1398,26 +1435,26 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <socecStatus key="unknown"/>
                     <occupation key="tr"/>
                     <floruit from="1220" to="1260" period="3"/>
-                    <affiliation n="social" key="mecenado" corresp="#berenguer" from="1220" to="1245"/>
+                    <affiliation n="social" key="mecenado" corresp="#berenguer" from="1220"
+                        to="1245"/>
                     <affiliation n="social" key="mecenado" corresp="#afonsX" from="1246" to="1260"/>
 
                 </person>
                 <person xml:id="AfFdzCob">
                     <persName>Afonso Fernandez Cebolhilha</persName>
                     <nationality key="sev" cert="high"/>
-                    
-                        <affiliation n="geo" key="origem">Sevilla
-                            <geo>37.377222,-5.986944</geo>
-                        </affiliation>
-                    
+
+                    <affiliation n="geo" key="origem">Sevilla <geo>37.377222,-5.986944</geo>
+                    </affiliation>
+
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>
                     <floruit from="1275" to="1300" period="3"/>
-                    <affiliation n="social" corresp="#sanchoIV"/>
+                    <affiliation n="social" key="mecenado" corresp="#sanchoIV"/>
 
                 </person>
 
-<!--                <person xml:id="AlfXI">
+                <!--                <person xml:id="AlfXI">
                     <persName>Alfonso XI</persName>
                     <nationality key="cas" cert="high"/>
                     
@@ -1432,8 +1469,8 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <affiliation n="social" corresp="#afonsXI"/>
                     <affiliation>Sevilla</affiliation>
                 </person>-->
-                
-                
+
+
                 <person xml:id="AyPae">
                     <persName>Airas Paez</persName>
                     <floruit period="3"/>
@@ -1450,8 +1487,9 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <affiliation n="social" key="literaria" corresp="#JGarGlh"/>
                     <affiliation n="social" key="literaria" corresp="#PPon"/>
                     <affiliation n="social" key="literaria" corresp="#EstFai"/>
-                    <affiliation n="social" key="literaria" corresp="#VaPrzPar"/>
-                    <affiliation n="geo" key="origem">Terras do Deza <geo>42.660024,-8.110096</geo></affiliation>
+                    <affiliation n="social" key="literaria">Vasco Perez Pardal</affiliation>
+                    <affiliation n="geo" key="origem">Terras do Deza
+                        <geo>42.660024,-8.110096</geo></affiliation>
                     <!--<affiliation n="predio">San Pedro de Vila Nova de
                             Dozón<geo>42.576944,-8.0225</geo>
                     </affiliation>
@@ -1462,17 +1500,14 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                 <person xml:id="PGarBu">
                     <persName>Pero Garcia Burgalês</persName>
                     <floruit period="3"/>
-                    <affiliation key="literaria" n="geo">Viveiro
+                    <!--<affiliation key="literaria" n="geo">Viveiro
                         <geo>43.6639,-7.5934</geo></affiliation>
                     <affiliation key="literaria" n="geo">Lagares
                         <geo>40.4016,-7.8621</geo></affiliation>
                     <affiliation key="literaria" n="??">San Paio
-                        <geo>40.3529,-7.841</geo></affiliation>
-                </person>
-
-                <person xml:id="VaPrzPar">
-                    <persName>Vasco Perez Pardal</persName>
-                    <floruit period="3"/>
+                        <geo>40.3529,-7.841</geo></affiliation>-->
+                    <affiliation key="origem" n="geo">Burgos <geo>42.344126,-3.6946</geo></affiliation>
+                    <affiliation key="mecenado" n="social" corresp="#afonsX"/>
                 </person>
 
                 <person xml:id="GmzGar">
@@ -1491,30 +1526,26 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <persName>Johan Velaz</persName>
                     <nationality key="gl"/>
                     <floruit period="1"/>
-                    <affiliation n="social">Marcabrú<affiliation n="social">Guilhem de
+                    <!--<affiliation n="social">Marcabrú<affiliation n="social">Guilhem de
                             Peitieu</affiliation>
                         <affiliation n="geo" corresp="#compos"/>
-                    </affiliation>
-                    <affiliation n="geo" corresp="#compos"/>
-                    <affiliation n="predio" xml:id="samos">Mosteiro de Samos
-                            <geo>42.732449,-7.326430</geo></affiliation>
+                    </affiliation>-->
+                    <affiliation n="social" key="literaria">Marcabru</affiliation>
+                 <!--   <affiliation n="geo" corresp="#compos"/>
+                    <affiliation n="predio">Mosteiro de Samos
+                            <geo>42.732449,-7.326430</geo></affiliation>-->
                     <affiliation n="social" key="familia" corresp="#cabrera">
-                        <affiliation n="geo">Selva, l'Alt Maresme <geo/></affiliation>
-                        <affiliation n="predio">Mosteiro de Moreruela <geo/></affiliation>
-                        <affiliation n="social" corresp="#OsEa"/>
-                        <affiliation n="social" corresp="#PaySrzTav"/>
-                        <affiliation n="social" corresp="#JSrzSom"/>
-                        <affiliation n="social">Martim Ares Marinho</affiliation>
-                        <affiliation n="social" corresp="#FerPad"/>
+                       <!-- <affiliation n="geo">Selva, l'Alt Maresme <geo/></affiliation>
+                        <affiliation n="predio">Mosteiro de Moreruela <geo/></affiliation>-->
+                        <!--<affiliation n="social">Martim Ares Marinho</affiliation>-->
                     </affiliation>
                     <affiliation key="familia" n="social" corresp="#velaz"/>
-                    <affiliation n="predio">Mosteiro de S. Leonardo de Alba de Tormes</affiliation>
+                    <!--<affiliation n="predio">Mosteiro de S. Leonardo de Alba de Tormes</affiliation>
                     <affiliation n="predio">Mosteiro de Meira <geo>43.213056, -7.291139</geo>
-                    </affiliation>
-                    <affiliation key="familia" n="social">Maria Fernandes de Trava <affiliation
-                            n="social" corresp="#traba"/>
-                    </affiliation>
-                    <affiliation n="predio">Mosteiro de San Tirso
+                    </affiliation>-->
+                    <affiliation key="familia" n="social">Maria Fernandes de Traba</affiliation>
+                    <affiliation key="familia" n="social" corresp="#traba"/>                    
+                   <!-- <affiliation n="predio">Mosteiro de San Tirso
                         <geo>42.3708,-5.0325</geo></affiliation>
                     <affiliation key="familia" n="social">Geraldo III de Cabrera <affiliation
                             n="predio" corresp="#samos"/></affiliation>
@@ -1529,19 +1560,26 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                             >Fernando II</affiliation>
                         <affiliation n="social" corresp="#afonsIX"/>
                         <affiliation n="geo" corresp="#compos"/>
-                    </affiliation>
+                    </affiliation>-->
+                    <affiliation n="social" key="mecenado" corresp="#afonsIX"/>
                 </person>
                 <person xml:id="OsEan">
-                    <persName>Osoiro Eanes</persName>
+                    <persName>Osoir' Anes</persName>
                     <floruit period="2"/>
-                    <affiliation n="geo" key="origem" corresp="#compos"/>
+                    <nationality key="gl" cert="medium"/>
+                    <socecStatus key="nb"/>
+                    <occupation key="tr"/>
+                    <floruit from="1180" to="1220" period="1"/>
                     <affiliation n="social" key="mecenado" corresp="#traba"/>
-                    <affiliation key="familia" n="social">Fernando Peres de Trava</affiliation>
-                    <affiliation key="familia" n="social">Urraca Fernandes</affiliation>
-                    <affiliation key="familia" n="social">Lima</affiliation>
+                    <affiliation n="social" key="mecenado" corresp="#cabrera"/>
+                    <affiliation n="social" key="familia" corresp="#traba"/>
+                    <affiliation n="social" key="familia">Limas</affiliation>
+                    <affiliation n="geo" key="origem" corresp="#compos"/>
+                    <affiliation n="geo" key="politica" corresp="#ribadavia"/>
+                    <!-- <affiliation key="familia" n="social">Fernando Peres de Trava</affiliation>
+                    <affiliation key="familia" n="social">Urraca Fernandes</affiliation>-->
                     <affiliation key="familia" n="social">Nóvoa</affiliation>
-                    <affiliation n="geo" corresp="#compos"/>
-<!--                    <affiliation key="familia" n="social">Lima - Nóvoa <affiliation n="geo">Castela
+                    <!--                    <affiliation key="familia" n="social">Lima - Nóvoa <affiliation n="geo">Castela
                             (Rio Ávia-Rio Barbantinho) <affiliation n="predio">Mosteiro de
                                 Bóveda</affiliation>
                             <affiliation n="predio">San Martiño de Cornozes
@@ -1550,7 +1588,7 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                         <affiliation n="predio">Mosteiro de San Martiño Pinario
                                 <geo>42.881811,-8.544453</geo></affiliation>
                     </affiliation>
-                    <affiliation n="propriedade">Praça do Campo</affiliation>
+                    <affiliation n="politica">Praça do Campo</affiliation>
                     <affiliation n="predio" key="tenencia">Castelo de Alba de Búbal
                             <geo>42.367,-7.967</geo></affiliation>
                     <affiliation n="geo">Santa Comba de Trevoedo,
@@ -1569,10 +1607,11 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                         <geo>42.538461,-7.951214</geo></affiliation>
                     <affiliation n="predio">Mosteiro de Sobrado
                         <geo>43.038889,-8.0225</geo></affiliation>-->
-                    <affiliation key="familia" corresp="#OsEa" n="social"/>
+                    <affiliation key="familia" corresp="#OsEan" n="social"/>
                     <affiliation key="familia" n="social" corresp="#PPaisBaz"/>
+                    <affiliation key="mecenado" n="social" corresp="#traba"/>
                 </person>
-                
+
                 <person xml:id="PPaisBaz">
                     <persName>Pero Pais Bazaco</persName>
                     <floruit period="2"/>
@@ -1580,7 +1619,7 @@ João de Gaia	pessoa	literária	literária	João Garcia de Guilhade	pessoa
                     <affiliation n="predio">Vilanova de Dozón
                         <geo>42.584438,-8.022460</geo></affiliation>
                         <affiliation n="geo">Masma <geo>43.4666274,-7.33</geo></affiliation>-->
-                    <affiliation n="geo">Vilamarín <geo>42.4652933,-7.890</geo></affiliation>
+                    <affiliation n="geo" key="origem">Vilamarín <geo>42.4652933,-7.890</geo></affiliation>
                     <affiliation n="social" key="mecenado" corresp="#rodeiro"/>
                 </person>
             </listPerson>

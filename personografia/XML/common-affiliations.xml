@@ -56,12 +56,6 @@
     <text>
         <body>                        
             <listPlace>
-                <place xml:id="constança">
-                    <location>
-                        <placeName>Dona Constança de Rodeiro</placeName>
-                        <affiliation>Don Munio de Rodeiro</affiliation>
-                    </location>
-                </place>
                 <place xml:id="baiona">
                     <location>
                         <placeName>Baiona</placeName>
@@ -75,7 +69,6 @@
                     </location>
                 </place>
                 <place xml:id="cameros"></place>
-                <place xml:id="velho"></place>
                 <place xml:id="braga">
                     <location>
                         <placeName>Os Braga</placeName>
@@ -268,13 +261,13 @@
                         <geo>42.600636,-5.570956</geo>
                     </location>
                 </place>
-                <place xml:id="infpedro" type="noble">
+                <!--<place xml:id="infpedro" type="noble">
                     <location>
                         <placeName type="short">Infante Pedro</placeName>
                         <placeName type="full">Corte de Infante Pedro, Duque de Coimbra</placeName>
                         <geo>38.716667,-9.133333</geo>
                     </location>
-                </place>
+                </place>-->
                 <place xml:id="berenguer" type="noble">
                     <location>
                         <placeName type="short">Raimon Berenguer IV</placeName>
@@ -298,7 +291,31 @@
                 </place>
                 <place xml:id="fernIV"/>
             </listPlace>
-
+<listPerson>
+    <person xml:id="GonEan">
+        <persName>Gonçalo Eanes</persName>
+        <nationality key="gl"/>
+        <affiliation n="social" key="familia" corresp="#OsEan"/>
+    </person>
+    <person xml:id="guiomar">
+        <persName>Guiomar Rodriguez</persName>
+        <affiliation
+            key="familia" n="geo">Celanova
+            <geo>42.151712,-7.958399</geo></affiliation>
+    </person>
+    <person xml:id="constança">
+            <persName>Dona Constança de Rodeiro</persName>
+            <affiliation n="social" key="familia" corresp="#rodeiro"/>        
+    </person>
+    <person xml:id="JRom">
+        <persName>Johan Romeu de Lugo</persName>
+        <nationality key="gl"/>
+        <floruit period="3"/>
+        <affiliation n="geo" key="origem">Lugo
+            <geo>43.010338,-7.554869</geo></affiliation>
+        <affiliation n="social" key="literaria" corresp="#LoLias"/>
+    </person>
+</listPerson>
         </body>
     </text>
 </TEI>

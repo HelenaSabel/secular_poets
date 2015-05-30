@@ -238,7 +238,7 @@ div.rightSide{
 }
 
 div.rightSide p,
-ul{
+div.rightSide ul{
     padding-right:2%;
     text-align:left;  
 }
