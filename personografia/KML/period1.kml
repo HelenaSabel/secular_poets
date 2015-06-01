@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>1170-1220</name>
+                    
+                    
+                    
+                    
+                    <Placemark>
+         <name>Rodrigo Diaz de los Cameros</name>
+         <description>Cameros </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-2.55,42.2130,100</coordinates>
+         </Point>
+      </Placemark>
+                    
+                    <Placemark>
+         <name>Trajeto de Rodrigo Diaz de los Cameros</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates>-2.55,42.2130,100 -8.544769,42.8802049,100</coordinates>
+         </LineString>
+      </Placemark>
+                    
+                
+                    
+                    
+                    
+                    
+                    
+                    <Placemark>
+         <name>Trajeto de Johan Soarez de Pavia </name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates>-8.269722,41.046389,100 -0.883533,41.650192,100</coordinates>
+         </LineString>
+      </Placemark>
+                    
+                    <Placemark>
+         <name>Johan Soarez de Pavia </name>
+         <description>Paiva
+                        </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.269722,41.046389,100</coordinates>
+         </Point>
+      </Placemark>
+                    
+                    
+                
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <Placemark>
+         <name>Airas Fernandes "Carpancho"</name>
+         <description>Santiago de Compostela</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.541251,42.880771,100</coordinates>
+         </Point>
+      </Placemark>
+                
+                    
+                    
+                    
+                    
+                    
+                    <Placemark>
+         <name>Trajeto de Garcia Mendiz d' Eixo</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates>-8.570415,40.631709,100 -8.47,40.24,100</coordinates>
+         </LineString>
+      </Placemark>
+                    <Placemark>
+         <name>Trajeto de Garcia Mendiz d' Eixo</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates>-8.570415,40.631709,100 -5.75,41.5,100</coordinates>
+         </LineString>
+      </Placemark>
+                    <Placemark>
+         <name>Trajeto de Garcia Mendiz d' Eixo</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates>-8.570415,40.631709,100 -0.883533,41.650192,100</coordinates>
+         </LineString>
+      </Placemark>
+                    <Placemark>
+         <name>Trajeto de Garcia Mendiz d' Eixo</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates>-8.570415,40.631709,100 -8.3028088,41.300088,100</coordinates>
+         </LineString>
+      </Placemark>
+                    
+                    
+                    <Placemark>
+         <name>Garcia Mendiz d' Eixo</name>
+         <description>Eixo
+                        </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.570415,40.631709,100</coordinates>
+         </Point>
+      </Placemark>
+                    
+                
+                    
+                    
+                    
+                    <Placemark>
+         <name>Trajeto de Pedro Rodriguez da Palmeira</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates>-8.50545,41.3994888,100 -8.544769,42.8802049,100</coordinates>
+         </LineString>
+      </Placemark>
+                    
+                    <Placemark>
+         <name>Pedro Rodriguez da Palmeira</name>
+         <description>Palmeira
+                        </description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.50545,41.3994888,100</coordinates>
+         </Point>
+      </Placemark>
+                    
+
+                
+                    
+                    
+                    
+                    
+                    
+                 
+                    
+                       
+                        
+                    
+                    
+                    
+                                        
+                   
+                    <Placemark>
+         <name>Trajeto de Johan Velaz</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates> -5.75,41.5,100</coordinates>
+         </LineString>
+      </Placemark>
+                
+                    
+                    
+                    
+                    
+                    
+                    
+                    <Placemark>
+         <name>Trajeto de Osoir' Anes</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates>-8.541251,42.880771,100 -8.544769,42.8802049,100</coordinates>
+         </LineString>
+      </Placemark>
+                    
+                    
+                    
+                    <Placemark>
+         <name>Osoir' Anes</name>
+         <description>Santiago de Compostela</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.541251,42.880771,100</coordinates>
+         </Point>
+      </Placemark>
+                    
+                    
+                    
+                    
+                    <Placemark>
+         <name>Trajeto de Osoir' Anes</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates>-8.541251,42.880771,100 -7.95,42.65,100</coordinates>
+         </LineString>
+      </Placemark>
+                    <Placemark>
+         <name>Trajeto de Osoir' Anes</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates>-8.541251,42.880771,100 -5.75,41.5,100</coordinates>
+         </LineString>
+      </Placemark>
+                    
+                
+                    
+                    
+                    
+                    
+                    
+                    <Placemark>
+         <name>Trajeto de Airas Oares</name>
+         <Style>
+            <LineStyle>
+               <color>50000000</color>
+               <width>4</width>
+            </LineStyle>
+         </Style>
+         <LineString>
+            <coordinates> -8.544769,42.8802049,100</coordinates>
+         </LineString>
+      </Placemark>
+                    
+                <Placemark>
+         <name>Sancho I</name>
+         <description>Corte de Sancho I, Rei de Portugal</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/king.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.47,40.24,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Os Travas</name>
+         <description>Corte da família Trava</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/lord.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.544769,42.8802049,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Afonso II</name>
+         <description>Afonso II de Aragão</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/king.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-0.883533,41.650192,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Múnio de Rodeiro e Maior Peres</name>
+         <description>Círculo de D. Múnio de Rodeiro e de Dona Maior Peres</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/lord.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-7.95,42.65,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Os Sousas</name>
+         <description>Corte de D. Gonçalo Garcia de Sousa e família</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/lord.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-8.3028088,41.300088,100</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Afonso IX</name>
+         <description>Corte de Afonso IX de Leão e da Galiza</description>
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>http://www.obdurodon.org/~heb43/images/king.png</href>
+               </Icon>
+            </IconStyle>
+         </Style>
+         <Point>
+            <coordinates>-5.75,41.5,100</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>

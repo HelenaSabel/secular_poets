@@ -56,63 +56,36 @@
     <text>
         <body>                        
             <listPlace>
-                <place xml:id="baiona">
+                <place xml:id="alburquerque" type="noble" n="4">
                     <location>
-                        <placeName>Baiona</placeName>
-                        <geo>43.5,-1.483333</geo>
-                    </location>
-                </place>                
-                <place xml:id="brit">
-                    <location>
-                        <placeName>Briteiros</placeName>
-                        <geo>41.5165051,-8.319</geo>
-                    </location>
-                </place>
-                <place xml:id="cameros"></place>
-                <place xml:id="braga">
-                    <location>
-                        <placeName>Os Braga</placeName>
-                        <geo>41.549331,-8.419533</geo>
-                    </location>
-                </place>
-                <place xml:id="velaz"></place>
-                <place xml:id="cabrera"></place>
-                <place xml:id="toronho" type="geo">
-                    <location>
-                        <placeName>Toroño</placeName>
-                        <geo>43.289839,-8.397806</geo>
-                    </location>
-                </place>
-                <place xml:id="alburquerque" type="noble">
-                    <location>
-                        <placeName type="full">Afonso Sanchez's court in exile</placeName>
+                        <placeName type="full">Corte de Afonso Sanchez no exílio</placeName>
                         <placeName type="short">Afonso Sanchez</placeName>
                         <geo>39.216667,-7</geo>
                     </location>
                 </place>
-                <place xml:id="sobrosa" type="noble">
+                <place xml:id="sobrosa" type="noble" n="2 3">
                     <location>
-                        <placeName type="short">The Soverosas</placeName>
-                        <placeName type="full">Family Soverosas' Court</placeName>
+                        <placeName type="short">Os Soverosas</placeName>
+                        <placeName type="full">Corte da família Soverosas</placeName>
                         <geo>41.250195, -8.349892</geo>
                     </location>
                 </place>
-                <place xml:id="sanchoI" type="royal">
+                <place xml:id="sanchoI" type="royal" n="1 2">
                     <location>
                         <placeName type="short">Sancho I</placeName>
-                        <placeName type="full">Corte de Sancho I, King of Portugal</placeName>
+                        <placeName type="full">Corte de Sancho I, Rei de Portugal</placeName>
                         <geo>40.24,-8.47</geo>
                     </location>
                 </place>
-                <place xml:id="traba" type="noble">
+                <place xml:id="traba" type="noble" n="1 2">
                     <location>
-                        <placeName type="short">The Trabas</placeName>
-                        <placeName type="full">Family Traba Court</placeName>                        
-                        <affiliation>Mosteiro de Sobrado</affiliation>
-                        <affiliation n="geo" corresp="#compos"/>
+                        <placeName type="short">Os Travas</placeName>
+                        <placeName type="full">Corte da família Trava</placeName>                        
+                      <!--  <affiliation>Mosteiro de Sobrado</affiliation>-->
+                        <geo>42.8802049,-8.544769</geo>
                     </location>
                 </place>
-                <place xml:id="dmartim" type="noble">
+                <place xml:id="dmartim" type="noble" n="2">
                     <location>
                         <placeName type="short">Martim Sanches</placeName>
                         <placeName type="full">Corte de Martim Sanches, Conde de
@@ -120,7 +93,7 @@
                         <geo>42.062991,-7.717664</geo>
                     </location>
                 </place>
-                <place xml:id="soesto" type="noble">
+                <place xml:id="soesto" type="noble" n="2 3">
                     <location>
                         <placeName type="short">Rodrigo Gómez e Dona Maior</placeName>
                         <placeName type="full">Corte de Don Rodrigo Gómez de Trastámara e Dona Maior</placeName>
@@ -128,52 +101,43 @@
                         <geo>43.65,-7.583333</geo>
                     </location>
                 </place>
-                <place xml:id="jaen" type="royal">
+                <place xml:id="jaen" type="royal" n="2 3">
                     <location>
-                        <placeName type="short">Ferdinand III</placeName>
-                        <placeName type="full">Corte de Ferdinand III of Castile</placeName>
+                        <placeName type="short">Fernando III</placeName>
+                        <placeName type="full">Corte de Fernando III de Castela</placeName>
                         <geo>37.765406,-3.790256</geo>
                     </location>
                 </place>
-                <place xml:id="haro" type="noble">
+                <place xml:id="haro" type="noble" n="3">
                     <location>
                         <placeName type="short">Lope Díaz de Haro</placeName>
                         <placeName type="full">Corte de Lope Díaz I de Haro</placeName>
                         <geo>42.6,-2.8</geo>
                     </location>
                 </place>
-                <place xml:id="meneses" type="noble">
+                <place xml:id="meneses" type="noble" n="3">
                     <location>
                         <placeName type="short">Telo Afonso de Meneses</placeName>
                         <placeName type="full">Corte de Telo Afonso de Meneses</placeName>
                         <geo>41.941667,-4.92</geo>
                     </location>
                 </place>
-                <place xml:id="bragança" type="noble">
+                <place xml:id="afonsX" type="royal" n="2 3">
                     <location>
-                        <placeName type="short">Bragança</placeName>
-                        <placeName type="full">Bragança</placeName>
-                        <geo>41.807517,-6.756857</geo>
+                        <placeName type="short">Afonso X</placeName>
+                        <placeName type="full">Corte de Afonso X, Rei de Castela e Leão e Galiza</placeName>
+                        <geo>37.377222,-5.986944</geo>
                     </location>
                 </place>
-                <place xml:id="afonsX" type="royal">
+                <place xml:id="afonsII" type="royal" n="1">
                     <location>
-                        <placeName type="short">Alfonso X</placeName>
-                        <placeName type="full">Corte de Alfonso X, King of Castile, Leon and
-                            Galicia</placeName>
-                        <geo>41.652032,-4.728216</geo>
-                    </location>
-                </place>
-                <place xml:id="afonsII" type="royal">
-                    <location>
-                        <placeName type="short">Alfonso II</placeName>
-                        <placeName type="full">Corte de Alfonso II of Aragon, King of Aragon and
-                            Conde de Barcelona</placeName>
+                        <placeName type="short">Afonso II</placeName>
+                        <placeName type="full">Afonso II de Aragão</placeName>
                         <geo>41.650192,-0.883533</geo>
                     </location>
                 </place>
 
-                <place xml:id="rodeiro" type="noble">
+                <place xml:id="rodeiro" type="noble" n="1 2">
                     <location>
                         <placeName type="short">Múnio de Rodeiro e Maior Peres</placeName>
                         <affiliation>Lima</affiliation>
@@ -182,64 +146,56 @@
                         <geo>42.65,-7.95</geo>
                     </location>
                 </place>
-                <place xml:id="afonsIII" type="royal">
+                <place xml:id="afonsIII" type="royal" n="2 3">
                     <location>
                         <placeName type="short">Afonso III</placeName>
-                        <placeName type="full">Corte de Afonso III, King of Portugal</placeName>
+                        <placeName type="full">Corte de Afonso III de Portugal</placeName>
                         <geo>40.26,-8.46</geo>
                     </location>
                 </place>
-                <place xml:id="sanchoII" type="royal">
+                <place xml:id="sanchoII" type="royal" n="3">
                     <location>
                         <placeName type="short">Sancho II</placeName>
-                        <placeName type="full">Corte de Sancho II, King of Portugal</placeName>
+                        <placeName type="full">Corte de Sancho II de Portugal</placeName>
                         <geo>40.25,-8.45</geo>
                     </location>
                 </place>
-                <place xml:id="serpa" type="noble">
+                <place xml:id="serpa" type="noble" n="3">
                     <location>
                         <placeName type="short">Fernado de la Serpa</placeName>
                         <placeName type="full">Corte de D. Fernado de la Serpa</placeName>
                         <geo>38.570833,-7.909444</geo>
                     </location>
                 </place>
-                <place xml:id="sousa" type="noble">
+                <place xml:id="sousa" type="noble" n="1 2 3">
                     <location>
-                        <placeName type="short">The Sousas</placeName>
-                        <placeName type="full">Corte de D. Gonçalo Garcia de Sousa</placeName>
+                        <placeName type="short">Os Sousas</placeName>
+                        <placeName type="full">Corte de D. Gonçalo Garcia de Sousa e família</placeName>
                         <geo>41.300088,-8.3028088</geo>
                     </location>
                 </place>
-                <place xml:id="sanchoIV" type="royal">
+                <place xml:id="sanchoIV" type="royal" n="2 3">
                     <location>
                         <placeName type="short">Sancho IV</placeName>
                         <placeName type="full">Corte de Sancho IV</placeName>
                         <geo>39.856667,-4.024444</geo>
                     </location>
                 </place>
-
-                <place xml:id="vigo" type="unknown">
+                <place xml:id="dinis" type="royal" n="3 4">
                     <location>
-                        <placeName type="short">Vigo</placeName>
-                        <placeName type="full">Vigo</placeName>
-                        <geo>42.223078,-8.731278</geo>
-                    </location>
-                </place>
-                <place xml:id="dinis" type="royal">
-                    <location>
-                        <placeName type="short">D. Dinis</placeName>
-                        <placeName type="full">Corte de King Denis of Portugal</placeName>
+                        <placeName type="short">Dom Dinis</placeName>
+                        <placeName type="full">Corte de D. Dinis de Portugal</placeName>
                         <geo>38.7167,-9.1334</geo>
                     </location>
                 </place>
-                <place xml:id="afonsIV" type="royal">
+                <place xml:id="afonsIV" type="royal" n="4">
                     <location>
                         <placeName type="short">Afonso IV</placeName>
                         <placeName type="full">Corte de Afonso IV</placeName>
                         <geo>38.716667,-9.133333</geo>
                     </location>
                 </place>
-                <place xml:id="lalim" type="noble">
+                <place xml:id="lalim" type="noble" n="4">
                     <location>
                         <placeName type="short">Conde de Barcelos</placeName>
 
@@ -247,18 +203,18 @@
                         <geo>41.033333,-7.816667</geo>
                     </location>
                 </place>
-                <place xml:id="afonsXI" type="royal">
+                <place xml:id="afonsXI" type="royal" n="4">
                     <location>
                         <placeName type="short">Alfonso XI</placeName>
                         <placeName type="full">Corte de Alfonso XI</placeName>
                         <geo>41.7,-4.8</geo>
                     </location>
                 </place>
-                <place xml:id="afonsIX" type="royal">
+                <place xml:id="afonsIX" type="royal" n="1 2">
                     <location>
-                        <placeName type="short">Alfonso IX</placeName>
-                        <placeName type="full">Corte de Alfonso IX of León</placeName>
-                        <geo>42.600636,-5.570956</geo>
+                        <placeName type="short">Afonso IX</placeName>
+                        <placeName type="full">Corte de Afonso IX de Leão e da Galiza</placeName>
+                        <geo>41.5,-5.75</geo>
                     </location>
                 </place>
                 <!--<place xml:id="infpedro" type="noble">
@@ -268,18 +224,11 @@
                         <geo>38.716667,-9.133333</geo>
                     </location>
                 </place>-->
-                <place xml:id="berenguer" type="noble">
+                <place xml:id="berenguer" type="noble" n="3">
                     <location>
                         <placeName type="short">Raimon Berenguer IV</placeName>
-                        <placeName type="full">Corte de Raimon Berenguer IV, Conde de
-                            Provence</placeName>
+                        <placeName type="full">Corte de Raimon Berenguer IV, Conde da Provença</placeName>
                         <geo>43.526304,5.445429</geo>
-                    </location>
-                </place>
-                <place xml:id="ribadavia">
-                    <location>
-                        <placeName>Ribadavia</placeName>
-                        <geo>42.288716,-8.144353</geo>
                     </location>
                 </place>
                 <place xml:id="compos">
@@ -289,33 +238,14 @@
                         <geo>42.880771,-8.541251</geo>
                     </location>
                 </place>
-                <place xml:id="fernIV"/>
+                <place xml:id="fernIV" n="3" type="royal">
+                    <location>
+                        <placeName type="short">Fernando IV</placeName>
+                        <placeName type="full">Corte de Fernando IV</placeName>
+                        <geo>41.65198,-4.72856</geo>
+                    </location>
+                </place>
             </listPlace>
-<listPerson>
-    <person xml:id="GonEan">
-        <persName>Gonçalo Eanes</persName>
-        <nationality key="gl"/>
-        <affiliation n="social" key="familia" corresp="#OsEan"/>
-    </person>
-    <person xml:id="guiomar">
-        <persName>Guiomar Rodriguez</persName>
-        <affiliation
-            key="familia" n="geo">Celanova
-            <geo>42.151712,-7.958399</geo></affiliation>
-    </person>
-    <person xml:id="constança">
-            <persName>Dona Constança de Rodeiro</persName>
-            <affiliation n="social" key="familia" corresp="#rodeiro"/>        
-    </person>
-    <person xml:id="JRom">
-        <persName>Johan Romeu de Lugo</persName>
-        <nationality key="gl"/>
-        <floruit period="3"/>
-        <affiliation n="geo" key="origem">Lugo
-            <geo>43.010338,-7.554869</geo></affiliation>
-        <affiliation n="social" key="literaria" corresp="#LoLias"/>
-    </person>
-</listPerson>
         </body>
     </text>
 </TEI>

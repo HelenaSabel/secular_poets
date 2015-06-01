@@ -131,6 +131,12 @@ div.transbox{
 }
 
 
+div.menu ul.menu {
+    padding-right:2%;
+    padding-left:2%;
+}
+
+
 div#menu{
     margin-top:0;
     background-color:#8b0000;
