@@ -1,0 +1,271 @@
+Node1;relaçom;período;Node2;tipo
+Abril Perez;mecenado;2;Os Sousas;noble
+Abril Perez;literaria;2;Bernal de Bonaval;trovador
+Afons' Eanes do Coton;mecenado;3;Afonso X;royal
+Afons' Eanes do Coton;mecenado;3;Fernando III;royal
+Afons' Eanes do Coton;literaria;3;Pero da Ponte;trovador
+Nuno Rodriguez de Candarei;mecenado;2;Fernando III;royal
+Nuno Rodriguez de Candarei;mecenado;2;Afonso X;royal
+Nuno Rodriguez de Candarei;mecenado;2;Sancho IV;royal
+Nuno Rodriguez de Candarei;mecenado;2;Rodrigo Gómez e Dona Maior;noble
+Vasco Fernandez Praga de Sandin;familia;2;Mogudos;noble
+Vasco Fernandez Praga de Sandin;mecenado;2;Os Soverosas;noble
+Johan Soarez Somesso;mecenado;2;Os Cabrera;noble
+Johan Soarez Somesso;mecenado;2;Martim Sanches;noble
+Johan Soarez Somesso;familia;2;Somesso;noble
+Fernan Rodriguez de Calheiros;mecenado;2;Os Travas;noble
+Fernan Rodriguez de Calheiros;politica;2;Gonçalo Eanes;noble
+Rodrigo Diaz de los Cameros;familia;1;Cameros;noble
+Rodrigo Diaz de los Cameros;familia;1;Guiomar Rodriguez;noble
+Rodrigo Diaz de los Cameros;mecenado;1;Os Travas;noble
+Johan Romeu de Lugo;literaria;3;Lopo Lias;trovador
+Martin Perez Alvin;familia;4;Johan Lobeira;trovador
+Martin Perez Alvin;politica;4;Sancho IV;royal
+Martin Perez Alvin;mecenado;4;Dom Dinis;royal
+Martin Perez Alvin;mecenado;4;Afonso IV;royal
+Pai Soarez de Taveirós;mecenado;2;Sancho I;royal
+Pai Soarez de Taveirós;mecenado;2;Dona Constança de Rodeiro;noble
+Pai Soarez de Taveirós;mecenado;2;Rodrigo Gómez e Dona Maior;noble
+Pai Soarez de Taveirós;mecenado;2;Os Cabrera;noble
+Pai Soarez de Taveirós;mecenado;2;Fernando III;royal
+Pai Soarez de Taveirós;familia;2;Pero Velho de Taveirós;trovador
+Alfonso Lopez de Baião;mecenado;3;Fernando III;royal
+Alfonso Lopez de Baião;mecenado;3;Os Sousas;noble
+Afonso Mendez de Besteiros;mecenado;3;Sancho II;royal
+Estevan Faian;mecenado;3;Afonso X;royal
+Estevan Faian;familia;3;Sarraça;noble
+Estevan Faian;familia;3;Somesso;noble
+Estevan Perez Froian;familia;3;Pereiras;noble
+Estevan Perez Froian;familia;3;Redondos;noble
+Estevan Perez Froian;mecenado;3;Sancho IV;royal
+Estevan Perez Froian;mecenado;3;Fernando IV;royal
+Estevan Perez Froian;literaria;3;Airas Perez Vuitoron;trovador
+Men Rodriguez Tenoiro;mecenado;3;Afonso X;royal
+Men Rodriguez Tenoiro;literaria;3;Johan Vasquis de Talaveira;trovador
+Men Rodriguez Tenoiro;literaria;3;Pai Gomez Charinho;trovador
+Fernan Padron;mecenado;2;Os Cabrera;noble
+Martin Moxa;mecenado;3;Afonso X;royal
+Johan Soarez de Pavia ;mecenado;1;Afonso II;royal
+Johan Soarez de Pavia ;mecenado;1;Os Velaz;noble
+Johan Soarez de Pavia ;mecenado;1;Os Cabrera;noble
+Johan Vello de Pedrogaez;familia;3;Velho;noble
+Johan Vello de Pedrogaez;mecenado;3;Dom Dinis;royal
+Martin Soarez;familia;3;Garcia Soarez;noble
+Martin Soarez;mecenado;3;Sancho II;royal
+Martin Soarez;mecenado;3;Afonso X;royal
+Airas Fernandes "Carpancho";mecenado;1;Dona Constança de Rodeiro;noble
+Nuno Fernandez Torneol;mecenado;3;Afonso X;royal
+Fernan Garcia Esgaravunha;mecenado;2;Os Sousas;noble
+Fernan Garcia Esgaravunha;mecenado;2;Fernando III;royal
+Fernan Garcia Esgaravunha;mecenado;2;Afonso III;royal
+Roi Queimado;mecenado;3;Os Sousas;noble
+Roi Queimado;mecenado;3;Fernando III;royal
+Roi Queimado;mecenado;3;Afonso X;royal
+Vasco Gil;mecenado;3;Os Soverosas;noble
+Vasco Gil;mecenado;3;Sancho II;royal
+Vasco Gil;mecenado;3;Fernando III;royal
+Vasco Gil;mecenado;3;Afonso X;royal
+Johan Soarez Coelho;mecenado;3;Fernado de la Serpa;noble
+Johan Soarez Coelho;mecenado;3;Raimon Berenguer IV;noble
+Johan Soarez Coelho;mecenado;3;Fernando III;royal
+Johan Soarez Coelho;mecenado;3;Afonso III;royal
+Roi Paez de Ribela;mecenado;3;Afonso X;royal
+Afonso Paez de Braga;politica;3;Johan Mendiz de Briteiros;trovador
+Afonso Paez de Braga;politica;3;Men Rodriguez de Briteiros;trovador
+Afonso Paez de Braga;mecenado;3;Afonso III;royal
+Afonso Paez de Braga;mecenado;3;Dom Dinis;royal
+Johan Lopez de Ulhoa;mecenado;3;Rodrigo Gómez e Dona Maior;noble
+Fernan Gonçalvez de Seabra;mecenado;3;Afonso III;royal
+Pero Gomez Barroso;mecenado;3;Afonso X;royal
+Pero Gonçalvez de Porto Carreiro;familia;3;Estevan Reimondo;trovador
+Pero Gonçalvez de Porto Carreiro;mecenado;3;Afonso X;royal
+Pero Mafaldo;mecenado;3;Os Sousas;noble
+Pero Mendiz da Fonseca;mecenado;3;Johan Perez d' Aboim;trovador
+Pero Mendiz da Fonseca;mecenado;3;Afonso III;royal
+Johan Baveca;mecenado;3;Rodrigo Gómez e Dona Maior;noble
+Johan Baveca;mecenado;3;Afonso X;royal
+Johan Baveca;literaria;3;Airas Perez Vuitoron;trovador
+Johan Baveca;literaria;3;Gonçal' Eanes do Vinhal;trovador
+Johan Baveca;literaria;3;Pedr'Amigo de Sevilha;trovador
+Johan Baveca;literaria;3;Pero Garcia d' Ambroa;trovador
+Gonçal' Eanes do Vinhal;mecenado;3;Sancho II;royal
+Gonçal' Eanes do Vinhal;mecenado;3;Afonso X;royal
+Gonçal' Eanes do Vinhal;literaria;3;Johan Baveca;trovador
+Gonçal' Eanes do Vinhal;literaria;3;Pedr'Amigo de Sevilha;trovador
+Gonçal' Eanes do Vinhal;literaria;3;Pero Garcia d' Ambroa;trovador
+Gonçal' Eanes do Vinhal;literaria;3;Pero Gomez Barroso;trovador
+Gonçal' Eanes do Vinhal;literaria;3;Afons' Eanes do Coton;trovador
+Gonçal' Eanes do Vinhal;politica;3;Pai Gomez Charinho;trovador
+Gonçal' Eanes do Vinhal;politica;3;Gomez Garcia;trovador
+Johan Garcia de Guilhade;mecenado;3;Os Sousas;noble
+Johan Garcia de Guilhade;mecenado;3;Fernando III;royal
+Johan Garcia de Guilhade;mecenado;3;Afonso X;royal
+Johan Garcia de Guilhade;mecenado;3;Afonso III;royal
+Johan Lobeira;familia;3;Martin Perez Alvin;trovador
+Johan Lobeira;mecenado;3;Afonso III;royal
+Johan Vasquis de Talaveira;mecenado;3;Afonso X;royal
+Johan Vasquis de Talaveira;mecenado;3;Sancho IV;royal
+Pero da Ponte;mecenado;3;Fernando III;royal
+Pero da Ponte;mecenado;3;Afonso X;royal
+Pero da Ponte;mecenado;3;Lope Díaz de Haro;noble
+Pero da Ponte;mecenado;3;Telo Afonso de Meneses;noble
+Johan Perez d' Aboim;mecenado;3;Afonso III;royal
+Johan Perez d' Aboim;mecenado;3;Dom Dinis;royal
+Johan de Gaia;familia;4;Condes da Maia;noble
+Johan de Gaia;mecenado;4;Dom Dinis;royal
+Johan de Gaia;literaria;4;Pedro de Portugal, Conde de Barcelos;trovador
+Johan de Gaia;literaria;4;Martin Moxa;trovador
+Pai Gomez Charinho;mecenado;3;Afonso X;royal
+Pai Gomez Charinho;mecenado;3;Sancho IV;royal
+Pai Gomez Charinho;politica;3;Abade de Valladolid;noble
+Pai Gomez Charinho;politica;3;Estevan Perez Froian;trovador
+Fernan Velho;mecenado;3;Afonso X;royal
+Gil Peres Conde;familia;3;Rodrigu' Eanes de Vasconcelos;trovador
+Gil Peres Conde;familia;3;Johan Soarez Coelho;trovador
+Gil Peres Conde;mecenado;3;Afonso X;royal
+Gil Peres Conde;mecenado;3;Sancho IV;royal
+Gil Sanchez;mecenado;;Sancho I;royal
+Gil Sanchez;familia;2;Maria Paez Ribeira (Ribeirinha);noble
+Bonifaci Calvo;mecenado;3;Afonso X;royal
+Roi Fernandiz de Santiago;mecenado;3;Afonso X;royal
+Roi Martinz d' Ulveira;mecenado;3;Dom Dinis;royal
+Roi Martinz d' Ulveira;familia;3;Martin Perez Alvin;trovador
+Roi Martinz do Casal;mecenado;3;Dom Dinis;royal
+Vasco Martins de Resende;mecenado;4;Dom Dinis;royal
+Vasco Martins de Resende;mecenado;4;Afonso IV;royal
+Vasco Martins de Resende;mecenado;4;Afonso Sanchez;noble
+Vasco Martins de Resende;mecenado;4;Pimentel;noble
+Fernand' Esquio;mecenado;3;Rodrigo Gómez e Dona Maior;noble
+Fernand' Esquio;politica;3;Os Travas;noble
+Fernan Fernandez Cogominho;familia;3;Guedões;noble
+Fernan Fernandez Cogominho;mecenado;3;Afonso III;royal
+Fernan Figueira;mecenado;3;Afonso III;royal
+Pedro de Portugal, Conde de Barcelos;mecenado;4;Dom Dinis;royal
+Pedro de Portugal, Conde de Barcelos;mecenado;4;Alfonso XI;royal
+Pedro de Portugal, Conde de Barcelos;mecenado;4;Dom Dinis;royal
+Pedro de Portugal, Conde de Barcelos;mecenado;4;Conde de Barcelos;noble
+Pedr'Amigo de Sevilha;mecenado;3;Afonso X;royal
+Pedr'Amigo de Sevilha;politica;3;Conde de Barcelos;noble
+Estevan da Guarda;mecenado;4;Dom Dinis;royal
+Estevan da Guarda;mecenado;4;Conde de Barcelos;noble
+Estevan Reimondo;familia;3;Johan Perez d' Aboim;trovador
+Estevan Reimondo;familia;3;Pero Gonçalvez de Porto Carreiro;trovador
+Estevan Reimondo;mecenado;3;Afonso III;royal
+Estevan Reimondo;mecenado;3;Dom Dinis;royal
+Johan, jograr morador en León;mecenado;4;Dom Dinis;royal
+Johan, jograr morador en León;mecenado;4;Conde de Barcelos;noble
+Afonso Sanchez;mecenado;4;Dom Dinis;royal
+Estevan Coelho;mecenado;4;Dom Dinis;royal
+Garcia Mendiz d' Eixo;mecenado;1;Sancho I;royal
+Garcia Mendiz d' Eixo;mecenado;1;Afonso IX;royal
+Garcia Mendiz d' Eixo;mecenado;1;Afonso II;royal
+Garcia Mendiz d' Eixo;mecenado;1;Os Sousas;noble
+Garcia Mendiz d' Eixo;familia;1;Gonçalo Garcia;trovador
+Garcia Mendiz d' Eixo;familia;1;Fernan Garcia Esgaravunha;trovador
+Pedro Rodriguez da Palmeira;mecenado;1;Os Travas;noble
+Gonçalo Garcia;familia;2;Garcia Mendiz d' Eixo;trovador
+Gonçalo Garcia;familia;2;Sousa;noble
+Gonçalo Garcia;mecenado;2;Afonso III;royal
+Juião Bolseiro;familia;2;D. Cotalaia;noble
+Juião Bolseiro;mecenado;2;Afonso IX;royal
+Juião Bolseiro;mecenado;2;Os Velaz;noble
+Juião Bolseiro;politica;2;Osoir' Anes;trovador
+Fernan Paez de Tamallancos;familia;2;Os Travas;noble
+Fernan Paez de Tamallancos;familia;2;Celanovas;noble
+Fernan Paez de Tamallancos;mecenado;2;Afonso IX;royal
+Lopo Lias;literaria;2;Airas Moniz;trovador
+Lopo Lias;mecenado;2;Afonso IX;royal
+Airas Moniz;familia;2;Diego Moniz;noble
+Airas Moniz;mecenado;2;Afonso X;royal
+Pai da Cana;politica;3;Gomez Garcia;trovador
+Pai da Cana;politica;3;Roi Fernandiz de Santiago;trovador
+Pai da Cana;mecenado;3;Afonso X;royal
+Nun´Eanes Cêrzeo;mecenado;3;Afonso X;royal
+Nun´Eanes Cêrzeo;mecenado;3;Fernando III;royal
+Nuno (Monio) Fernandez de Mirapeixe;mecenado;2;Rodrigo Gómez e Dona Maior;noble
+Nuno (Monio) Fernandez de Mirapeixe;mecenado;2;Cameros;noble
+Bernal de Bonaval;literaria;2;Abril Perez;trovador
+Bernal de Bonaval;literaria;2;Johan Baveca;trovador
+Bernal de Bonaval;mecenado;2;Os Sousas;noble
+Afonso Soarez Sarraça;familia;2;Fornelos;noble
+Afonso Soarez Sarraça;mecenado;2;Afonso X;royal
+Pero Velho de Taveirós;mecenado;2;Rodrigo Gómez e Dona Maior;noble
+Pero Velho de Taveirós;mecenado;2;Sancho I;royal
+Rodrigu' Eanes d' Alvares;familia;3;Velho;noble
+Rodrigu' Eanes d' Alvares;mecenado;3;Afonso III;royal
+Rodrigu' Eanes de Vasconcelos;familia;3;Johan Soarez Coelho;trovador                    
+Rodrigu' Eanes Redondo;mecenado;3;Sancho II;royal
+Rodrigu' Eanes Redondo;mecenado;3;Sancho IV;royal
+Rodrigu' Eanes Redondo;familia;3;Velho;noble
+Rodrigu' Eanes Redondo;politica;3;Men Rodriguez de Briteiros;trovador
+Roi Gomez de Briteiros;familia;;Men Rodriguez de Briteiros;trovador
+Roi Gomez de Briteiros;familia;2;Os Sousas;noble
+Roi Gomez de Briteiros;mecenado;2;Afonso IX;royal
+Roi Gomez de Briteiros;mecenado;2;Afonso III;royal
+Men Rodriguez de Briteiros;familia;3;Johan Mendiz de Briteiros;trovador
+Men Rodriguez de Briteiros;mecenado;3;Afonso III;royal
+Men Rodriguez de Briteiros;mecenado;3;Sancho IV;royal
+Men Rodriguez de Briteiros;mecenado;3;Dom Dinis;royal
+Johan Mendiz de Briteiros;mecenado;4;Dom Dinis;royal
+Pero Garcia d' Ambroa;mecenado;2;Múnio de Rodeiro e Maior Peres;noble
+Pero Garcia d' Ambroa;mecenado;2;Rodrigo Gómez e Dona Maior;noble
+Pero Garcia d' Ambroa;mecenado;2;Fernando III;royal
+Pero Garcia d' Ambroa;literaria;2;Pero d'Armea;trovador
+Pero Garcia d' Ambroa;mecenado;2;Afonso X;royal
+Pero d'Armea;mecenado;3;Rodrigo Gómez e Dona Maior;noble
+Pero d'Armea;literaria;3;Pero Garcia d' Ambroa;trovador
+Pero d'Armea;literaria;3;Pero Garcia Burgalês;trovador
+Pero d'Armea;literaria;3;Roi Paez de Ribela;trovador
+Johan Airas;mecenado;3;Afonso X;royal
+Johan Airas;mecenado;3;Sancho IV;royal
+Johan Airas;literaria;3;Johan Vasquis de Talaveira;trovador
+Johan Airas;literaria;3;Per' Eanes Marinho;trovador
+Per' Eanes Marinho;familia;3;Marinho;noble
+Per' Eanes Marinho;familia;3;Martin Eanes Marinho;noble
+Per' Eanes Marinho;mecenado;3;Afonso X;royal
+Per' Eanes Marinho;mecenado;3;Sancho IV;royal
+Per' Eanes Marinho;mecenado;3;Fernando IV;royal
+Per' Eanes Marinho;literaria;3;Johan Airas;trovador
+Per' Eanes Marinho;literaria;3;Johan Vasquis de Talaveira;trovador
+Fernan Soarez de Quinhones;mecenado;3;Afonso X;royal
+Fernan Soarez de Quinhones;mecenado;3;Sancho IV;royal
+Pero Goterrez;mecenado;3;Afonso X;royal
+Caldeiron;mecenado;3;Sancho IV;royal
+Caldeiron;mecenado;3;Dom Dinis;royal
+Picandon;mecenado;3;Fernando III;royal
+Picandon;mecenado;3;Raimon Berenguer IV;noble
+Lourenzo;mecenado;3;Afonso III;royal
+Lourenzo;mecenado;3;Afonso X;royal
+Arnaldo;mecenado;3;Raimon Berenguer IV;noble
+Arnaldo;mecenado;3;Afonso X;royal
+Afonso Fernandez Cebolhilha;mecenado;3;Sancho IV;royal
+Airas Paez;mecenado;3;Sancho IV;royal
+Airas Perez Vuitoron;literaria;3;Fernando III;royal
+Airas Perez Vuitoron;literaria;3;Johan Soarez Coelho;trovador
+Airas Perez Vuitoron;literaria;3;Bernal de Bonaval;trovador
+Airas Perez Vuitoron;literaria;3;Pero Garcia Burgalês;trovador
+Airas Perez Vuitoron;literaria;3;Johan Garcia de Guilhade;trovador
+Airas Perez Vuitoron;literaria;3;Pero da Ponte;trovador
+Airas Perez Vuitoron;literaria;3;Estevan Faian;trovador
+Airas Perez Vuitoron;literaria;3;Vasco Perez Pardal;noble
+Pero Garcia Burgalês;mecenado;3;Afonso X;royal
+Gomez Garcia;mecenado;3;Sancho IV;royal
+Johan Velaz;literaria;1;Marcabru;trovador
+Johan Velaz;familia;1;Os Cabrera;noble
+Johan Velaz;familia;1;Os Velaz;noble
+Johan Velaz;familia;1;Maria Fernandes de Trava;noble
+Johan Velaz;familia;1;Os Travas;noble                    
+Johan Velaz;mecenado;1;Afonso IX;royal
+Osoir' Anes;mecenado;1;Os Travas;noble
+Osoir' Anes;mecenado;1;Os Cabrera;noble
+Osoir' Anes;familia;1;Os Travas;noble
+Osoir' Anes;familia;1;Limas;noble
+Osoir' Anes;familia;1;Nóvoas;noble
+Osoir' Anes;mecenado;1;Múnio de Rodeiro e Maior Peres;noble
+Osoir' Anes;mecenado;1;Afonso IX;royal
+Osoir' Anes;familia;1;Gonçalo Eanes;noble
+Airas Oares;familia;1;Osoir' Anes;trovador
+Airas Oares;familia;1;Pero Pais Bazaco;trovador
+Airas Oares;mecenado;1;Os Travas;noble
+Airas Oares;familia;1;Limas;noble
+Pero Pais Bazaco;mecenado;2;Múnio de Rodeiro e Maior Peres;noble

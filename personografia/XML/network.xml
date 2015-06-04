@@ -271,7 +271,6 @@
                     <occupation key="tr"/>
                     <socecStatus key="kn"/>
                     <floruit from="1240" to="1260" period="3"/>
-                    <affiliation key="mecenado" cert="low" n="social" corresp="#jaen"/>
                     <affiliation key="mecenado" cert="medium" n="social" corresp="#afonsX"/>
                     <affiliation n="geo" key="origem">Faian (Ribadavia)
                             <geo>43.475226,-7.485082</geo></affiliation>
@@ -1396,7 +1395,7 @@ Nuno Eanes Cêrzeo	pessoa	política	política	Fernando III
                 <person xml:id="PGtrz">
                     <persName>Pero Goterrez</persName>
                     <nationality key="leo" cert="medium"/>
-                    <affiliation n="geo" key="origem" cert="unknown">León
+                    <affiliation n="geo" key="origem" cert="unknown">Leão
                         <geo>42.7,-5.57</geo>
                     </affiliation>
                     <socecStatus key="kn"/>
@@ -1409,7 +1408,7 @@ Nuno Eanes Cêrzeo	pessoa	política	política	Fernando III
                 <person xml:id="Cald">
                     <persName>Caldeiron</persName>
                     <nationality key="arag" cert="medium"/>
-                    <affiliation n="geo" key="origem" cert="unknown">Aragón
+                    <affiliation n="geo" key="origem" cert="unknown">Aragão
                         <geo>42,-0.9</geo>
                     </affiliation>
                     <socecStatus key="nb"/>
@@ -1452,7 +1451,7 @@ Nuno Eanes Cêrzeo	pessoa	política	política	Fernando III
                 <person xml:id="Arn">
                     <persName>Arnaldo</persName>
                     <nationality key="occ" cert="medium"/>
-                    <affiliation n="geo" key="origem" cert="lown">Tolosa
+                    <affiliation n="geo" key="origem" cert="low">Tolosa
                         <geo>43.6045,1.444</geo></affiliation>
                     <socecStatus key="unknown"/>
                     <occupation key="tr"/>
@@ -1566,7 +1565,7 @@ Nuno Eanes Cêrzeo	pessoa	política	política	Fernando III
                     <!--<affiliation n="predio">Mosteiro de S. Leonardo de Alba de Tormes</affiliation>
                     <affiliation n="predio">Mosteiro de Meira <geo>43.213056, -7.291139</geo>
                     </affiliation>-->
-                    <affiliation key="familia" n="social">Maria Fernandes de Traba</affiliation>
+                    <affiliation key="familia" n="social">Maria Fernandes de Trava</affiliation>
                     <affiliation key="familia" n="social" corresp="#traba"/>                    
                    <!-- <affiliation n="predio">Mosteiro de San Tirso
                         <geo>42.3708,-5.0325</geo></affiliation>
@@ -1588,7 +1587,6 @@ Nuno Eanes Cêrzeo	pessoa	política	política	Fernando III
                 </person>
                 <person xml:id="OsEan">
                     <persName>Osoir' Anes</persName>
-                    <floruit period="2"/>
                     <nationality key="gl" cert="medium"/>
                     <socecStatus key="nb"/>
                     <occupation key="tr"/>

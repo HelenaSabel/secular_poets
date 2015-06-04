@@ -45,7 +45,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -118,7 +118,7 @@
             </LineStyle>
          </Style>
          <LineString>
-            <coordinates>-7.836350,43.162582,100  -8.349892,41.250195,100</coordinates>
+            <coordinates>-7.836350,43.162582,100 -8.463789,42.206017,100</coordinates>
          </LineString>
       </Placemark>
                     <Placemark>
@@ -128,7 +128,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -908,7 +908,7 @@
             </IconStyle>
          </Style>
          <Point>
-            <coordinates> -8.349892,41.250195,100</coordinates>
+            <coordinates>-8.463789,42.206017,100</coordinates>
          </Point>
       </Placemark>
       <Placemark>

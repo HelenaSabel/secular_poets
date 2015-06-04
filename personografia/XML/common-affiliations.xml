@@ -67,7 +67,7 @@
                     <location>
                         <placeName type="short">Os Soverosas</placeName>
                         <placeName type="full">Corte da família Soverosas</placeName>
-                        <geo>41.250195, -8.349892</geo>
+                        <geo>42.206017,-8.463789</geo>
                     </location>
                 </place>
                 <place xml:id="sanchoI" type="royal" n="1 2">
@@ -141,7 +141,6 @@
                     <location>
                         <placeName type="short">Múnio de Rodeiro e Maior Peres</placeName>
                         <affiliation>Lima</affiliation>
-                        <affiliation></affiliation>
                         <placeName type="full">Círculo de D. Múnio de Rodeiro e de Dona Maior Peres</placeName>
                         <geo>42.65,-7.95</geo>
                     </location>

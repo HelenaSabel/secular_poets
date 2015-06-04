@@ -174,18 +174,6 @@
             </LineStyle>
          </Style>
          <LineString>
-            <coordinates>-5.6,42.5,100 -3.790256,37.765406,100</coordinates>
-         </LineString>
-      </Placemark>
-                    <Placemark>
-         <name>Trajeto de Estevan Faian</name>
-         <Style>
-            <LineStyle>
-               <color>50000000</color>
-               <width>4</width>
-            </LineStyle>
-         </Style>
-         <LineString>
             <coordinates>-5.6,42.5,100 -5.986944,37.377222,100</coordinates>
          </LineString>
       </Placemark>
@@ -529,7 +517,7 @@
             </LineStyle>
          </Style>
          <LineString>
-            <coordinates>-8.245,41.35,100  -8.349892,41.250195,100</coordinates>
+            <coordinates>-8.245,41.35,100 -8.463789,42.206017,100</coordinates>
          </LineString>
       </Placemark>
                     <Placemark>
@@ -932,7 +920,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -2077,12 +2065,12 @@
                     
                     <Placemark>
          <name>Pero Goterrez</name>
-         <description>León
+         <description>Leão
                         </description>
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -2111,12 +2099,12 @@
                     
                     <Placemark>
          <name>Caldeiron</name>
-         <description>Aragón
+         <description>Aragão
                         </description>
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -2162,7 +2150,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -2208,7 +2196,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -2254,7 +2242,7 @@
          <Style>
             <IconStyle>
                <Icon>
-                  <href>http://www.obdurodon.org/~heb43/images/poet3.png</href>
+                  <href>http://www.obdurodon.org/~heb43/images/poet-dub.png</href>
                </Icon>
             </IconStyle>
          </Style>
@@ -2457,7 +2445,7 @@
             </IconStyle>
          </Style>
          <Point>
-            <coordinates> -8.349892,41.250195,100</coordinates>
+            <coordinates>-8.463789,42.206017,100</coordinates>
          </Point>
       </Placemark>
       <Placemark>
