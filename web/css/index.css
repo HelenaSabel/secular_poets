@@ -1,3 +1,9 @@
+@media projection {
+    body {background-color: #F0F0F0;}
+    .body {background-color: silver;}
+    
+}
+
 body{
     background-color:silver;
     margin:2% 4% 4%;
